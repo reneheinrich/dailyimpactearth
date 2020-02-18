@@ -1,0 +1,314 @@
+@import url('https://fonts.googleapis.com/css?family=Karla|Arbutus Slab');
+
+body {
+    background-color: black;
+    color: #ffffff;
+    font-weight: 300;
+    font-family: Karla;
+}
+h1, h2, h3 {
+    color: #000000;
+    font-weight: 600;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+h1{
+    color:white;
+    float: left;
+    position: relative;
+    font-size: 2.5em;
+    margin: 30px 0px;
+    line-height: 1.1em;
+    font-family: 'Arbutus Slab';
+    margin-left: -20px;
+    font-size: calc(24px + 1.5vh);
+    font-weight: 100;
+}
+
+h2 {
+    font-size: 20pt;
+    margin-bottom: 10pt;
+    color: white;
+}
+
+h3 {
+    font-size: 14pt;
+    margin-bottom: 10pt;
+}
+
+p {
+    line-height: 1.3;
+}
+
+b {
+    font-weight: 700;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none !important;
+}
+
+#navi {
+    position: fixed;
+    display: none;
+    height: 100vh;
+    width: 40px;
+    background-color:rgba(0, 0, 0, 0.8);
+    z-index: 10000;
+}
+
+#navicontainer {
+    display: flex;
+    flex-direction: column;
+}
+
+#navicontainer svg{
+    width: 70%;
+    margin-left: 15%;
+    height: auto;
+    top: 50%;
+    margin-top: -14px;
+    position: relative;
+}
+
+.nav-visible {
+    display: flex;
+}
+.nav-highlight {
+    background-color:rgba(25, 112, 55, 0.8);
+}
+
+#navicontainer a {
+    display: inline-block;
+    height: 10vh;
+}
+
+#site {
+    width: 100vw;
+    color: #000000;
+    background-color: black;
+    min-height: 100vh;
+}
+
+.contentcontainer {
+    padding: 10vh 10vw;
+    padding-left: 80px;
+    width: 100%;
+    height: 100%;
+}
+
+.contentcontainer h2{
+    font-size: calc(22px + 1.5vh);
+    color: white;
+    font-family: 'Arbutus Slab';
+    margin-bottom: 50px;
+    margin-top: -50px;
+}
+
+.darkbg {
+    background-color: #00000077;
+    height: 100%;
+    width: 100%;
+}
+
+#hero {
+    background-image: url('../background.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.start-day{
+    color:white;
+    float: left;
+    font-size: 1.1em;
+    margin: 10px 0px;
+    position: relative;
+    width: 100%;
+    text-align: center;
+    padding: 30px 30px 10px 30px;
+    line-height: 1.5em;
+    margin-left: -20px;
+}
+
+#morning{
+    background-image: url('https://images.pexels.com/photos/2583836/pexels-photo-2583836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#commute {
+    background-image: url('https://media-public.canva.com/R2_q4/MADyRsR2_q4/1/s.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#work{
+    background-image: url('https://media-public.canva.com/MADCdRXXrbM/2/0/screen-2.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#break {
+    background-image: url('https://media-public.canva.com/8aqNY/MADyRD8aqNY/1/s.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#groceries {
+    background-image: url('https://media-public.canva.com/fQFII/MADwWqfQFII/1/s.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#sport {
+    background-image: url('https://media-public.canva.com/MADGye9mbjI/4/screen.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#drinks {
+    background-image: url('https://images.pexels.com/photos/3727117/pexels-photo-3727117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.secti{
+    font-size: 3em;
+    color: white;
+    font-family: 'Patua One', cursive;
+    margin-bottom: 50px;
+}
+
+.stat{
+    width: 90%;
+    color: white;
+    display: flex;
+    flex-direction: row;
+}
+
+.stat-num{
+    font-size: 4em;
+    width: auto;
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+.stat-text{
+    font-size: 1em;
+    width: auto;
+}
+
+.product-slider{
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 50px;
+    padding: 30px;
+}
+
+.owl-carousel{
+    width: calc(100% + 60px);
+    margin-left: -20px;
+}
+
+.owl-carousel .product{
+    background-color:rgba(255, 255, 255, 0.9);
+    width: 250px;
+    height: auto;
+    border-radius: 5px;
+    margin-top: 50px;
+    padding: 20px;
+    color: black;
+    cursor: pointer !important;
+    font-size: calc(1px + 1.5vh);
+    font-weight: 300;
+}
+
+.owl-carousel .product .title{
+    font-size: calc(4px + 1.5vh);
+    color: black;
+    margin-bottom: 8px;
+}
+
+.owl-carousel .product img{
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.logo{
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    margin-left: -20px;
+    margin-top:-50px;
+    margin-bottom: 20px;
+}
+
+.logo svg{
+    width: 50px;
+}
+
+.logo span{
+    color: white;
+    font-size: calc(14px + 1.5vh);
+    height: 50px;
+    line-height: 50px;
+    margin-left: 10px;
+}
+
+.fact{
+    color: white;
+    font-size: calc(16px + 1.5vh);
+    word-wrap: break-word;
+    hyphens: auto;
+}
+
+.cta-products{
+    color: white;
+    font-size: calc(3px + 1.5vh);
+    margin-top: 40px;
+}
+
+#hero .sharemenu{
+    width: 50px;
+    left: 50%;
+    margin-left: -25px;
+    bottom:auto;
+    position: relative;
+}
+
+.sharemenu{
+    width: 100%;
+    bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    right: 20px;
+    flex-flow: row-reverse;
+}
+
+.sharemenu img{
+    height: 30px;
+}
+
+.sharemenu .fb{
+    height: 22px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.sharemenu .whats{
+    height: 34px;
+    margin-top: -1px;
+}
+
+.graph{
+    margin-top: 20px;
+    margin-left: -20px;
+}
