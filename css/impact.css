@@ -350,6 +350,6 @@ a:hover, a:visited, a:link, a:active
     }
 
     .logo, h2{
-        margin-top: 20px !important;
+        margin-top: 0px !important;
     }
 }
