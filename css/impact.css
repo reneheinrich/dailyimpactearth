@@ -219,6 +219,7 @@ a:hover, a:visited, a:link, a:active
 
 .owl-carousel.owl-drag .owl-item{
     display: flex;
+    margin-top: 50px;
 }
 
 .owl-carousel .product{
@@ -226,7 +227,6 @@ a:hover, a:visited, a:link, a:active
     width: 250px;
     height: auto;
     border-radius: 5px;
-    margin-top: 50px;
     padding: 20px;
     color: black;
     cursor: pointer !important;
