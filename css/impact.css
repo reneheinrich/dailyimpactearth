@@ -217,6 +217,11 @@ a:hover, a:visited, a:link, a:active
     margin-left: -20px;
 }
 
+.owl-carousel .owl-stage{
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .owl-carousel.owl-drag .owl-item{
     display: flex;
     margin-top: 50px;
