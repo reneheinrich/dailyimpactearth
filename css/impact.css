@@ -327,17 +327,15 @@ a:hover, a:visited, a:link, a:active
 #commute .graph {
     width: 70vw;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (orientation: landscape)
 	#commute .graph{
 		width: 300px;
     }
     
     #groceries .graph{
 		width: 300px;
-	}
-}
-
-@media only screen and (min-width: 1200px) {
+    }
+    
 	.contentcontainer{
         padding-left: 0px;
         width: 1200px;
