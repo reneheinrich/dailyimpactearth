@@ -336,3 +336,21 @@ a:hover, a:visited, a:link, a:active
 		width: 300px;
 	}
 }
+
+@media only screen and (min-width: 1200px) {
+	.contentcontainer{
+        padding-left: 0px;
+        width: 1200px;
+        left: 50%;
+        margin-left: -600px;
+        position: relative;
+    }
+
+    .logo, h1, .start-day, #hero .sharemenu{
+        margin-left: 0;
+    }
+
+    .logo{
+        margin-top: 50px;
+    }
+}
