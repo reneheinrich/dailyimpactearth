@@ -350,7 +350,7 @@ a:hover, a:visited, a:link, a:active
     }
 
     #hero .sharemenu{
-        margin-left:0;
+        margin-left:0!important;
     }
 
     .logo, h2{
