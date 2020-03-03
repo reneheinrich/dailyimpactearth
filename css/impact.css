@@ -339,8 +339,7 @@ a:hover, a:visited, a:link, a:active
 	.contentcontainer{
         padding-left: 0px;
         width: 80%;
-        margin-left: auto;
-        display: flex;
+        margin: auto;
         position: relative;
         padding-right: 0;
     }
