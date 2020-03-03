@@ -317,7 +317,7 @@ a:hover, a:visited, a:link, a:active
     width: 70vw;
 }
 @media only screen and (min-width: 768px) {
-	#commute .graph {
+	#commute .graph, #groceries .graph {
 		width: 300px;
 	}
 }
