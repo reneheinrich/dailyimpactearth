@@ -352,6 +352,6 @@ a:hover, a:visited, a:link, a:active
     }
 
     .logo, h2{
-        margin-top: 50px;
+        margin-top: 50px !important;
     }
 }
