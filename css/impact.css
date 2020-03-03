@@ -228,6 +228,8 @@ a:hover, a:visited, a:link, a:active
     cursor: pointer !important;
     font-size: calc(1px + 1.5vh);
     font-weight: 300;
+    text-overflow: ellipsis;
+    height: 234px;
 }
 
 .owl-carousel .product .title{
