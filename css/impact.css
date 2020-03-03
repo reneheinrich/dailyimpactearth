@@ -344,6 +344,7 @@ a:hover, a:visited, a:link, a:active
         left: 50%;
         margin-left: -600px;
         position: relative;
+        padding-right: 0;
     }
 
     .logo, h1, .start-day, #hero .sharemenu{
