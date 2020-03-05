@@ -83,6 +83,13 @@ a:hover, a:visited, a:link, a:active
 height: 20px!important;
 }
 
+.small-nav img{
+    width: 5px;
+    display: flex;
+    margin: auto;
+    margin-top: 5px;
+}
+
 .nav-highlight {
     background-color:rgba(25, 112, 55, 0.8);
 }
