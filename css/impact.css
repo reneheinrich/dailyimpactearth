@@ -78,6 +78,11 @@ a:hover, a:visited, a:link, a:active
 .nav-visible {
     display: flex;
 }
+
+.small-nav{
+height: 30px;
+}
+
 .nav-highlight {
     background-color:rgba(25, 112, 55, 0.8);
 }
