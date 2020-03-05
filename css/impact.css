@@ -141,6 +141,12 @@ a:hover, a:visited, a:link, a:active
     background-position: center;
     background-repeat: no-repeat;
 }
+#info{
+    background-image: url('https://images.pexels.com/photos/aerial-photo-of-mountain-surrounded-by-fog-733174');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 #commute {
     background-image: url('https://media-public.canva.com/R2_q4/MADyRsR2_q4/1/s.jpg');
     background-size: cover;
