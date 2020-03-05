@@ -80,7 +80,7 @@ a:hover, a:visited, a:link, a:active
 }
 
 .small-nav{
-height: 30px;
+height: 20px!important;
 }
 
 .nav-highlight {
