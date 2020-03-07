@@ -322,6 +322,11 @@ height: 20px!important;
     flex-flow: row-reverse;
 }
 
+.fa-twitter{
+    color:white;
+    font-size: 1.7em;
+}
+
 .sharemenu img{
     height: 30px;
 }
