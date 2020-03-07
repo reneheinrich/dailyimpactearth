@@ -325,6 +325,7 @@ height: 20px!important;
 .fa-twitter, .fa-facebook-square, .fa-whatsapp-square{
     color:white;
     font-size: 1.6em;
+    margin: 0px 5px;
 }
 
 .sharemenu img{
