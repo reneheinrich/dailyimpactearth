@@ -322,9 +322,9 @@ height: 20px!important;
     flex-flow: row-reverse;
 }
 
-.fa-twitter{
+.fa-twitter, .fa-facebook-square, .fa-whatsapp-square{
     color:white;
-    font-size: 1.7em;
+    font-size: 1.6em;
 }
 
 .sharemenu img{
