@@ -138,7 +138,10 @@ height: 20px!important;
     color:white;
     font-size: 1.1em;
     text-align: center;
+    display: flex;
+    width: 100%;
     line-height: 1.5em;
+    margin-left: -40px;
 }
 
 #morning{
