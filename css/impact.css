@@ -307,6 +307,9 @@ height: 20px!important;
     width: 136px;
     display: flex;
     position: relative;
+    bottom: 0px;
+    margin: auto;
+    margin-top: 20px;
 }
 
 .sharemenu{
