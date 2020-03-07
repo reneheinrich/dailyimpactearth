@@ -375,3 +375,31 @@ height: 20px!important;
         margin-top: 00px !important;
     }
 }
+
+@media only screen and (max-width: 400px){
+    .start-day{
+        padding: 0px 6px 10px 6px;
+        margin-top: 0;
+    }
+
+    #section04 a span {
+        bottom: 35px;
+    }
+
+    .contentcontainer h2{
+        margin-bottom: 30px;
+        font-size: calc(22px + 0.9vh);
+    }
+
+    .fact{
+        font-size: calc(16px + 0.9vh);
+    }
+
+    .cta-products{
+        margin-top: 20px;
+    }
+
+    .owl-carousel.owl-drag .owl-item{
+        margin-top: 25px;
+    }
+}
