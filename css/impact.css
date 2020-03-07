@@ -78,6 +78,18 @@ a:hover, a:visited, a:link, a:active
 .nav-visible {
     display: flex;
 }
+
+.small-nav{
+height: 20px!important;
+}
+
+.small-nav img{
+    width: 5px;
+    display: flex;
+    margin: auto;
+    margin-top: 5px;
+}
+
 .nav-highlight {
     background-color:rgba(25, 112, 55, 0.8);
 }
@@ -130,13 +142,19 @@ a:hover, a:visited, a:link, a:active
     position: relative;
     width: 100%;
     text-align: center;
-    padding: 30px 30px 10px 30px;
+    padding: 30px 25px 10px 25px;
     line-height: 1.5em;
     margin-left: -20px;
 }
 
 #morning{
     background-image: url('https://images.pexels.com/photos/2583836/pexels-photo-2583836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#info{
+    background-image: url('https://images.pexels.com/photos/733174/pexels-photo-733174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -217,17 +235,28 @@ a:hover, a:visited, a:link, a:active
     margin-left: -20px;
 }
 
+.owl-carousel .owl-stage{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.owl-carousel.owl-drag .owl-item{
+    display: flex;
+    margin-top: 50px;
+}
+
 .owl-carousel .product{
     background-color:rgba(255, 255, 255, 0.9);
     width: 250px;
     height: auto;
     border-radius: 5px;
-    margin-top: 50px;
     padding: 20px;
     color: black;
     cursor: pointer !important;
     font-size: calc(1px + 1.5vh);
     font-weight: 300;
+    text-overflow: ellipsis;
+    height: 100%;
 }
 
 .owl-carousel .product .title{
@@ -316,8 +345,33 @@ a:hover, a:visited, a:link, a:active
 #commute .graph {
     width: 70vw;
 }
-@media only screen and (min-width: 768px) {
-	#commute .graph {
+@media only screen and (orientation: landscape){
+	#commute .graph{
+		width: 300px;
+    }
+    
+    #groceries .graph{
 		width: 300px;
 	}
+
+	.contentcontainer{
+        padding-left: 0px;
+        width: 80%;
+        margin: auto;
+        position: relative;
+        padding-right: 0;
+    }
+
+    .logo, h1, .start-day{
+        margin-left: 0;
+        width: 100%;
+    }
+
+    #hero .sharemenu{
+        margin-left:0!important;
+    }
+
+    .logo, h2{
+        margin-top: 00px !important;
+    }
 }
