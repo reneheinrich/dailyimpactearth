@@ -136,7 +136,6 @@ height: 20px!important;
 
 .start-day{
     color:white;
-    float: left;
     font-size: 1.1em;
     margin: 10px 0px;
     position: relative;
@@ -305,10 +304,8 @@ height: 20px!important;
 }
 
 #hero .sharemenu{
-    width: 50px;
-    left: 50%;
-    margin-left: -25px;
-    bottom:auto;
+    width: 136px;
+    display: flex;
     position: relative;
 }
 
