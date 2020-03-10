@@ -654,5 +654,27 @@
 
     });
 </script>
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+    window.cookieconsent.initialise({
+            "palette": {
+            "popup": {
+            "background": "#197037"
+        },
+            "button": {
+            "background": "#fff",
+            "text": "#197037"
+        }
+        },
+            "content": {
+            "message": "Diese Webseite verwendet Cookies.",
+            "dismiss": "Verstanden",
+            "deny": "Nicht erlauben",
+            "link": "Mehr erfahren.",
+            "href": "https://support.mozilla.org/de/kb/cookies-informationen-websites-auf-ihrem-computer"
+        }
+    });
+</script>
+
 </body>
 </html>
