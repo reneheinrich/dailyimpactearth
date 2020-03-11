@@ -144,25 +144,37 @@ height: 20px!important;
     margin-left: -20px;
 }
 
-#morning{
+#morning {
     background-image: url('https://images.pexels.com/photos/2583836/pexels-photo-2583836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
-#info{
+#morning2 {
     background-image: url('https://images.pexels.com/photos/733174/pexels-photo-733174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
-#commute {
+#gotowork {
     background-image: url('https://media-public.canva.com/R2_q4/MADyRsR2_q4/1/s.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
-#work{
+#gotowork2 {
+    background-image: url('https://media-public.canva.com/R2_q4/MADyRsR2_q4/1/s.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#work {
+    background-image: url('https://media-public.canva.com/MADCdRXXrbM/2/0/screen-2.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#work2 {
     background-image: url('https://media-public.canva.com/MADCdRXXrbM/2/0/screen-2.png');
     background-size: cover;
     background-position: center;
@@ -204,7 +216,13 @@ height: 20px!important;
     background-position: center;
     background-repeat: no-repeat;
 }
-#drinks {
+#evening {
+    background-image: url('https://images.pexels.com/photos/3727117/pexels-photo-3727117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#evening2 {
     background-image: url('https://images.pexels.com/photos/3727117/pexels-photo-3727117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
     background-size: cover;
     background-position: center;
