@@ -367,15 +367,15 @@ height: 20px!important;
     margin-left: -20px;
 }
 
-#commute .graph {
+#gotowork .graph {
     width: 70vw;
 }
 @media only screen and (orientation: landscape){
-	#commute .graph{
+	#gotowork .graph{
 		width: 300px;
     }
     
-    #groceries .graph{
+    #afterwork .graph{
 		width: 300px;
 	}
 
