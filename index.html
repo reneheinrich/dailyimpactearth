@@ -82,14 +82,14 @@
                         Genieße deinen Morgen lieber plastikfrei mit folgenden Produkten
                     </div>
                     <div class="owl-carousel">
-                        <a href="https://amzn.to/2uHbVMK" target="_blank" onclick="handleOutboundLinkClicks('https://amzn.to/2uHbVMK'); return false;">
+                        <a href="https://amzn.to/2uHbVMK" target="_blank" onclick="handleOutboundLinkClicks('https://amzn.to/2uHbVMK');">
                             <div class="product">
                                 <img src="img/zahnbuerste.jpg"/>
                                 <div class="title">Bambus Zahnbürsten</div>
                                 Unsere Bambus Zahnbürsten sind aus Bio-Moso-Bambus hergestellt, zu 100% biologisch abbaubar und umweltfreundlich.
                             </div>
                         </a>
-                        <a href="https://amzn.to/2OYddd3" target="_blank" onclick="handleOutboundLinkClicks('https://amzn.to/2OYddd3'); return false;">
+                        <a href="https://amzn.to/2OYddd3" target="_blank" onclick="handleOutboundLinkClicks('https://amzn.to/2OYddd3');">
                             <div class="product">
                                 <img src="img/zahnpasta.jpg"/>
                                 <div class="title">Kokosnuss Aktivkohle Zahnpasta</div>
@@ -139,35 +139,35 @@
                         Jeder kann einen Unterschied machen, auch du!
                     </div>
                     <div class="owl-carousel">
-                        <a href="https://amzn.to/3bJct5p" target="_blank" onclick="handleOutboundLinkClicks('https://amzn.to/3bJct5p'); return false;">
+                        <a href="https://amzn.to/3bJct5p" target="_blank" onclick="trackOutboundLink('https://amzn.to/3bJct5p');">
                             <div class="product">
                                 <img src="img/handbrause.jpg"/>
                                 <div class="title">Wassersparender Duschkopf</div>
                                 3 Wege Funktion Duschkopf reinigt Wasser mit Ionenfiltern und Mineralkugeln und führt zu bis zu 30% Wasserersparnis.
                             </div>
                         </a>
-                        <a href="https://amzn.to/2u6F5oa" target="_blank" onclick="handleOutboundLinkClicks('https://amzn.to/2u6F5oa'); return false;">
+                        <a href="https://amzn.to/2u6F5oa" target="_blank" onclick="trackOutboundLink('https://amzn.to/2u6F5oa');">
                             <div class="product">
                                 <img src="img/haarshampoo.jpg"/>
                                 <div class="title">Mikroplastikfreies Haarshampoo</div>
                                 Handgemachtes, natürliches und veganes Haarshampoo ohne Mirkoplastik.
                             </div>
                         </a>
-                        <a href="https://amzn.to/3bJct5p" target="_blank" onclick="handleOutboundLinkClicks('https://amzn.to/3bJct5p'); return false;">
+                        <a href="https://amzn.to/3bJct5p" target="_blank" onclick="trackOutboundLink('https://amzn.to/3bJct5p'); return false;">
                             <div class="product">
                                 <img src="img/zahnpasta1.jpg"/>
                                 <div class="title">Aktivkohlezahnpasta aus Kokos</div>
                                 Es besteht zu 100% aus organischer Aktivkohle, aus der Kokosnuss, mit maximaler Schonwirkung für Zähne, Zahnfleisch und Körper.
                             </div>
                         </a>
-                        <a href="https://amzn.to/37yONx0" target="_blank" onclick="handleOutboundLinkClicks('https://amzn.to/37yONx0'); return false;">
+                        <a href="https://amzn.to/37yONx0" target="_blank" onclick="trackOutboundLink('https://amzn.to/37yONx0'); return false;">
                             <div class="product">
                                 <img src="img/kokosschwamm.jpg"/>
                                 <div class="title">Kokosschwamm</div>
                                 Kokosfasern sind umweltschonend und bilogisch abbaubar!
                             </div>
                         </a>
-                        <a href=" https://amzn.to/38vkFEk" target="_blank" onclick="handleOutboundLinkClicks('https://amzn.to/38vkFEk'); return false;">
+                        <a href=" https://amzn.to/38vkFEk" target="_blank" onclick="trackOutboundLink('https://amzn.to/38vkFEk'); return false;">
                             <div class="product">
                                 <img src="img/müllbeutel.jpg"/>
                                 <div class="title">Kompostierbare Müllsäcke</div>
@@ -712,8 +712,14 @@
         ga('send', 'event', {
             eventCategory: 'Amazon Link',
             eventAction: 'click',
-            eventLabel: url,
-            transport: 'beacon'
+            eventLabel: url
+        });
+    }
+    var trackOutboundLink = function(url) {
+        ga('send', 'event', 'Amazon Link', 'click', url, {'hitCallback':
+            function () {
+            document.location = url;
+            }
         });
     }
     $(document).ready(function () {
