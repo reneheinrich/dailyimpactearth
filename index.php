@@ -28,7 +28,7 @@ echo "<!DOCTYPE html>\n"
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>daily impact</title>
-    <link rel="icon" type="image/png" href="/images/favicon.png">
+    <link rel="icon" type="image/png" href="/images/favicon.ico">
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
     <link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css">
     <link rel="stylesheet" type="text/css" href="css/viewScroller.css">
