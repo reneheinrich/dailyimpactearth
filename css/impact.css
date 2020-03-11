@@ -144,85 +144,85 @@ height: 20px!important;
     margin-left: -20px;
 }
 
-#morning {
+#x_morning {
     background-image: url('https://images.pexels.com/photos/2583836/pexels-photo-2583836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
-#morning2 {
+#x_morning2 {
     background-image: url('https://images.pexels.com/photos/733174/pexels-photo-733174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
-#gotowork {
+#x_gotowork {
     background-image: url('https://media-public.canva.com/R2_q4/MADyRsR2_q4/1/s.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
-#gotowork2 {
+#x_gotowork2 {
     background-image: url('https://media-public.canva.com/R2_q4/MADyRsR2_q4/1/s.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
-#work {
+#x_work {
     background-image: url('https://media-public.canva.com/MADCdRXXrbM/2/0/screen-2.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
-#work2 {
+#x_work2 {
     background-image: url('https://media-public.canva.com/MADCdRXXrbM/2/0/screen-2.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
-#break {
+#x_break {
     background-image: url('https://media-public.canva.com/8aqNY/MADyRD8aqNY/1/s.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
-#break2 {
+#x_break2 {
     background-image: url('https://media-public.canva.com/8aqNY/MADyRD8aqNY/1/s.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
-#afterwork {
+#x_afterwork {
     background-image: url('https://media-public.canva.com/fQFII/MADwWqfQFII/1/s.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
-#afterwork2 {
+#x_afterwork2 {
     background-image: url('https://media-public.canva.com/fQFII/MADwWqfQFII/1/s.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
-#sports {
+#x_sports {
     background-image: url('https://media-public.canva.com/MADGye9mbjI/4/screen.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
-#sports2 {
+#x_sports2 {
     background-image: url('https://media-public.canva.com/MADGye9mbjI/4/screen.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
-#evening {
+#x_evening {
     background-image: url('https://images.pexels.com/photos/3727117/pexels-photo-3727117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
-#evening2 {
+#x_evening2 {
     background-image: url('https://images.pexels.com/photos/3727117/pexels-photo-3727117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
     background-size: cover;
     background-position: center;
@@ -371,11 +371,11 @@ height: 20px!important;
     width: 70vw;
 }
 @media only screen and (orientation: landscape){
-	#gotowork .graph{
+	#x_gotowork .graph{
 		width: 300px;
     }
     
-    #afterwork .graph{
+    #x_afterwork .graph{
 		width: 300px;
 	}
 
