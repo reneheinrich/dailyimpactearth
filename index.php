@@ -9,6 +9,18 @@ function amzn($url, $imgsrc, $title, $description) {
     echo "</a>";
 }
 
+function share($url, $text, $hashtags) {
+    echo "<div class=\"sharemenu\">";
+    echo "<a href=\"http://twitter.com/share?text=".$text."&url=http://www.dailyimpact.earth/".$url."/&hashtags=".$hashtags."\">";
+    echo "<i class=\"fab fa-twitter\"></i></a>";
+    echo "<a href=\"https://www.linkedin.com/shareArticle?mini=true&url=http://www.dailyimpact.earth/".$url."/&title=".$text."\">";
+    echo "<i class=\"fab fa-linkedin\"></i></a>";
+    echo "<a href=\"whatsapp://send?text=".$text." --> https://www.dailyimpact.earth/".$url."/\" data-action=\"share/whatsapp/share\" title=\"Share on whatsapp\">";
+    echo "<i class=\"fab fa-whatsapp-square\"></i></a>";
+    echo "<a href=\"https://www.facebook.com/sharer/sharer.php?u=https://www.dailyimpact.earth/".$url."/&quote=".$text."\">";
+    echo "<i class=\"fab fa-facebook-square\"></i></a></div>\n";
+}
+
 echo "<!DOCTYPE html>\n"
 ?>
 <html>
@@ -120,36 +132,15 @@ echo "<!DOCTYPE html>\n"
                                 "Die ökologische und ressourcenschonende Alternative zu herkömmlicher Nylon-Zahnseide wird aus den Kokons der Seidenraupe gewonnen."
                             );
                         ?>
-                        <!--
-                        <a href="https://amzn.to/2uHbVMK" target="_blank" onclick="handleOutboundLinkClicks('https://amzn.to/2uHbVMK');">
-                            <div class="product">
-                                <img src="img/zahnbuerste.jpg"/>
-                                <div class="title">Bambus Zahnbürsten</div>
-                                Unsere Bambus Zahnbürsten sind aus Bio-Moso-Bambus hergestellt, zu 100% biologisch abbaubar und umweltfreundlich.
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/2OYddd3" target="_blank" onclick="handleOutboundLinkClicks('https://amzn.to/2OYddd3');">
-                            <div class="product">
-                                <img src="img/zahnpasta.jpg"/>
-                                <div class="title">Kokosnuss Aktivkohle Zahnpasta</div>
-                                Natürliche Zahnpasta ohne Kunststoffe, tierischen oder schädlichen Inhaltsstoffen und ist vegan und aus recycelbaren Tuben.
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/38x9fQ9" target="_blank" onclick="handleOutboundLinkClicks('https://amzn.to/38x9fQ9');">
-                            <div class="product">
-                                <img src="img/wattestaebchen.jpg"/>
-                                <div class="title">Bambus Wattestäbchen</div>
-                                Wattestäbchen aus Bambus und Baumwolle sind zu 100% biologisch abbaubar und werden nur aus organisch angebautem Bambus gefertigt.
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/2Hv6uTE" target="_blank" onclick="handleOutboundLinkClicks('https://amzn.to/2Hv6uTE');">
-                            <div class="product">
-                                <img src="img/zahnseide.jpg"/>
-                                <div class="title">Kompostierbare Zahnseide</div>
-                                Die ökologische und ressourcenschonende Alternative zu herkömmlicher Nylon-Zahnseide wird aus den Kokons der Seidenraupe gewonnen.
-                            </div>
-                        </a> -->
                     </div>
+                    <?php
+                        share(
+                            "morning",
+                            "Wusstest du, dass eine Plastikflasche bis zu 450 Jahre braucht bis sie sich zersetzt?",
+                            "createimpact,impact,noplastic"
+                        );
+                    ?>
+                    <!--
                     <div class="sharemenu">
                         <a href="http://twitter.com/share?text=Wusstest du, dass eine Plastikflasche bis zu 450 Jahre braucht bis sie sich zersetzt?&url=http://www.dailyimpact.earth/morning/&hashtags=createimpact,impact,noplastic">
                             <i class="fab fa-twitter"></i>
@@ -157,13 +148,13 @@ echo "<!DOCTYPE html>\n"
                         <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.dailyimpact.earth/morning/&title=Wusstest du, dass eine Plastikflasche bis zu 450 Jahre braucht bis sie sich zersetzt?">
                             <i class="fab fa-linkedin"></i>
                         </a>
-                        <a href="whatsapp://send?text=Wusstest du, dass eine Plastikflasche bis zu 450 Jahre braucht bis sie sich zersetzt? --> https://www.dailyimpact.earth/morning/" data-action="share/whatsapp/share" title="Share on whatsapp">
+                        <a href="whatsapp://send?text=Wusstest du, dass eine Plastikflasche bis zu 450 Jahre braucht bis sie sich zersetzt? --><!-- https://www.dailyimpact.earth/morning/" data-action="share/whatsapp/share" title="Share on whatsapp">
                             <i class="fab fa-whatsapp-square"></i>
                         </a>
                         <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.dailyimpact.earth/morning/&quote=Wusstest du, dass eine Plastikflasche bis zu 450 Jahre braucht bis sie sich zersetzt?">
                             <i class="fab fa-facebook-square"></i>
                         </a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
