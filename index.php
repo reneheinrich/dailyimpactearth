@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+<?php
+echo "<!DOCTYPE html>\n"
+?>
 <html>
 <head>
     <meta charset="utf-8">
