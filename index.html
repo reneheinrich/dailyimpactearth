@@ -82,28 +82,28 @@
                         Genieße deinen Morgen lieber plastikfrei mit folgenden Produkten
                     </div>
                     <div class="owl-carousel">
-                        <a href="https://amzn.to/2uHbVMK" target="_blank">
+                        <a href="https://amzn.to/2uHbVMK" target="_blank" onclick="handleOutboundLinkClicks('https://amzn.to/2uHbVMK'); return false;">
                             <div class="product">
                                 <img src="img/zahnbuerste.jpg"/>
                                 <div class="title">Bambus Zahnbürsten</div>
                                 Unsere Bambus Zahnbürsten sind aus Bio-Moso-Bambus hergestellt, zu 100% biologisch abbaubar und umweltfreundlich.
                             </div>
                         </a>
-                        <a href="https://amzn.to/2OYddd3" target="_blank">
+                        <a href="https://amzn.to/2OYddd3" target="_blank" onclick="handleOutboundLinkClicks('https://amzn.to/2OYddd3'); return false;">
                             <div class="product">
                                 <img src="img/zahnpasta.jpg"/>
                                 <div class="title">Kokosnuss Aktivkohle Zahnpasta</div>
                                 Natürliche Zahnpasta ohne Kunststoffe, tierischen oder schädlichen Inhaltsstoffen und ist vegan und aus recycelbaren Tuben.
                             </div>
                         </a>
-                        <a href="https://amzn.to/38x9fQ9" target="_blank">
+                        <a href="https://amzn.to/38x9fQ9" target="_blank" onclick="handleOutboundLinkClicks('https://amzn.to/38x9fQ9'); return false;">
                             <div class="product">
                                 <img src="img/wattestaebchen.jpg"/>
                                 <div class="title">Bambus Wattestäbchen</div>
                                 Wattestäbchen aus Bambus und Baumwolle sind zu 100% biologisch abbaubar und werden nur aus organisch angebautem Bambus gefertigt.
                             </div>
                         </a>
-                        <a href="https://amzn.to/2Hv6uTE" target="_blank">
+                        <a href="https://amzn.to/2Hv6uTE" target="_blank" onclick="handleOutboundLinkClicks('https://amzn.to/2Hv6uTE'); return false;">
                             <div class="product">
                                 <img src="img/zahnseide.jpg"/>
                                 <div class="title">Kompostierbare Zahnseide</div>
@@ -708,6 +708,14 @@
 <script
         src="js/owl.carousel.min.js"></script>
 <script>
+    function handleOutboundLinkClicks(url) {
+        ga('send', 'event', {
+            eventCategory: 'Amazon Link',
+            eventAction: 'click',
+            eventLabel: url,
+            transport: 'beacon'
+        });
+    }
     $(document).ready(function () {
         var urlViewName = window.location.hash.replace('#', '');
         if (urlViewName === 'home' || urlViewName === '') {
