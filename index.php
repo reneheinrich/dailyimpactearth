@@ -1,23 +1,23 @@
 <?php
 function amzn($url, $imgsrc, $title, $description) {
-    echo '<a href="https://amzn.to/'.$url.'" target="_blank" onclick="handleOutboundLinkClicks('."'https://amzn.to/".$url."');\">";
-    echo "<div class=\"product\">";
-    echo "<img src=\"".$imgsrc."\"/>";
-    echo "<div class=\"title\">".$title."</div>";
+    echo '<a href="https://amzn.to/'.$url.'" target="_blank" onclick="handleOutboundLinkClicks('."'https://amzn.to/".$url."');\">\n";
+    echo "<div class=\"product\">\n";
+    echo "<img src=\"".$imgsrc."\"/>\n";
+    echo "<div class=\"title\">".$title."</div>\n";
     echo $description;
-    echo "</div>";
-    echo "</a>";
+    echo "</div>\n";
+    echo "</a>\n";
 }
 
 function share($url, $text, $hashtags) {
-    echo "<div class=\"sharemenu\">";
-    echo "<a href=\"http://twitter.com/share?text=".$text."&url=http://www.dailyimpact.earth/".$url."/&hashtags=".$hashtags."\">";
-    echo "<i class=\"fab fa-twitter\"></i></a>";
-    echo "<a href=\"https://www.linkedin.com/shareArticle?mini=true&url=http://www.dailyimpact.earth/".$url."/&title=".$text."\">";
-    echo "<i class=\"fab fa-linkedin\"></i></a>";
-    echo "<a href=\"whatsapp://send?text=".$text." --> https://www.dailyimpact.earth/".$url."/\" data-action=\"share/whatsapp/share\" title=\"Share on whatsapp\">";
-    echo "<i class=\"fab fa-whatsapp-square\"></i></a>";
-    echo "<a href=\"https://www.facebook.com/sharer/sharer.php?u=https://www.dailyimpact.earth/".$url."/&quote=".$text."\">";
+    echo "<div class=\"sharemenu\">\n";
+    echo "<a href=\"http://twitter.com/share?text=".$text."&url=http://www.dailyimpact.earth/".$url."/&hashtags=".$hashtags."\">\n";
+    echo "<i class=\"fab fa-twitter\"></i></a>\n";
+    echo "<a href=\"https://www.linkedin.com/shareArticle?mini=true&url=http://www.dailyimpact.earth/".$url."/&title=".$text."\">\n";
+    echo "<i class=\"fab fa-linkedin\"></i></a>\n";
+    echo "<a href=\"whatsapp://send?text=".$text." --> https://www.dailyimpact.earth/".$url."/\" data-action=\"share/whatsapp/share\" title=\"Share on whatsapp\">\n";
+    echo "<i class=\"fab fa-whatsapp-square\"></i></a>\n";
+    echo "<a href=\"https://www.facebook.com/sharer/sharer.php?u=https://www.dailyimpact.earth/".$url."/&quote=".$text."\">\n";
     echo "<i class=\"fab fa-facebook-square\"></i></a></div>\n";
 }
 
@@ -140,21 +140,6 @@ echo "<!DOCTYPE html>\n"
                             "createimpact,impact,noplastic"
                         );
                     ?>
-                    <!--
-                    <div class="sharemenu">
-                        <a href="http://twitter.com/share?text=Wusstest du, dass eine Plastikflasche bis zu 450 Jahre braucht bis sie sich zersetzt?&url=http://www.dailyimpact.earth/morning/&hashtags=createimpact,impact,noplastic">
-                            <i class="fab fa-twitter"></i>
-                        </a>
-                        <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.dailyimpact.earth/morning/&title=Wusstest du, dass eine Plastikflasche bis zu 450 Jahre braucht bis sie sich zersetzt?">
-                            <i class="fab fa-linkedin"></i>
-                        </a>
-                        <a href="whatsapp://send?text=Wusstest du, dass eine Plastikflasche bis zu 450 Jahre braucht bis sie sich zersetzt? --><!-- https://www.dailyimpact.earth/morning/" data-action="share/whatsapp/share" title="Share on whatsapp">
-                            <i class="fab fa-whatsapp-square"></i>
-                        </a>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.dailyimpact.earth/morning/&quote=Wusstest du, dass eine Plastikflasche bis zu 450 Jahre braucht bis sie sich zersetzt?">
-                            <i class="fab fa-facebook-square"></i>
-                        </a>
-                    </div> -->
                 </div>
             </div>
         </div>
@@ -205,20 +190,13 @@ echo "<!DOCTYPE html>\n"
                             </div>
                         </a>
                     </div>
-                    <div class="sharemenu">
-                        <a href="http://twitter.com/share?text=Wusstest du, dass jeden Tag werden 51.000 Tonnen Bäume für die tägliche Nachfrage von Küchentüchern verarbeitet werden?&url=http://www.dailyimpact.earth/morning2/&hashtags=createimpact,impact,reducingwaste">
-                            <i class="fab fa-twitter"></i>
-                        </a>
-                        <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.dailyimpact.earth/morning2/&title=Wusstest du, dass jeden Tag werden 51.000 Tonnen Bäume für die tägliche Nachfrage von Küchentüchern verarbeitet werden?">
-                            <i class="fab fa-linkedin"></i>
-                        </a>
-                        <a href="whatsapp://send?text=Wusstest du, dass jeden Tag werden 51.000 Tonnen Bäume für die tägliche Nachfrage von Küchentüchern verarbeitet werden? --> https://www.dailyimpact.earth/morning2/" data-action="share/whatsapp/share" title="Share on whatsapp">
-                            <i class="fab fa-whatsapp-square"></i>
-                        </a>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.dailyimpact.earth/morning2/&quote=Wusstest du, dass jeden Tag werden 51.000 Tonnen Bäume für die tägliche Nachfrage von Küchentüchern verarbeitet werden?">
-                            <i class="fab fa-facebook-square"></i>
-                        </a>
-                    </div>
+                    <?php
+                        share(
+                            "morning2",
+                            "Wusstest du, dass jeden Tag werden 51.000 Tonnen Bäume für die tägliche Nachfrage von Küchentüchern verarbeitet werden?",
+                            "createimpact,impact,reducingwaste"
+                        );
+                    ?>
                 </div>
             </div>
         </div>
@@ -230,20 +208,13 @@ echo "<!DOCTYPE html>\n"
                         Auf dem durchschnittlichen Arbeitsweg verbraucht ein Pendler pro Tag 4,2kg CO<sup>2</sup>.
                     </div>
                     <img class="graph" src="verkehr.svg">
-                    <div class="sharemenu">
-                        <a href="http://twitter.com/share?text=Wusstest du, dass ein Pendler pro Tag 4,2kg CO2 auf dem durchschnittlichen Arbeitsweg verbraucht?&url=http://www.dailyimpact.earth/gotowork/&hashtags=createimpact,impact,cleancommute">
-                            <i class="fab fa-twitter"></i>
-                        </a>
-                        <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.dailyimpact.earth/gotowork/&title=Wusstest du, dass ein Pendler pro Tag 4,2kg CO2 auf dem durchschnittlichen Arbeitsweg verbraucht?">
-                            <i class="fab fa-linkedin"></i>
-                        </a>
-                        <a href="whatsapp://send?text=Wusstest du, dass ein Pendler pro Tag 4,2kg CO2 auf dem durchschnittlichen Arbeitsweg verbraucht? --> https://www.dailyimpact.earth/gotowork/" data-action="share/whatsapp/share" title="Share on whatsapp">
-                            <i class="fab fa-whatsapp-square"></i>
-                        </a>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.dailyimpact.earth/gotowork/&quote=Wusstest du, dass ein Pendler pro Tag 4,2kg CO2 auf dem durchschnittlichen Arbeitsweg verbraucht?">
-                            <i class="fab fa-facebook-square"></i>
-                        </a>
-                    </div>
+                    <?php
+                        share(
+                            "gotowork",
+                            "Wusstest du, dass ein Pendler pro Tag 4,2kg CO2 auf dem durchschnittlichen Arbeitsweg verbraucht?",
+                            "createimpact,impact,cleancommute"
+                        );
+                    ?>
                 </div>
             </div>
         </div>
@@ -270,20 +241,13 @@ echo "<!DOCTYPE html>\n"
                             </div>
                         </a>
                     </div>
-                    <div class="sharemenu">
-                        <a href="http://twitter.com/share?text=Wusstest du, dass ein Pendler pro Tag 4,2kg CO2 auf dem durchschnittlichen Arbeitsweg verbraucht?&url=http://www.dailyimpact.earth/gotowork2/&hashtags=createimpact,impact,cleancommute">
-                            <i class="fab fa-twitter"></i>
-                        </a>
-                        <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.dailyimpact.earth/gotowork2/&title=Wusstest du, dass ein Pendler pro Tag 4,2kg CO2 auf dem durchschnittlichen Arbeitsweg verbraucht?">
-                            <i class="fab fa-linkedin"></i>
-                        </a>
-                        <a href="whatsapp://send?text=Wusstest du, dass ein Pendler pro Tag 4,2kg CO2 auf dem durchschnittlichen Arbeitsweg verbraucht? --> https://www.dailyimpact.earth/gotowork2/" data-action="share/whatsapp/share" title="Share on whatsapp">
-                            <i class="fab fa-whatsapp-square"></i>
-                        </a>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.dailyimpact.earth/gotowork2/&quote=Wusstest du, dass ein Pendler pro Tag 4,2kg CO2 auf dem durchschnittlichen Arbeitsweg verbraucht?">
-                            <i class="fab fa-facebook-square"></i>
-                        </a>
-                    </div>
+                    <?php
+                        share(
+                            "gotowork2",
+                            "Wusstest du, dass ein Pendler pro Tag 4,2kg CO2 auf dem durchschnittlichen Arbeitsweg verbraucht?",
+                            "createimpact,impact,cleancommute"
+                        );
+                    ?>
                 </div>
             </div>
         </div>
@@ -348,20 +312,13 @@ echo "<!DOCTYPE html>\n"
                             </div>
                         </a>
                     </div>
-                    <div class="sharemenu">
-                        <a href="http://twitter.com/share?text=Wusstest du, dass im Pazifik eine Plastikinsel 4 Mal so groß wie Deutschland schwimmt?&url=http://www.dailyimpact.earth/work/&hashtags=createimpact,impact,noplastic">
-                            <i class="fab fa-twitter"></i>
-                        </a>
-                        <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.dailyimpact.earth/work/&title=Wusstest du, dass im Pazifik eine Plastikinsel 4 Mal so groß wie Deutschland schwimmt?">
-                            <i class="fab fa-linkedin"></i>
-                        </a>
-                        <a href="whatsapp://send?text=Wusstest du, dass im Pazifik eine Plastikinsel 4 Mal so groß wie Deutschland schwimmt? --> https://www.dailyimpact.earth/work/" data-action="share/whatsapp/share" title="Share on whatsapp">
-                            <i class="fab fa-whatsapp-square"></i>
-                        </a>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.dailyimpact.earth/work/&quote=Wusstest du, dass im Pazifik eine Plastikinsel 4 Mal so groß wie Deutschland schwimmt?">
-                            <i class="fab fa-facebook-square"></i>
-                        </a>
-                    </div>
+                    <?php
+                        share(
+                            "work",
+                            "Wusstest du, dass im Pazifik eine Plastikinsel 4 Mal so groß wie Deutschland schwimmt?",
+                            "createimpact,impact,noplastic"
+                        );
+                    ?>
                 </div>
             </div>
         </div>
@@ -372,20 +329,13 @@ echo "<!DOCTYPE html>\n"
                     <div class="fact">
                         Neuer fact
                     </div>
-                    <div class="sharemenu">
-                        <a href="http://twitter.com/share?text=Wusstest du, dass im Pazifik eine Plastikinsel 4 Mal so groß wie Deutschland schwimmt?&url=http://www.dailyimpact.earth/work2/&hashtags=createimpact,impact,noplastic">
-                            <i class="fab fa-twitter"></i>
-                        </a>
-                        <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.dailyimpact.earth/work2/&title=Wusstest du, dass im Pazifik eine Plastikinsel 4 Mal so groß wie Deutschland schwimmt?">
-                            <i class="fab fa-linkedin"></i>
-                        </a>
-                        <a href="whatsapp://send?text=Wusstest du, dass im Pazifik eine Plastikinsel 4 Mal so groß wie Deutschland schwimmt? --> https://www.dailyimpact.earth/work2/" data-action="share/whatsapp/share" title="Share on whatsapp">
-                            <i class="fab fa-whatsapp-square"></i>
-                        </a>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.dailyimpact.earth/work2/&quote=Wusstest du, dass im Pazifik eine Plastikinsel 4 Mal so groß wie Deutschland schwimmt?">
-                            <i class="fab fa-facebook-square"></i>
-                        </a>
-                    </div>
+                    <?php
+                        share(
+                            "work2",
+                            "Wusstest du, dass im Pazifik eine Plastikinsel 4 Mal so groß wie Deutschland schwimmt?",
+                            "createimpact,impact,noplastic"
+                        );
+                    ?>
                 </div>
             </div>
         </div>
@@ -396,20 +346,13 @@ echo "<!DOCTYPE html>\n"
                     <div class="fact">
                         Erstes
                     </div>
-                    <div class="sharemenu">
-                        <a href="http://twitter.com/share?text=Wusstest du, dass im Pazifik eine Plastikinsel 4 Mal so groß wie Deutschland schwimmt?&url=http://www.dailyimpact.earth/break/&hashtags=createimpact,impact,noplastic">
-                            <i class="fab fa-twitter"></i>
-                        </a>
-                        <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.dailyimpact.earth/break/&title=Wusstest du, dass im Pazifik eine Plastikinsel 4 Mal so groß wie Deutschland schwimmt?">
-                            <i class="fab fa-linkedin"></i>
-                        </a>
-                        <a href="whatsapp://send?text=Wusstest du, dass im Pazifik eine Plastikinsel 4 Mal so groß wie Deutschland schwimmt? --> https://www.dailyimpact.earth/break/" data-action="share/whatsapp/share" title="Share on whatsapp">
-                            <i class="fab fa-whatsapp-square"></i>
-                        </a>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.dailyimpact.earth/break/&quote=Wusstest du, dass im Pazifik eine Plastikinsel 4 Mal so groß wie Deutschland schwimmt?">
-                            <i class="fab fa-facebook-square"></i>
-                        </a>
-                    </div>
+                    <?php
+                        share(
+                            "break",
+                            "Wusstest du, dass im Pazifik eine Plastikinsel 4 Mal so groß wie Deutschland schwimmt?",
+                            "createimpact,impact,noplastic"
+                        );
+                    ?>
                 </div>
             </div>
         </div>
@@ -460,20 +403,13 @@ echo "<!DOCTYPE html>\n"
                             </div>
                         </a>
                     </div>
-                    <div class="sharemenu">
-                        <a href="http://twitter.com/share?text=Wusstest du, dass Veganer mit ihrer Ernährung 40% weniger CO2 pro Jahr erzeugen als Fleischesser?&url=http://www.dailyimpact.earth/break2/&hashtags=createimpact,impact,govegan">
-                            <i class="fab fa-twitter"></i>
-                        </a>
-                        <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.dailyimpact.earth/break2/&title=Wusstest du, dass Veganer mit ihrer Ernährung 40% weniger CO2 pro Jahr erzeugen als Fleischesser?">
-                            <i class="fab fa-linkedin"></i>
-                        </a>
-                        <a href="whatsapp://send?text=Wusstest du, dass Veganer mit ihrer Ernährung 40% weniger CO2 pro Jahr erzeugen als Fleischesser? --> https://www.dailyimpact.earth/break2/" data-action="share/whatsapp/share" title="Share on whatsapp">
-                            <i class="fab fa-whatsapp-square"></i>
-                        </a>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.dailyimpact.earth/break2/&quote=Wusstest du, dass Veganer mit ihrer Ernährung 40% weniger CO2 pro Jahr erzeugen als Fleischesser?">
-                            <i class="fab fa-facebook-square"></i>
-                        </a>
-                    </div>
+                    <?php
+                        share(
+                            "break2",
+                            "Wusstest du, dass Veganer mit ihrer Ernährung 40% weniger CO2 pro Jahr erzeugen als Fleischesser?",
+                            "createimpact,impact,govegan"
+                        );
+                    ?>
                 </div>
             </div>
         </div>
