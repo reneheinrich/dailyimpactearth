@@ -1,4 +1,14 @@
 <?php
+function amzn($url, $imgsrc, $title, $description) {
+    echo '<a href="https://amzn.to/'.$url.'" target="_blank" onclick="handleOutboundLinkClicks('."'https://amzn.to/".$url."');\">";
+    echo "<div class=\"product\">";
+    echo "<img src=\"".$imgsrc."\"/>";
+    echo "<div class=\"title\">".$title."</div>";
+    echo $description;
+    echo "</div>";
+    echo "</a>";
+}
+
 echo "<!DOCTYPE html>\n"
 ?>
 <html>
@@ -84,6 +94,33 @@ echo "<!DOCTYPE html>\n"
                         Genieße deinen Morgen lieber plastikfrei mit folgenden Produkten
                     </div>
                     <div class="owl-carousel">
+                        <?php
+                            amzn(
+                                "2uHbVMK", 
+                                "img/zahnbuerste.jpg", 
+                                "Bambus Zahnbürsten",
+                                "Unsere Bambus Zahnbürsten sind aus Bio-Moso-Bambus hergestellt, zu 100% biologisch abbaubar und umweltfreundlich."
+                            );
+                            amzn(
+                                "2OYddd3", 
+                                "img/zahnpasta.jpg", 
+                                "Kokosnuss Aktivkohle Zahnpasta",
+                                "Natürliche Zahnpasta ohne Kunststoffe, tierischen oder schädlichen Inhaltsstoffen und ist vegan und aus recycelbaren Tuben."
+                            );
+                            amzn(
+                                "38x9fQ9", 
+                                "img/wattestaebchen.jpg", 
+                                "Bambus Wattestäbchen",
+                                "Wattestäbchen aus Bambus und Baumwolle sind zu 100% biologisch abbaubar und werden nur aus organisch angebautem Bambus gefertigt."
+                            );
+                            amzn(
+                                "2Hv6uTE", 
+                                "img/zahnseide.jpg", 
+                                "Kompostierbare Zahnseide",
+                                "Die ökologische und ressourcenschonende Alternative zu herkömmlicher Nylon-Zahnseide wird aus den Kokons der Seidenraupe gewonnen."
+                            );
+                        ?>
+                        <!--
                         <a href="https://amzn.to/2uHbVMK" target="_blank" onclick="handleOutboundLinkClicks('https://amzn.to/2uHbVMK');">
                             <div class="product">
                                 <img src="img/zahnbuerste.jpg"/>
@@ -111,7 +148,7 @@ echo "<!DOCTYPE html>\n"
                                 <div class="title">Kompostierbare Zahnseide</div>
                                 Die ökologische und ressourcenschonende Alternative zu herkömmlicher Nylon-Zahnseide wird aus den Kokons der Seidenraupe gewonnen.
                             </div>
-                        </a>
+                        </a> -->
                     </div>
                     <div class="sharemenu">
                         <a href="http://twitter.com/share?text=Wusstest du, dass eine Plastikflasche bis zu 450 Jahre braucht bis sie sich zersetzt?&url=http://www.dailyimpact.earth/morning/&hashtags=createimpact,impact,noplastic">
