@@ -180,7 +180,13 @@ height: 20px!important;
     background-position: center;
     background-repeat: no-repeat;
 }
-#groceries {
+#afterwork {
+    background-image: url('https://media-public.canva.com/fQFII/MADwWqfQFII/1/s.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#afterwork2 {
     background-image: url('https://media-public.canva.com/fQFII/MADwWqfQFII/1/s.jpg');
     background-size: cover;
     background-position: center;
