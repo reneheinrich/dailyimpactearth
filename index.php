@@ -103,7 +103,7 @@ echo "<!DOCTYPE html>\n"
                     <div class="purpouse">
                     Hier folgen Fakten zum Thema Nachhaltigkeit und Umwelt, angelehnt an den Tagesablauf eines durchschnittlichen Deutschen.
                     </div>
-                    <section class="demo section04">
+                    <section id="section04" class="demo">
                         <a href="#morning"><span></span></a>
                     </section>
             </div>
