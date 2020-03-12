@@ -387,31 +387,31 @@ echo "<!DOCTYPE html>\n"
                     <div class="owl-carousel">
                         <?php
                         amzn(
-                            "https://amzn.to/38wPKaJ",
+                            "38wPKaJ",
                             "img/proteinriegel.jpg",
                             "Riegel aus Grillenmehl",
                             "Vegane und proteinreiche Snacks aus Grillenmehl."
                         );
                         amzn(
-                            "https://amzn.to/3bHtblG",
+                            "3bHtblG",
                             "img/brotdose.jpg",
                             "Plastikfreie Lunchboxmit aus Bambusholzdeckel",
                             "Umweltfreundliche edelstahl Brotdose ohne Plastik, BPA, ohne chemische Stoffe und Toxizität."
                         );
                         amzn(
-                            "https://amzn.to/39ImkGN",
+                            "39ImkGN",
                             "img/besteck.jpg",
                             "Bambus Essbesteck",
                             "Wiederverwendbares, schadstofffreies und umweltfreundliches Bambusbesteckset."
                         );
                         amzn(
-                            "https://amzn.to/2SRp1ia",
+                            "2SRp1ia",
                             "img/einkaufsnetze.jpg",
                             "Wiederverwendbare Obst-  und Gemüsebeutel",
                             "100% BPA freie Bio Baumwolle, biologisch abbaubaubar und waschbar."
                         );
                         amzn(
-                            "https://amzn.to/37sWlSd",
+                            "37sWlSd",
                             "img/erdnuss.jpg",
                             "Bio Peanut Butter",
                             "100% Bio Erdnüsse ohne Zusätze wie Palmöl, Salz oder Zucker."
@@ -491,41 +491,38 @@ echo "<!DOCTYPE html>\n"
                         Verdiene dir eine Medaille von Mutter Erde und nutze nachhaltige Alternativen
                     </div>
                     <div class="owl-carousel">
-                        <a href="https://amzn.to/2V2o3lU" target="_blank">
-                            <div class="product">
-                                <img src="img/wasserflasche.jpg"/>
-                                <div class="title">Nachhaltige Edelstahl Thermosflasche</div>
-                                Wiederverwendbare Thermosflasche ersetzt Plastiktrinkflaschen und hilft somit der Umwelt.
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/2uQGCij" target="_blank">
-                            <div class="product">
-                                <img src="img/whey.jpg"/>
-                                <div class="title">Bio Whey Protein</div>
-                                100% Bio Molkenprotein, ausschließlich von zertifizierten Bio-Bauern aus Österreich und Bayern und ohne künstliche Zusatzstoffe.
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/2uHdNFg" target="_blank">
-                            <div class="product">
-                                <img src="img/bambushandtuecher.jpg"/>
-                                <div class="title">Bambus Reisehandtuch</div>
-                                Bambus ist ein ultraschnell nachwachsender Rohstoff der im Anbau mit sehr wenig Wasser und ganz ohne Pestizide auskommt.
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/2vCHiIp" target="_blank">
-                            <div class="product">
-                                <img src="img/yoga.jpg"/>
-                                <div class="title">Yogamatte aus 100% Kork und Natur-Kautschuk</div>
-                                Yoga Matte aus naturmaterialien Kork und Kautschuk werden ökologisch angebaut und sind gleichzeitig biologisch wieder abbaubar. 
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/31Z46On" target="_blank">
-                            <div class="product">
-                                <img src="img/proteinshake.jpg"/>
-                                <div class="title">Veganer Nahrungsersatz</div>
-                                Food Vegan Drink enthält alle Nährstoffe, die dein Körper benötigt: 26g Protein, 40g glutenfreie Kohlenhydrate, 8.4g Ballaststoffe sowie 26 Vitamine & Mineralstoffe.
-                            </div>
-                        </a>
+                        <?php
+                        amzn(
+                            "2V2o3lU",
+                            "img/wasserflasche.jpg",
+                            "Nachhaltige Edelstahl Thermosflasche",
+                            "Wiederverwendbare Thermosflasche ersetzt Plastiktrinkflaschen und hilft somit der Umwelt."
+                        );
+                        amzn(
+                            "2uQGCij",
+                            "img/whey.jpg",
+                            "Bio Whey Protein",
+                            "100% Bio Molkenprotein, ausschließlich von zertifizierten Bio-Bauern aus Österreich und Bayern und ohne künstliche Zusatzstoffe."
+                        );
+                        amzn(
+                            "2uHdNFg",
+                            "img/bambushandtuecher.jpg",
+                            "Bambus Reisehandtuch",
+                            "Bambus ist ein ultraschnell nachwachsender Rohstoff der im Anbau mit sehr wenig Wasser und ganz ohne Pestizide auskommt."
+                        );
+                        amzn(
+                            "2vCHiIp",
+                            "img/yoga.jpg",
+                            "Yogamatte aus 100% Kork und Natur-Kautschuk",
+                            "Yoga Matte aus naturmaterialien Kork und Kautschuk werden ökologisch angebaut und sind gleichzeitig biologisch wieder abbaubar. "
+                        );
+                        amzn(
+                            "31Z46On",
+                            "img/proteinshake.jpg",
+                            "Veganer Nahrungsersatz",
+                            "Food Vegan Drink enthält alle Nährstoffe, die dein Körper benötigt: 26g Protein, 40g glutenfreie Kohlenhydrate, 8.4g Ballaststoffe sowie 26 Vitamine & Mineralstoffe."
+                        );
+                        ?>
                     </div>
                     <?php
                         share(
@@ -565,62 +562,56 @@ echo "<!DOCTYPE html>\n"
                         Reinige dein Gewissen mit diesen ökologischen Alternativen
                     </div>
                     <div class="owl-carousel">
-                        <a href="https://amzn.to/38AYJHG" target="_blank">
-                            <div class="product">
-                                <img src="img/seife.jpg"/>
-                                <div class="title">Aloe Vera Naturseife</div>
-                                Vegane Naturseife Aloe Vera basiert auf rein natürlichen Inhaltsstoffen und wird ohne jegliche Tierversuche hergestellt. 
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/38zWS63" target="_blank">
-                            <div class="product">
-                                <img src="img/zeroplastic.jpg"/>
-                                <div class="title">Zero-Waste Home Set</div>
-                                Wiederverwendbare Wattepads, Konjac Schwammset, Bambus Zahnbürsten, Obst und Gemüsebeutel, Bienenwachstücher.
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/2u2vjmR" target="_blank">
-                            <div class="product">
-                                <img src="img/bambushandtuecher.jpg"/>
-                                <div class="title">Organische Baumwollhandtücher</div>
-                                Handtuchset besteht aus 100% natürlicher, biologischer und umweltfreundlicher Baumwolle. 
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/2vBoSrl" target="_blank">
-                            <div class="product">
-                                <img src="img/dauerbackfolie.jpg"/>
-                                <div class="title">Schwarze Dauerbackfolie</div>
-                                Wiederverwendbares Backpapier und spülmaschinenfest.
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/2u18Ruj" target="_blank">
-                            <div class="product">
-                                <img src="img/deocreme.jpg"/>
-                                <div class="title">Deocreme Ginkgo Limette</div>
-                                Ohne Aluminium und Konservierungsstoffe, plastikfrei, vegan, ohne Palmöl.
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/2OYKtkx" target="_blank">
-                            <div class="product">
-                                <img src="img/strohhalme.jpg"/>
-                                <div class="title">Natürlich gewachsene Gras-Strohhalme</div>
-                                Stabil, nachhaltig, biologisch abbaubar, wiederverwendbar, plastikfrei.
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/2UWqOpa" target="_blank">
-                            <div class="product">
-                                <img src="img/rasierer.jpg"/>
-                                <div class="title">Umweltfreundlicher Rasierer</div>
-                                Nachhaltiger und umweltfreundlicher Rasierer verursacht keinen Plastikmüll.
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/39JUzh7" target="_blank">
-                            <div class="product">
-                                <img src="img/reinigungspads.jpg"/>
-                                <div class="title">Waschbare Abschminkpads</div>
-                                Wiederverwendbare Wattepads, Zero-Waste mit Wäschenetz.
-                            </div>
-                        </a>
+                        <?php
+                        amzn(
+                            "38AYJHG",
+                            "img/seife.jpg",
+                            "Aloe Vera Naturseife",
+                            "Vegane Naturseife Aloe Vera basiert auf rein natürlichen Inhaltsstoffen und wird ohne jegliche Tierversuche hergestellt."
+                        );
+                        amzn(
+                            "38zWS63",
+                            "img/zeroplastic.jpg",
+                            "Zero-Waste Home Set",
+                            "Wiederverwendbare Wattepads, Konjac Schwammset, Bambus Zahnbürsten, Obst und Gemüsebeutel, Bienenwachstücher."
+                        );
+                        amzn(
+                            "2u2vjmR",
+                            "img/bambushandtuecher.jpg",
+                            "Organische Baumwollhandtücher",
+                            "Handtuchset besteht aus 100% natürlicher, biologischer und umweltfreundlicher Baumwolle."
+                        );
+                        amzn(
+                            "2vBoSrl",
+                            "img/dauerbackfolie.jpg",
+                            "Schwarze Dauerbackfolie",
+                            "Wiederverwendbares Backpapier und spülmaschinenfest."
+                        );
+                        amzn(
+                            "2u18Ruj",
+                            "img/deocreme.jpg",
+                            "Deocreme Ginkgo Limette",
+                            "Ohne Aluminium und Konservierungsstoffe, plastikfrei, vegan, ohne Palmöl."
+                        );
+                        amzn(
+                            "2OYKtkx",
+                            "img/strohhalme.jpg",
+                            "Natürlich gewachsene Gras-Strohhalme",
+                            "Stabil, nachhaltig, biologisch abbaubar, wiederverwendbar, plastikfrei."
+                        );
+                        amzn(
+                            "2UWqOpa",
+                            "img/rasierer.jpg",
+                            "Umweltfreundlicher Rasierer",
+                            "Nachhaltiger und umweltfreundlicher Rasierer verursacht keinen Plastikmüll."
+                        );
+                        amzn(
+                            "39JUzh7",
+                            "img/reinigungspads.jpg",
+                            "Waschbare Abschminkpads",
+                            "Wiederverwendbare Wattepads, Zero-Waste mit Wäschenetz."
+                        );
+                        ?>
                     </div>
                     <?php
                         share(
