@@ -436,20 +436,13 @@ echo "<!DOCTYPE html>\n"
                         Die globale Massentierhaltung trägt mit 20% zur weltweiten Treibhausgasemission bei.
                     </div>
                     <img class="graph" src="tiere.svg">
-                    <div class="sharemenu">
-                        <a href="http://twitter.com/share?text=Wusstest du, dass die globale Massentierhaltung mit 20% zur weltweiten Treibhausgasemission beiträgt?&url=http://www.dailyimpact.earth/afterwork/&hashtags=createimpact,impact,govegan">
-                            <i class="fab fa-twitter"></i>
-                        </a>
-                        <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.dailyimpact.earth/afterwork/&title=Wusstest du, dass die globale Massentierhaltung mit 20% zur weltweiten Treibhausgasemission beiträgt?">
-                            <i class="fab fa-linkedin"></i>
-                        </a>
-                        <a href="whatsapp://send?text=Wusstest du, dass die globale Massentierhaltung mit 20% zur weltweiten Treibhausgasemission beiträgt? --> https://www.dailyimpact.earth/afterwork/" data-action="share/whatsapp/share" title="Share on whatsapp">
-                            <i class="fab fa-whatsapp-square"></i>
-                        </a>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.dailyimpact.earth/afterwork/&quote=Wusstest du, dass die globale Massentierhaltung mit 20% zur weltweiten Treibhausgasemission beiträgt?">
-                            <i class="fab fa-facebook-square"></i>
-                        </a>
-                    </div>
+                    <?php
+                        share(
+                            "afterwork",
+                            "Wusstest du, dass die globale Massentierhaltung mit 20% zur weltweiten Treibhausgasemission beiträgt?",
+                            "createimpact,impact,govegan"
+                        );
+                    ?>
                 </div>
             </div>
         </div>
@@ -460,20 +453,13 @@ echo "<!DOCTYPE html>\n"
                     <div class="fact">
                         Missing here
                     </div>
-                    <div class="sharemenu">
-                        <a href="http://twitter.com/share?text=Wusstest du, dass die globale Massentierhaltung mit 20% zur weltweiten Treibhausgasemission beiträgt?&url=http://www.dailyimpact.earth/afterwork2/&hashtags=createimpact,impact,govegan">
-                            <i class="fab fa-twitter"></i>
-                        </a>
-                        <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.dailyimpact.earth/afterwork2/&title=Wusstest du, dass die globale Massentierhaltung mit 20% zur weltweiten Treibhausgasemission beiträgt?">
-                            <i class="fab fa-linkedin"></i>
-                        </a>
-                        <a href="whatsapp://send?text=Wusstest du, dass die globale Massentierhaltung mit 20% zur weltweiten Treibhausgasemission beiträgt? --> https://www.dailyimpact.earth/afterwork2/" data-action="share/whatsapp/share" title="Share on whatsapp">
-                            <i class="fab fa-whatsapp-square"></i>
-                        </a>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.dailyimpact.earth/afterwork2/&quote=Wusstest du, dass die globale Massentierhaltung mit 20% zur weltweiten Treibhausgasemission beiträgt?">
-                            <i class="fab fa-facebook-square"></i>
-                        </a>
-                    </div>
+                    <?php
+                        share(
+                            "afterwork2",
+                            "Wusstest du, dass die globale Massentierhaltung mit 20% zur weltweiten Treibhausgasemission beiträgt?",
+                            "createimpact,impact,govegan"
+                        );
+                    ?>
                 </div>
             </div>
         </div>
@@ -484,20 +470,13 @@ echo "<!DOCTYPE html>\n"
                     <div class="fact">
                         Kommt noch!
                     </div>
-                    <div class="sharemenu">
-                        <a href="http://twitter.com/share?text=Wusstest du, dass die globale Massentierhaltung mit 20% zur weltweiten Treibhausgasemission beiträgt?&url=http://www.dailyimpact.earth/sports/&hashtags=createimpact,impact,govegan">
-                            <i class="fab fa-twitter"></i>
-                        </a>
-                        <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.dailyimpact.earth/sports/&title=Wusstest du, dass die globale Massentierhaltung mit 20% zur weltweiten Treibhausgasemission beiträgt?">
-                            <i class="fab fa-linkedin"></i>
-                        </a>
-                        <a href="whatsapp://send?text=Wusstest du, dass die globale Massentierhaltung mit 20% zur weltweiten Treibhausgasemission beiträgt? --> https://www.dailyimpact.earth/sports/" data-action="share/whatsapp/share" title="Share on whatsapp">
-                            <i class="fab fa-whatsapp-square"></i>
-                        </a>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.dailyimpact.earth/sports/&quote=Wusstest du, dass die globale Massentierhaltung mit 20% zur weltweiten Treibhausgasemission beiträgt?">
-                            <i class="fab fa-facebook-square"></i>
-                        </a>
-                    </div>
+                    <?php
+                        share(
+                            "sports",
+                            "Wusstest du, dass die globale Massentierhaltung mit 20% zur weltweiten Treibhausgasemission beiträgt?",
+                            "createimpact,impact,govegan"
+                        );
+                    ?>
                 </div>
             </div>
         </div>
@@ -548,20 +527,13 @@ echo "<!DOCTYPE html>\n"
                             </div>
                         </a>
                     </div>
-                    <div class="sharemenu">
-                        <a href="http://twitter.com/share?text=Wusstest du, dass bereits 25% der meisten Tier- und Pflanzengruppen vorm Aussterben bedroht sind?&url=http://www.dailyimpact.earth/sports2/&hashtags=createimpact,impact,savetheanimals">
-                            <i class="fab fa-twitter"></i>
-                        </a>
-                        <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.dailyimpact.earth/sports2/&title=Wusstest du, dass bereits 25% der meisten Tier- und Pflanzengruppen vorm Aussterben bedroht sind?">
-                            <i class="fab fa-linkedin"></i>
-                        </a>
-                        <a href="whatsapp://send?text=Wusstest du, dass bereits 25% der meisten Tier- und Pflanzengruppen vorm Aussterben bedroht sind? --> https://www.dailyimpact.earth/sports2/" data-action="share/whatsapp/share" title="Share on whatsapp">
-                            <i class="fab fa-whatsapp-square"></i>
-                        </a>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.dailyimpact.earth/sports2/&quote=Wusstest du, dass bereits 25% der meisten Tier- und Pflanzengruppen vorm Aussterben bedroht sind?">
-                            <i class="fab fa-facebook-square"></i>
-                        </a>
-                    </div>
+                    <?php
+                        share(
+                            "sports2",
+                            "Wusstest du, dass bereits 25% der meisten Tier- und Pflanzengruppen vorm Aussterben bedroht sind?",
+                            "createimpact,impact,savetheanimals"
+                        );
+                    ?>
                 </div>
             </div>
         </div>
@@ -572,20 +544,13 @@ echo "<!DOCTYPE html>\n"
                     <div class="fact">
                         TBD
                     </div>
-                    <div class="sharemenu">
-                        <a href="http://twitter.com/share?text=Wusstest du, dass bereits 25% der meisten Tier- und Pflanzengruppen vorm Aussterben bedroht sind?&url=http://www.dailyimpact.earth/evening/&hashtags=createimpact,impact,savetheanimals">
-                            <i class="fab fa-twitter"></i>
-                        </a>
-                        <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.dailyimpact.earth/evening/&title=Wusstest du, dass bereits 25% der meisten Tier- und Pflanzengruppen vorm Aussterben bedroht sind?">
-                            <i class="fab fa-linkedin"></i>
-                        </a>
-                        <a href="whatsapp://send?text=Wusstest du, dass bereits 25% der meisten Tier- und Pflanzengruppen vorm Aussterben bedroht sind? --> https://www.dailyimpact.earth/evening/" data-action="share/whatsapp/share" title="Share on whatsapp">
-                            <i class="fab fa-whatsapp-square"></i>
-                        </a>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.dailyimpact.earth/evening/&quote=Wusstest du, dass bereits 25% der meisten Tier- und Pflanzengruppen vorm Aussterben bedroht sind?">
-                            <i class="fab fa-facebook-square"></i>
-                        </a>
-                    </div>
+                    <?php
+                        share(
+                            "evening",
+                            "Wusstest du, dass bereits 25% der meisten Tier- und Pflanzengruppen vorm Aussterben bedroht sind?",
+                            "createimpact,impact,savetheanimals"
+                        );
+                    ?>
                 </div>
             </div>
         </div>
@@ -657,20 +622,13 @@ echo "<!DOCTYPE html>\n"
                             </div>
                         </a>
                     </div>
-                    <div class="sharemenu">
-                        <a href="http://twitter.com/share?text=Wusstest du, dass der durchschnittliche Deutsche 127 Liter Wasser pro Kopf pro Tag verbraucht?&url=http://www.dailyimpact.earth/evening2/&hashtags=createimpact,impact,savewater">
-                            <i class="fab fa-twitter"></i>
-                        </a>
-                        <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.dailyimpact.earth/evening2/&title=Wusstest du, dass der durchschnittliche Deutsche 127 Liter Wasser pro Kopf pro Tag verbraucht?">
-                            <i class="fab fa-linkedin"></i>
-                        </a>
-                        <a href="whatsapp://send?text=Wusstest du, dass der durchschnittliche Deutsche 127 Liter Wasser pro Kopf pro Tag verbraucht? --> https://www.dailyimpact.earth/evening2/" data-action="share/whatsapp/share" title="Share on whatsapp">
-                            <i class="fab fa-whatsapp-square"></i>
-                        </a>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.dailyimpact.earth/evening2/&quote=Wusstest du, dass der durchschnittliche Deutsche 127 Liter Wasser pro Kopf pro Tag verbraucht?">
-                            <i class="fab fa-facebook-square"></i>
-                        </a>
-                    </div>
+                    <?php
+                        share(
+                            "evening2",
+                            "Wusstest du, dass der durchschnittliche Deutsche 127 Liter Wasser pro Kopf pro Tag verbraucht?",
+                            "createimpact,impact,savewater"
+                        );
+                    ?>
                 </div>
             </div>
         </div>
