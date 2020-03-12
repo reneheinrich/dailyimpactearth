@@ -19,12 +19,11 @@ h1{
     color:white;
     float: left;
     position: relative;
-    font-size: 2.5em;
     margin: 30px 0px;
     line-height: 1.1em;
     font-family: 'Arbutus Slab';
     margin-left: -20px;
-    font-size: calc(24px + 1.5vh);
+    font-size: calc(20px + 1.5vh);
     font-weight: 100;
 }
 
@@ -137,7 +136,9 @@ height: 20px!important;
 .subtext{
     color: white;
     font-size: calc(4px + 1.5vh);
-    margin-top: 40px;
+    margin: 30px 0px;
+    line-height: 1.1em;
+    margin-left: -20px;
 }
 
 .start-day{
