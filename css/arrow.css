@@ -1,7 +1,7 @@
-#section04 a {
+.section04 a {
   padding-top: 60px;
 }
-#section04 a span {
+.section04 a span {
   left: 50%;
   width: 24px;
   height: 24px;

@@ -144,11 +144,12 @@ height: 20px!important;
 .purpouse{
     color:white;
     position: relative;
-    margin-top: 50%;
+    margin-top: 20px;
     line-height: 1.4em;
     font-family: 'Arbutus Slab';
     font-size: calc(13px + 1.5vh);
     font-weight: 100;
+    text-align: center;
 }
 
 #x_purpouse {
@@ -156,6 +157,14 @@ height: 20px!important;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
+}
+#x_purpouse .section04 a span{
+    margin-left: 0;
+}
+#x_purpouse svg{
+    width: 150px;
+    margin: auto;
+    display: flex;
 }
 #x_morning {
     background-image: url('https://images.pexels.com/photos/2583836/pexels-photo-2583836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
@@ -415,7 +424,7 @@ height: 20px!important;
 
 @media only screen and (max-width: 400px){
 
-    #section04 a span {
+    .section04 a span {
         bottom: 35px;
     }
 
