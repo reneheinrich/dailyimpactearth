@@ -74,6 +74,7 @@ echo "<!DOCTYPE html>\n"
                         <span>daily impact</span>
                     </div>
                     <h1>Wusstest du, dass jeder Mensch pro Woche Plastik in der Menge von einer Kreditkarte isst?</h1>
+                    <h2>Mikroplastikteilchen sind kleiner als fünf Millimeter und verstecken sich in Essen, Trinkwasser und sogar der Luft. Je nach Wohnort und Ernährung nimmt der Mensch wöchentlich fünf Gramm, also etwa das Gewicht einer Kreditkarte, an Mikroplastik auf. Mehr zum Thema findest du in diesem Report vom Fraunhofer Institut.</h2>
                     <span class="start-day">Sieh dir deinen täglichen<br>ökologischen Fußabdruck an</span>
                     <div class="sharemenu">
                         <a href="http://twitter.com/share?text=Wusstest du, dass jeder Mensch pro Woche Plastik in der Menge von einer Kreditkarte isst?&url=http://www.dailyimpact.earth&hashtags=createimpact,impact,noplastic">
