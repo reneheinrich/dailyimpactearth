@@ -800,22 +800,22 @@ echo "<!DOCTYPE html>\n"
     window.cookieconsent.initialise({
             "palette": {
             "popup": {
-            "background": "rgba(39,99,49,0.8)"
-        },
+                "background": "rgba(39,99,49,0.8)"
+            },
             "button": {
-            "background": "#fff",
-            "text": "#197037"
-        }
+                "background": "#fff",
+                "text": "#197037"
+            }
         },
             "content": {
-            "message": "Diese Webseite verwendet Cookies.",
-            "dismiss": "Verstanden",
-            "deny": "Nicht erlauben",
-            "link": "Mehr erfahren.",
-            "href": "https://support.mozilla.org/de/kb/cookies-informationen-websites-auf-ihrem-computer"
+                "message": "Diese Webseite verwendet Cookies.",
+                "dismiss": "Verstanden",
+                "deny": "Nicht erlauben",
+                "link": "Mehr erfahren.",
+                "href": "https://support.mozilla.org/de/kb/cookies-informationen-websites-auf-ihrem-computer"
+            }
         }
-    });
+    );
 </script>
-
 </body>
 </html>
