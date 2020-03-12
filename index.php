@@ -168,41 +168,38 @@ echo "<!DOCTYPE html>\n"
                         Jeder kann einen Unterschied machen, auch du!
                     </div>
                     <div class="owl-carousel">
-                        <a href="https://amzn.to/3bJct5p" target="_blank" onclick="handleOutboundLinkClicks('https://amzn.to/3bJct5p');">
-                            <div class="product">
-                                <img src="img/handbrause.jpg"/>
-                                <div class="title">Wassersparender Duschkopf</div>
-                                3 Wege Funktion Duschkopf reinigt Wasser mit Ionenfiltern und Mineralkugeln und führt zu bis zu 30% Wasserersparnis.
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/2u6F5oa" target="_blank" onclick="handleOutboundLinkClicks('https://amzn.to/2u6F5oa');">
-                            <div class="product">
-                                <img src="img/haarshampoo.jpg"/>
-                                <div class="title">Mikroplastikfreies Haarshampoo</div>
-                                Handgemachtes, natürliches und veganes Haarshampoo ohne Mirkoplastik.
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/3bJct5p" target="_blank" onclick="handleOutboundLinkClicks('https://amzn.to/3bJct5p');">
-                            <div class="product">
-                                <img src="img/zahnpasta1.jpg"/>
-                                <div class="title">Aktivkohlezahnpasta aus Kokos</div>
-                                Es besteht zu 100% aus organischer Aktivkohle, aus der Kokosnuss, mit maximaler Schonwirkung für Zähne, Zahnfleisch und Körper.
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/37yONx0" target="_blank" onclick="handleOutboundLinkClicks('https://amzn.to/37yONx0');">
-                            <div class="product">
-                                <img src="img/kokosschwamm.jpg"/>
-                                <div class="title">Kokosschwamm</div>
-                                Kokosfasern sind umweltschonend und bilogisch abbaubar!
-                            </div>
-                        </a>
-                        <a href=" https://amzn.to/38vkFEk" target="_blank" onclick="handleOutboundLinkClicks('https://amzn.to/38vkFEk');">
-                            <div class="product">
-                                <img src="img/müllbeutel.jpg"/>
-                                <div class="title">Kompostierbare Müllsäcke</div>
-                                100% heim kompstierbare und biologisch abbaubare Müllsäcke.
-                            </div>
-                        </a>
+                        <?php
+                            amzn(
+                                "3bJct5p", 
+                                "img/handbrause.jpg", 
+                                "Wassersparender Duschkopf",
+                                "3 Wege Funktion Duschkopf reinigt Wasser mit Ionenfiltern und Mineralkugeln und führt zu bis zu 30% Wasserersparnis."
+                            );
+                            amzn(
+                                "2u6F5oa", 
+                                "img/haarshampoo.jpg", 
+                                "Mikroplastikfreies Haarshampoo",
+                                "Handgemachtes, natürliches und veganes Haarshampoo ohne Mirkoplastik."
+                            );
+                            amzn(
+                                "3bJct5p", 
+                                "img/zahnpasta1.jpg", 
+                                "Aktivkohlezahnpasta aus Kokos",
+                                "Es besteht zu 100% aus organischer Aktivkohle, aus der Kokosnuss, mit maximaler Schonwirkung für Zähne, Zahnfleisch und Körper."
+                            );
+                            amzn(
+                                "37yONx0", 
+                                "img/kokosschwamm.jpg", 
+                                "Kokosschwamm",
+                                "Kokosfasern sind umweltschonend und bilogisch abbaubar!"
+                            );
+                            amzn(
+                                "38vkFEk", 
+                                "img/müllbeutel.jpg", 
+                                "Kompostierbare Müllsäcke",
+                                "100% heim kompstierbare und biologisch abbaubare Müllsäcke."
+                            );
+                        ?>
                     </div>
                     <?php
                         share(
@@ -288,55 +285,50 @@ echo "<!DOCTYPE html>\n"
                         So bewältigst du den Office-Alltag nachhaltiger
                     </div>
                     <div class="owl-carousel">
-                        <a href="https://amzn.to/3bJct5p" target="_blank">
-                            <div class="product">
-                                <img src="img/kugelschreiber.jpg"/>
-                                <div class="title">Kugelschreiber Bambus</div>
-                                Bambus Kugelschreiber aus nachhaltigen Materialien
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/2UXADDk" target="_blank">
-                            <div class="product">
-                                <img src="img/kaffee.jpg"/>
-                                <div class="title">Bambus Kaffeebecher</div>
-                                Bambusbecher sind langlebig, wiederverwendbar und umweltfreundlich.
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/2uPu2jw" target="_blank">
-                            <div class="product">
-                                <img src="img/handyhuelle.jpg"/>
-                                <div class="title">BioCase Hülle für IPhone</div>
-                                IPhone Schutzhülle aus biologisch abbauabren Rohstoffen hergestellt und frei von umweltschädlichen Substanzen.
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/38y0EwH" target="_blank">
-                            <div class="product">
-                                <img src="img/rucksack-schwarz1.jpg"/>
-                                <div class="title">Nachhaltiger Rucksack</div>
-                                Nachhaltiger und ökologischer Rucksack aus recycelte PET-Materialien, vegan und frei von AZO-Farbstoffen und Schwermetallen.
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/323vjzx" target="_blank">
-                            <div class="product">
-                                <img src="img/papierrucksack.jpg"/>
-                                <div class="title">Rucksack aus Kraftpapier</div>
-                                Rucksack aus pflanzlischen Materialien wie Zellstoff und Naturlatex. Biologisch abbaubar und nachwachsend.
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/2uRE17P" target="_blank">
-                            <div class="product">
-                                <img src="img/rucksack-schwarz2.jpg"/>
-                                <div class="title">Johnny Urban aus recyceltem PET</div>
-                                Stylischer Johnny Urban Rucksack aus 100% recycelten PET Flaschen.
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/2SwoFib" target="_blank">
-                            <div class="product">
-                                <img src="img/jacke.jpg"/>
-                                <div class="title">Recycled Patagonia Wool Bomber Jacke</div>
-                                Außenmaterial aus 60 % recycelter Wolle, 30 % recyceltem Polyester und 10 % recyceltem Nylon, gefüttert mit recyceltem Polyester Ripstop.
-                            </div>
-                        </a>
+                        <?php
+                        amzn(
+                            "3bJct5p",
+                            "img/kugelschreiber.jpg",
+                            "Kugelschreiber Bambus",
+                            "Bambus Kugelschreiber aus nachhaltigen Materialien"
+                        );
+                        amzn(
+                            "2UXADDk",
+                            "img/kaffee.jpg",
+                            "Bambus Kaffeebecher",
+                            "Bambusbecher sind langlebig, wiederverwendbar und umweltfreundlich."
+                        );
+                        amzn(
+                            "2uPu2jw",
+                            "img/handyhuelle.jpg",
+                            "BioCase Hülle für IPhone",
+                            "IPhone Schutzhülle aus biologisch abbauabren Rohstoffen hergestellt und frei von umweltschädlichen Substanzen."
+                        );
+                        amzn(
+                            "38y0EwH",
+                            "img/rucksack-schwarz1.jpg",
+                            "Nachhaltiger Rucksack",
+                            "Nachhaltiger und ökologischer Rucksack aus recycelte PET-Materialien, vegan und frei von AZO-Farbstoffen und Schwermetallen."
+                        );
+                        amzn(
+                            "323vjzx",
+                            "img/papierrucksack.jpg",
+                            "Rucksack aus Kraftpapier",
+                            "Rucksack aus pflanzlischen Materialien wie Zellstoff und Naturlatex. Biologisch abbaubar und nachwachsend."
+                        );
+                        amzn(
+                            "2uRE17P",
+                            "img/rucksack-schwarz2.jpg",
+                            "Johnny Urban aus recyceltem PET",
+                            "Stylischer Johnny Urban Rucksack aus 100% recycelten PET Flaschen."
+                        );
+                        amzn(
+                            "2SwoFib",
+                            "img/jacke.jpg",
+                            "Recycled Patagonia Wool Bomber Jacke",
+                            "Außenmaterial aus 60 % recycelter Wolle, 30 % recyceltem Polyester und 10 % recyceltem Nylon, gefüttert mit recyceltem Polyester Ripstop."
+                        );
+                        ?>
                     </div>
                     <?php
                         share(
@@ -393,41 +385,38 @@ echo "<!DOCTYPE html>\n"
                         Teste diese veganen Produkte und plastikfreien Alternativen
                     </div>
                     <div class="owl-carousel">
-                        <a href="https://amzn.to/38wPKaJ" target="_blank">
-                            <div class="product">
-                                <img src="img/proteinriegel.jpg"/>
-                                <div class="title">Riegel aus Grillenmehl</div>
-                                Vegane und proteinreiche Snacks aus Grillenmehl.
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/3bHtblG" target="_blank">
-                            <div class="product">
-                                <img src="img/brotdose.jpg"/>
-                                <div class="title">Plastikfreie Lunchboxmit aus Bambusholzdeckel</div>
-                                Umweltfreundliche edelstahl Brotdose ohne Plastik, BPA, ohne chemische Stoffe und Toxizität.
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/39ImkGN" target="_blank">
-                            <div class="product">
-                                <img src="img/besteck.jpg"/>
-                                <div class="title">Bambus Essbesteck </div>
-                                Wiederverwendbares, schadstofffreies und umweltfreundliches Bambusbesteckset.
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/2SRp1ia" target="_blank">
-                            <div class="product">
-                                <img src="img/einkaufsnetze.jpg"/>
-                                <div class="title">Wiederverwendbare Obst-  und Gemüsebeutel</div>
-                                100% BPA freie Bio Baumwolle, biologisch abbaubaubar und waschbar.
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/37sWlSd" target="_blank">
-                            <div class="product">
-                                <img src="img/erdnuss.jpg"/>
-                                <div class="title">Bio Peanut Butter </div>
-                                100% Bio Erdnüsse ohne Zusätze wie Palmöl, Salz oder Zucker.
-                            </div>
-                        </a>
+                        <?php
+                        amzn(
+                            "https://amzn.to/38wPKaJ",
+                            "img/proteinriegel.jpg",
+                            "Riegel aus Grillenmehl",
+                            "Vegane und proteinreiche Snacks aus Grillenmehl."
+                        );
+                        amzn(
+                            "https://amzn.to/3bHtblG",
+                            "img/brotdose.jpg",
+                            "Plastikfreie Lunchboxmit aus Bambusholzdeckel",
+                            "Umweltfreundliche edelstahl Brotdose ohne Plastik, BPA, ohne chemische Stoffe und Toxizität."
+                        );
+                        amzn(
+                            "https://amzn.to/39ImkGN",
+                            "img/besteck.jpg",
+                            "Bambus Essbesteck",
+                            "Wiederverwendbares, schadstofffreies und umweltfreundliches Bambusbesteckset."
+                        );
+                        amzn(
+                            "https://amzn.to/2SRp1ia",
+                            "img/einkaufsnetze.jpg",
+                            "Wiederverwendbare Obst-  und Gemüsebeutel",
+                            "100% BPA freie Bio Baumwolle, biologisch abbaubaubar und waschbar."
+                        );
+                        amzn(
+                            "https://amzn.to/37sWlSd",
+                            "img/erdnuss.jpg",
+                            "Bio Peanut Butter",
+                            "100% Bio Erdnüsse ohne Zusätze wie Palmöl, Salz oder Zucker."
+                        );
+                        ?>
                     </div>
                     <?php
                         share(
