@@ -226,20 +226,32 @@ echo "<!DOCTYPE html>\n"
                         Neuer Fact mit Produkten.
                     </div>
                     <div class="owl-carousel">
-                        <a href="https://amzn.to/3bJct5p" target="_blank">
-                            <div class="product">
-                                <img src="img/ebike.jpg"/>
-                                <div class="title">E-Bike</div>
-                                Elektro Bike mit hoher Akkulaufzeit mit Reichweite bis zu 50km bei einer Höchstgeschwindigkeit von 25 km pro Stunde.
-                            </div>
-                        </a>
-                        <a href="https://amzn.to/336Ict3" target="_blank">
-                            <div class="product">
-                                <img src="img/escooter.jpg"/>
-                                <div class="title">Elektro Scooter</div>
-                                Der hervorragend verarbeitete und umweltfreundliche Elektroroller Elettrico 3000 Li von elektroroller-futura, bietet Ihnen maximalen Fahrspaß für 2 Personen.
-                            </div>
-                        </a>
+                        <?php
+                            amzn(
+                                "3bJct5p", 
+                                "img/ebike.jpg", 
+                                "E-Bike",
+                                "Elektro Bike mit hoher Akkulaufzeit mit Reichweite bis zu 50km bei einer Höchstgeschwindigkeit von 25 km pro Stunde."
+                            );
+                            amzn(
+                                "336Ict3", 
+                                "img/escooter.jpg", 
+                                "Elektro Scooter",
+                                "Der hervorragend verarbeitete und umweltfreundliche Elektroroller Elettrico 3000 Li von elektroroller-futura, bietet Ihnen maximalen Fahrspaß für 2 Personen."
+                            );
+                            amzn(
+                                "38x9fQ9", 
+                                "img/wattestaebchen.jpg", 
+                                "Bambus Wattestäbchen",
+                                "Wattestäbchen aus Bambus und Baumwolle sind zu 100% biologisch abbaubar und werden nur aus organisch angebautem Bambus gefertigt."
+                            );
+                            amzn(
+                                "2Hv6uTE", 
+                                "img/zahnseide.jpg", 
+                                "Kompostierbare Zahnseide",
+                                "Die ökologische und ressourcenschonende Alternative zu herkömmlicher Nylon-Zahnseide wird aus den Kokons der Seidenraupe gewonnen."
+                            );
+                        ?>
                     </div>
                     <?php
                         share(
