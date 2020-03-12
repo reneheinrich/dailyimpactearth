@@ -144,7 +144,7 @@ height: 20px!important;
 
 .start-day{
     color:white;
-    font-size: 1.1em;
+    font-size: calc(4.5px + 1.5vh);
     text-align: center;
     display: flex;
     width: 100%;
