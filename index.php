@@ -76,20 +76,13 @@ echo "<!DOCTYPE html>\n"
                     </div>
                     <h1>Wusstest du, dass jeder Mensch pro Woche Plastik in der Menge von einer Kreditkarte isst?</h1>
                     <div class="subtext">Mikroplastikteilchen sind kleiner als fünf Millimeter und verstecken sich in Essen, Trinkwasser und sogar der Luft. Der Mensch nimmt wöchentlich fünf Gramm, also etwa das Gewicht einer Kreditkarte, davon auf. Mehr zum Thema findest du in diesem Report.</div>
-                    <div class="sharemenu">
-                        <a href="http://twitter.com/share?text=Wusstest du, dass jeder Mensch pro Woche Plastik in der Menge von einer Kreditkarte isst?&url=http://www.dailyimpact.earth&hashtags=createimpact,impact,noplastic">
-                            <i class="fab fa-twitter"></i>
-                        </a>
-                        <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.dailyimpact.earth&title=usstest du, dass jeder Mensch pro Woche Plastik in der Menge von einer Kreditkarte isst?">
-                            <i class="fab fa-linkedin"></i>
-                        </a>
-                        <a href="whatsapp://send?text=Wusstest du, dass jeder Mensch pro Woche Plastik in der Menge von einer Kreditkarte isst? --> https://www.dailyimpact.earth/" data-action="share/whatsapp/share" title="Share on whatsapp">
-                            <i class="fab fa-whatsapp-square"></i>
-                        </a>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.dailyimpact.earth&quote=Wusstest du, dass jeder Mensch pro Woche Plastik in der Menge von einer Kreditkarte isst?">
-                            <i class="fab fa-facebook-square"></i>
-                        </a>
-                    </div>
+                    <?php
+                        share(
+                            "home",
+                            "Wusstest du, dass jeder Mensch pro Woche Plastik in der Menge von einer Kreditkarte isst?",
+                            "createimpact,impact,noplastic"
+                        );
+                    ?>
                     <section class="demo section04">
                         <a href="#purpouse"><span></span></a>
                     </section>
