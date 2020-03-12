@@ -134,7 +134,7 @@ height: 20px!important;
     background-repeat: no-repeat;
 }
 
-#hero .subtext{
+.subtext{
     color: white;
     font-size: calc(4px + 1.5vh);
     margin-top: 40px;
