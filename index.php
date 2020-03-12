@@ -48,6 +48,7 @@ echo "<!DOCTYPE html>\n"
 <div id="navi">
     <div id="navicontainer">
         <a class="nav-home" href="#home"><svg height='300px' width='300px'  fill="#FFFFFF" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve"><path d="M93.689,48.219L52.673,7.185c-0.688-0.699-1.665-1.099-2.681-1.099c-1.014,0-1.992,0.397-2.686,1.091L6.12,48.393  c-1.104,1.104-1.42,2.687-0.822,4.129c0.59,1.425,1.964,2.346,3.501,2.346h9.211v35.252c0,2.092,1.703,3.795,3.795,3.795h19.51  c2.092,0,3.794-1.703,3.794-3.795V74.392h9.754v15.728c0,2.092,1.702,3.795,3.794,3.795h19.51c2.093,0,3.794-1.703,3.794-3.795  V54.867h9.234c1.65,0,2.971-0.809,3.53-2.162C95.33,51.246,94.913,49.443,93.689,48.219z M58.657,66.798H41.315  c-2.092,0-3.795,1.704-3.795,3.797v15.728H25.6V54.867h48.773v31.455H62.451V70.595C62.451,68.502,60.749,66.798,58.657,66.798z   M82.024,47.276H17.958l32.028-32.049L82.024,47.276z"></path></svg></a>
+        <a class="nav-purpouse small-nav" href="#purpouse"><img src="img/subnav.png"></a>
         <a class="nav-morning" href="#morning"><svg height='300px' width='300px'  fill="#FFFFFF" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"><g><path d="M92.7,63.9c-4.3,0-6.6,2.2-8.1,3.7c-1.2,1.2-1.6,1.5-2.6,1.5c-1,0-1.4-0.3-2.6-1.5c-1.2-1.2-3-2.9-5.9-3.5   c0.8-2.5,1.3-5.1,1.3-7.7c0-13.5-11.2-24.5-25-24.5c-13.8,0-25,11-25,24.5c0,2.7,0.5,5.3,1.3,7.7c-2.9,0.6-4.7,2.3-5.9,3.5   c-1.2,1.2-1.6,1.5-2.6,1.5c-1,0-1.4-0.3-2.6-1.5c-1.5-1.5-3.8-3.7-8.1-3.7c-2.2,0-4,1.8-4,4s1.8,4,4,4c1,0,1.4,0.3,2.6,1.5   c1.5,1.5,3.8,3.7,8.1,3.7c4.3,0,6.6-2.2,8.1-3.7c1.2-1.2,1.6-1.5,2.6-1.5s1.4,0.3,2.6,1.5c1,1,2.4,2.3,4.5,3.1   c0.5,0.3,1,0.4,1.6,0.4c0.6,0.1,1.3,0.2,2,0.2c4.3,0,6.6-2.2,8.1-3.7c1.2-1.2,1.6-1.5,2.6-1.5c1,0,1.4,0.3,2.6,1.5   c1.5,1.5,3.8,3.7,8.1,3.7c0.7,0,1.4-0.1,2-0.2c0.6,0,1.1-0.2,1.6-0.4c2.1-0.8,3.5-2.1,4.5-3.1c1.2-1.2,1.6-1.5,2.6-1.5   c1,0,1.4,0.3,2.6,1.5c1.5,1.5,3.9,3.7,8.1,3.7s6.6-2.2,8.1-3.7c1.2-1.2,1.6-1.5,2.6-1.5c2.2,0,4-1.8,4-4S94.9,63.9,92.7,63.9z    M49.7,63.9c-4.3,0-6.6,2.2-8.1,3.7c-1.2,1.2-1.6,1.5-2.6,1.5c-0.1,0-0.1,0-0.2,0c-3.9-3.2-6-7.7-6-12.6c0-9.1,7.6-16.5,17-16.5   c9.4,0,17,7.4,17,16.5c0,4.9-2.2,9.5-6,12.6c-0.1,0-0.1,0-0.2,0c-1,0-1.4-0.3-2.6-1.5C56.3,66.1,54,63.9,49.7,63.9z"></path><path d="M7,58.4h9.3c2.2,0,4-1.8,4-4s-1.8-4-4-4H7c-2.2,0-4,1.8-4,4S4.8,58.4,7,58.4z"></path><path d="M93.3,50.4H84c-2.2,0-4,1.8-4,4s1.8,4,4,4h9.3c2.2,0,4-1.8,4-4S95.5,50.4,93.3,50.4z"></path><path d="M45.7,12.7V22c0,2.2,1.8,4,4,4c2.2,0,4-1.8,4-4v-9.3c0-2.2-1.8-4-4-4C47.5,8.7,45.7,10.5,45.7,12.7z"></path><path d="M15.7,22.8c-1.6,1.6-1.6,4.1,0,5.7l6.6,6.6c0.8,0.8,1.8,1.2,2.8,1.2s2-0.4,2.8-1.2c1.6-1.6,1.6-4.1,0-5.7l-6.6-6.6   C19.8,21.2,17.3,21.2,15.7,22.8z"></path><path d="M78.1,22.8l-6.6,6.6c-1.6,1.6-1.6,4.1,0,5.7c0.8,0.8,1.8,1.2,2.8,1.2s2-0.4,2.8-1.2l6.6-6.6c1.6-1.6,1.6-4.1,0-5.7   C82.2,21.2,79.6,21.2,78.1,22.8z"></path><path d="M86.2,87.3c0-2.2-1.8-4-4-4c-1,0-1.4-0.3-2.6-1.5c-1.5-1.5-3.8-3.7-8.1-3.7c-4.3,0-6.6,2.2-8.1,3.7   c-1.2,1.2-1.6,1.5-2.6,1.5c-1,0-1.4-0.3-2.6-1.5c-1.5-1.5-3.8-3.7-8.1-3.7c-4.3,0-6.6,2.2-8.1,3.7c-1.2,1.2-1.6,1.5-2.6,1.5   c-1,0-1.4-0.3-2.6-1.5c-1.5-1.5-3.8-3.7-8.1-3.7s-6.6,2.2-8.1,3.7c-1.2,1.2-1.6,1.5-2.6,1.5c-2.2,0-4,1.8-4,4s1.8,4,4,4   c4.3,0,6.6-2.2,8.1-3.7c1.2-1.2,1.6-1.5,2.6-1.5s1.4,0.3,2.6,1.5c1.5,1.5,3.8,3.7,8.1,3.7s6.6-2.2,8.1-3.7c1.2-1.2,1.6-1.5,2.6-1.5   c1,0,1.4,0.3,2.6,1.5c1.5,1.5,3.8,3.7,8.1,3.7c4.3,0,6.6-2.2,8.1-3.7c1.2-1.2,1.6-1.5,2.6-1.5c1,0,1.4,0.3,2.6,1.5   c1.5,1.5,3.8,3.7,8.1,3.7C84.5,91.3,86.2,89.5,86.2,87.3z"></path></g></svg></a>
         <a class="nav-morning2 small-nav" href="#morning2"><img src="img/subnav.png"></a>
         <a class="nav-gotowork" href="#gotowork"><svg height='300px' width='300px'  fill="#FFFFFF" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve"><path d="M384.4,223.1c-2.1,0-4.2,0.1-6.3,0.2L341,70c-2.2-9-10.2-15.3-19.4-15.3H250c-11,0-20,9-20,20s9,20,20,20h55.8l33.4,137.9  c-33,14.7-57.5,45-64.1,81.5h-50.3c-7.1-38.7-34.3-70.5-70.4-84.1l6.4-35.6H197c11,0,20-9,20-20s-9-20-20-20h-52.9  c-9.7,0-18,6.9-19.7,16.5l-9.3,52.1c-61,0.3-110.6,50-110.6,111.1c0,61.3,49.8,111.1,111.1,111.1c54.4,0,99.9-39.4,109.3-91.1h50.3  c9.4,51.8,54.9,91.1,109.3,91.1c61.3,0,111.1-49.8,111.1-111.1S445.7,223.1,384.4,223.1z M348.9,272.6l10.1,41.6h-42.8  C321.4,296.5,333.3,281.6,348.9,272.6z M183.8,314.2h-44.3l7.8-43.6C164.8,279.3,178.2,295.1,183.8,314.2z M115.6,405.3  c-39.2,0-71.1-31.9-71.1-71.1c0-36.6,27.8-66.8,63.4-70.7l-12,67.2c-1,5.8,0.6,11.8,4.4,16.4c3.8,4.5,9.4,7.2,15.3,7.2h68.2  C175.1,383.7,147.8,405.3,115.6,405.3z M384.4,405.3c-32.3,0-59.6-21.6-68.2-51.1h68.2c6.1,0,11.9-2.8,15.7-7.6s5.2-11.1,3.7-17.1  l-16.1-66.3c37.6,1.8,67.7,32.9,67.7,71C455.5,373.4,423.7,405.3,384.4,405.3z"></path></svg></a>
@@ -75,7 +76,6 @@ echo "<!DOCTYPE html>\n"
                     </div>
                     <h1>Wusstest du, dass jeder Mensch pro Woche Plastik in der Menge von einer Kreditkarte isst?</h1>
                     <div class="subtext">Mikroplastikteilchen sind kleiner als fünf Millimeter und verstecken sich in Essen, Trinkwasser und sogar der Luft. Der Mensch nimmt wöchentlich fünf Gramm, also etwa das Gewicht einer Kreditkarte, davon auf. Mehr zum Thema findest du in diesem Report.</div>
-                    <span class="start-day">Hier folgen Fakten zum Thema Nachhaltigkeit und Umwelt, angelehnt an den Tagesablauf eines durchschnittlichen Deutschen</span>
                     <div class="sharemenu">
                         <a href="http://twitter.com/share?text=Wusstest du, dass jeder Mensch pro Woche Plastik in der Menge von einer Kreditkarte isst?&url=http://www.dailyimpact.earth&hashtags=createimpact,impact,noplastic">
                             <i class="fab fa-twitter"></i>
@@ -91,9 +91,20 @@ echo "<!DOCTYPE html>\n"
                         </a>
                     </div>
                     <section id="section04" class="demo">
-                        <a href="#morning"><span></span></a>
+                        <a href="#purpouse"><span></span></a>
                     </section>
                 </div>
+            </div>
+        </div>
+        <div id="x_purpouse" vs-anchor="purpouse" class="mainview">
+            <div class="darkbg">
+                <div class="contentcontainer">
+                    <div class="purpouse">
+                    Hier folgen Fakten zum Thema Nachhaltigkeit und Umwelt, angelehnt an den Tagesablauf eines durchschnittlichen Deutschen.
+                    </div>
+                    <section id="section04" class="demo">
+                        <a href="#morning"><span></span></a>
+                    </section>
             </div>
         </div>
         <div id="x_morning" vs-anchor="morning" class="mainview">

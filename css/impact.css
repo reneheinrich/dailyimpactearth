@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Karla|Arbutus Slab');
+@import url('https://fonts.googleapis.com/css?family=Karla|Montserrat:100,200,300,400,500,600,700,800,900|Arbutus Slab');
 
 body {
     background-color: black;
     color: #ffffff;
     font-weight: 300;
-    font-family: Karla;
+    font-family: Montserrat;
 }
 h1, h2, h3 {
     color: #000000;
@@ -17,7 +17,6 @@ h1, h2, h3 {
 
 h1{
     color:white;
-    float: left;
     position: relative;
     margin: 10px 0px;
     line-height: 1.1em;
@@ -135,23 +134,29 @@ height: 20px!important;
 
 .subtext{
     color: white;
-    font-size: calc(4.5px + 1.5vh);
-    margin: 30px 0px;
+    font-size: calc(5px + 1.5vh);
+    margin: 10px 0px;
     line-height: 1.3em;
     margin-left: -20px;
-    font-weight: 300;
+    font-weight: 200;
 }
 
-.start-day{
+.purpouse{
     color:white;
-    font-size: calc(4.5px + 1.5vh);
-    text-align: left;
-    display: flex;
-    width: 100%;
-    line-height: 1.5em;
-    margin-left: -20px;
+    position: relative;
+    margin-top: 50%;
+    line-height: 1.4em;
+    font-family: 'Arbutus Slab';
+    font-size: calc(13px + 1.5vh);
+    font-weight: 100;
 }
 
+#x_purpouse {
+    background-image: url('../background.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
 #x_morning {
     background-image: url('https://images.pexels.com/photos/2583836/pexels-photo-2583836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
     background-size: cover;
@@ -350,7 +355,6 @@ height: 20px!important;
     display: flex;
     position: relative;
     bottom: 0px;
-    margin-left:-20px;
     margin-top: 20px;
 }
 
