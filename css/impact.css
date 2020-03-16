@@ -47,8 +47,10 @@ b {
 
 a:hover, a:visited, a:link, a:active
 {
-    text-decoration: none !important;
+    text-decoration: none;
 }
+
+
 
 #navi {
     position: fixed;
@@ -141,6 +143,15 @@ height: 20px!important;
     font-weight: 300;
 }
 
+
+.subtext a {
+
+    color: #fff;
+    text-decoration: underline;
+
+
+}
+
 .purpouse{
     color:white;
     position: relative;
@@ -149,7 +160,7 @@ height: 20px!important;
     font-family: 'Arbutus Slab';
     font-size: calc(13px + 1.5vh);
     font-weight: 100;
-    text-align: center;
+    text-align: left;
 }
 
 #x_purpouse {
