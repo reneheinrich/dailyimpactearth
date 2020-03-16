@@ -107,11 +107,10 @@ echo "<!DOCTYPE html>\n"
                 <div class="contentcontainer">
                     <h2>Am Morgen</h2>
                     <div class="fact">
-                        Eine Plastikflasche braucht bis zu 450 Jahre bis sie sich zersetzt.
+                       450 Jahre dauert es bis sich eine einfache Plastikflasche zersetzt
                     </div>
                     <div class="cta-products">
-                        Genieße deinen Morgen lieber plastikfrei mit folgenden Produkten
-                    </div>
+                    Gerade unser Badezimmer ist besonders voll mit Plastikprodukten: Zahnbürsten, Cremes, Haargels, Wattestäbchen und vieles mehr. Dies macht es fast unmöglich plastikfrei in den Tag zu starten. <a href="https://www.zeit.de/2015/26/plastikmuell-nordsee-recycling-umweltschutz/komplettansicht" target="_blank"> Mehr Infos </a>                   </div>
                     <div class="owl-carousel">
                         <?php
                             amzn(

@@ -148,6 +148,7 @@ height: 20px!important;
 
     color: #fff;
     text-decoration: underline;
+    font-weight: 400;
 
 
 }
@@ -340,6 +341,7 @@ height: 20px!important;
     font-size: calc(4px + 1.5vh);
     color: black;
     margin-bottom: 8px;
+    font-weight: 400;
 }
 
 .owl-carousel .product img{
@@ -373,12 +375,22 @@ height: 20px!important;
     font-size: calc(16px + 1.5vh);
     word-wrap: break-word;
     hyphens: auto;
+    font-weight: 400;
 }
+
 
 .cta-products{
     color: white;
-    font-size: calc(3px + 1.5vh);
+    font-size: calc(4px + 1.5vh);
     margin-top: 40px;
+    font-weight: 300;
+    line-height: 1.3em;
+}
+
+.cta-products a {
+    color: white;
+    text-decoration: underline;
+    font-weight: 400;
 }
 
 #hero .sharemenu{
@@ -583,7 +595,7 @@ height: 20px!important;
     }
 
     .fact{
-        font-size: calc(16px + 0.9vh);
+        font-size: calc(13px + 0.9vh);
     }
 
     .cta-products{
