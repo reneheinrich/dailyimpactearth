@@ -128,7 +128,7 @@ height: 20px!important;
 }
 
 #hero {
-    background-image: url('../background.jpg');
+    background-image: url('../backgrounds/background.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -164,7 +164,7 @@ height: 20px!important;
 }
 
 #x_purpouse {
-    background-image: url('../background.jpg');
+    background-image: url('../backgrounds/background.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -178,85 +178,85 @@ height: 20px!important;
     display: flex;
 }
 #x_morning {
-    background-image: url('https://images.pexels.com/photos/2583836/pexels-photo-2583836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-image: url('../backgrounds/plastic.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 #x_morning2 {
-    background-image: url('https://images.pexels.com/photos/733174/pexels-photo-733174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-image: url('../backgrounds/cliff.jpeg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
-#x_gotowork {
-    background-image: url('https://media-public.canva.com/R2_q4/MADyRsR2_q4/1/s.jpg');
+#commute{
+    background-image: url('../backgrounds/auto.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 #x_gotowork2 {
-    background-image: url('https://media-public.canva.com/R2_q4/MADyRsR2_q4/1/s.jpg');
+    background-image: url('../backgrounds/auto.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 #x_work {
-    background-image: url('https://media-public.canva.com/MADCdRXXrbM/2/0/screen-2.png');
+    background-image: url('../backgrounds/screen-2.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 #x_work2 {
-    background-image: url('https://media-public.canva.com/MADCdRXXrbM/2/0/screen-2.png');
+    background-image: url('../backgrounds/screen-2.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 #x_break {
-    background-image: url('https://media-public.canva.com/8aqNY/MADyRD8aqNY/1/s.jpg');
+    background-image: url('../backgrounds/chill.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 #x_break2 {
-    background-image: url('https://media-public.canva.com/8aqNY/MADyRD8aqNY/1/s.jpg');
+    background-image: url('../backgrounds/chill.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 #x_afterwork {
-    background-image: url('https://media-public.canva.com/fQFII/MADwWqfQFII/1/s.jpg');
+    background-image: url('../backgrounds/fleisch.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 #x_afterwork2 {
-    background-image: url('https://media-public.canva.com/fQFII/MADwWqfQFII/1/s.jpg');
+    background-image: url('../backgrounds/fleisch.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 #x_sports {
-    background-image: url('https://media-public.canva.com/MADGye9mbjI/4/screen.jpg');
+    background-image: url('../backgrounds/wandern.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 #x_sports2 {
-    background-image: url('https://media-public.canva.com/MADGye9mbjI/4/screen.jpg');
+    background-image: url('../backgrounds/wandern.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 #x_evening {
-    background-image: url('https://images.pexels.com/photos/3727117/pexels-photo-3727117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-image: url('../backgrounds/wasser.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 #x_evening2 {
-    background-image: url('https://images.pexels.com/photos/3727117/pexels-photo-3727117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-image: url('../backgrounds/wasser.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
