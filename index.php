@@ -615,6 +615,89 @@ echo "<!DOCTYPE html>\n"
                 </div>
             </div>
         </div>
+        <div id="x_end" vs-anchor="end" class="mainview">
+            <div class="darkbg">
+                <div class="contentcontainer">
+                    <h2>SIGNUP</h2>
+                    <div class="fact">
+                        25% der meisten Tier- und Pflanzengruppen sind bereits vorm Aussterben bedroht.
+                    </div>
+
+                    <div class="mailchimp-signup">
+                    <!-- Begin Mailchimp Signup Form -->
+                        <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+                        <style type="text/css">
+
+                            /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+                            We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+                        </style>
+                        <style type="text/css">
+                            #mc-embedded-subscribe-form input[type=checkbox]{display: inline; width: auto;margin-right: 10px; background: transparent; background-color: transparent;}
+                            #mergeRow-gdpr {margin-top: 20px;}
+                            #mergeRow-gdpr fieldset label {font-weight: normal;}
+                            #mc-embedded-subscribe-form .mc_fieldset{border:none;min-height: 0px;padding-bottom:0px; background: transparent; background-color: transparent;}
+                        </style>
+                        <div id="mc_embed_signup">
+                        <form action="https://earth.us19.list-manage.com/subscribe/post?u=719dda749e11b95def474e60a&amp;id=a1b6f652af" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                            <div id="mc_embed_signup_scroll">
+                        <div class="mc-field-group">
+                            <label for="mce-EMAIL">E-Mail Addresse  <span class="asterisk">*</span>
+                        </label>
+                            <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+                        </div>
+                        <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
+                            <div class="content__gdpr">
+                                <label> </label>
+                                <p> </p>
+                                <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
+                                <label class="checkbox subfield" for="gdpr_56431"><input type="checkbox" id="gdpr_56431" name="gdpr[56431]" value="Y" class="av-checkbox gdpr"><span>Zum Newsletter anmelden</span> </label>
+                                </fieldset>
+                                <p>Mit der Anmeldung zu unserem Newsletter erklären Sie sich bis auf Widerruf damit einverstanden, dass Ihre oben angegebenen Daten von uns zum Zwecke der Zusendung des Newsletters verarbeitet werden und dass wir Ihnen den Newsletter per E-Mail zusenden dürfen. Es gelten die Bestimmungen unserer Datenschutzerklärung.
+
+                        Sie können sich jederzeit über den Link im Footer unserer Emails von unserem Newsletter abmelden.</p>
+                            </div>
+                            <div class="content__gdprLegal">
+                                <p>Wir nutzen Mailchimp als Mailingplattform. Mit Ihrem Klick auf Abonnieren willigen Sie ein, dass Ihre Daten über Mailchimp verarbeitet werden. 
+                                    
+                                <a href="https://mailchimp.com/legal/" target="_blank">Weitere Information zu diesem Thema finden Sie hier</a>.</p>
+                            </div>
+                        </div>
+                            <div id="mce-responses" class="clear">
+                                <div class="response" id="mce-error-response" style="display:none"></div>
+                                <div class="response" id="mce-success-response" style="display:none"></div>
+                            </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_719dda749e11b95def474e60a_a1b6f652af" tabindex="-1" value=""></div>
+                            <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                            </div>
+                        </form>
+                        </div>
+                        <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday'; /*
+                        * Translated default messages for the $ validation plugin.
+                        * Locale: DE
+                        */
+                        $.extend($.validator.messages, {
+                            required: "Dieses Feld ist ein Pflichtfeld.",
+                            maxlength: $.validator.format("Geben Sie bitte maximal {0} Zeichen ein."),
+                            minlength: $.validator.format("Geben Sie bitte mindestens {0} Zeichen ein."),
+                            rangelength: $.validator.format("Geben Sie bitte mindestens {0} und maximal {1} Zeichen ein."),
+                            email: "Geben Sie bitte eine gültige E-Mail Adresse ein.",
+                            url: "Geben Sie bitte eine gültige URL ein.",
+                            date: "Bitte geben Sie ein gültiges Datum ein.",
+                            number: "Geben Sie bitte eine Nummer ein.",
+                            digits: "Geben Sie bitte nur Ziffern ein.",
+                            equalTo: "Bitte denselben Wert wiederholen.",
+                            range: $.validator.format("Geben Sie bitten einen Wert zwischen {0} und {1}."),
+                            max: $.validator.format("Geben Sie bitte einen Wert kleiner oder gleich {0} ein."),
+                            min: $.validator.format("Geben Sie bitte einen Wert größer oder gleich {0} ein."),
+                            creditcard: "Geben Sie bitte ein gültige Kreditkarten-Nummer ein."
+                        });}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+                        <!--End mc_embed_signup-->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
     </main>
 </div>
 <script

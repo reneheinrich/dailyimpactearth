@@ -128,7 +128,7 @@ height: 20px!important;
 }
 
 #hero {
-    background-image: url('../backgrounds/background.jpg');
+    background-image: url('../backgrounds/desktop/background.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -427,6 +427,27 @@ height: 20px!important;
 #gotowork .graph {
     width: 70vw;
 }
+
+
+/*MAILCHIMP*/
+
+#mc_embed_signup{
+    margin-top: 10px;
+    background:rgba(255, 255, 255, 0.9); 
+    clear:left; 
+    font-size: calc(4px + 1vh);;
+    font-family: Montserrat;
+    font-weight:100;
+    border-radius: 5px;
+    text-align: justify;
+
+}
+
+#mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error {
+    background: transparent;
+    background-color: transparent;
+}
+
 
 
 @media only screen and (orientation: landscape){
