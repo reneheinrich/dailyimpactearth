@@ -489,6 +489,11 @@ height: 20px!important;
         margin: auto;
         margin-top: 30px;
     }
+
+    .cta-products{
+        font-size: calc(6px + 1.5vh);
+        width: 800px;
+    }
 }
 
 @media only screen and (max-width: 600px) {
