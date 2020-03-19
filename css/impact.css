@@ -298,13 +298,12 @@ height: 20px!important;
     width: 100%;
     height: auto;
     border-radius: 8px;
-    margin-top: 50px;
+    margin-top: 30px;
     padding: 30px;
 }
 
 .owl-carousel{
     width: calc(100% + 60px);
-    /*margin-left: -20px;*/
 }
 
 .owl-carousel .owl-stage{
