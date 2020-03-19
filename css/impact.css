@@ -303,7 +303,7 @@ height: 20px!important;
 }
 
 .owl-carousel{
-    width: calc(100% + 60px);
+    width: calc(100% + 40px);
 }
 
 .owl-carousel .owl-stage{
