@@ -376,13 +376,14 @@ height: 20px!important;
     word-wrap: break-word;
     hyphens: auto;
     font-weight: 400;
+    margin-top: -20px;
 }
 
 
 .cta-products{
     color: white;
     font-size: calc(4px + 1.5vh);
-    margin-top: 40px;
+    margin-top: 0px;
     font-weight: 300;
     line-height: 1.3em;
 }
