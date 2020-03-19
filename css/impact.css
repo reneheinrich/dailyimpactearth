@@ -143,14 +143,11 @@ height: 20px!important;
     font-weight: 300;
 }
 
-
 .subtext a {
 
     color: #fff;
     text-decoration: underline;
     font-weight: 400;
-
-
 }
 
 .purpouse{
@@ -369,7 +366,7 @@ height: 20px!important;
 
 .fact{
     color: white;
-    font-size: calc(15px + 1.5vh);
+    font-size: calc(13px + 1.5vh);
     word-wrap: break-word;
     hyphens: auto;
     font-weight: 400;
