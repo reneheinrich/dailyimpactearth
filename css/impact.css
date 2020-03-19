@@ -457,7 +457,11 @@ height: 20px!important;
     
     #x_afterwork .graph{
 		width: 300px;
-	}
+    }
+    
+    .subtext{
+        margin-left: 0;
+    }
 
 	.contentcontainer{
         padding-left: 0px;
@@ -473,7 +477,7 @@ height: 20px!important;
     }
 
     #hero .sharemenu{
-        margin-left:0!important;
+        margin-left:20px;
     }
 
     .logo, h2{
