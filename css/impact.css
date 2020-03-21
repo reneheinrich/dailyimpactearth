@@ -493,6 +493,10 @@ height: 20px!important;
         width: 800px;
         margin-top: 15px;
     }
+
+    .owl-carousel .product { 
+        width: 20vw;
+    }
 }
 
 @media only screen and (max-width: 600px) {
