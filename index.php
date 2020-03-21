@@ -229,7 +229,16 @@ echo "<!DOCTYPE html>\n"
                 <div class="contentcontainer">
                     <h2>Ab zur Arbeit</h2>
                     <div class="fact">
-                        Neuer Fact mit Produkten.
+                        Feinstaub trägt europaweit zu einem Drittel der Asthmafälle bei.
+                    </div>
+                    <div class="cta-products">
+                        Ein heute gekauftes, für den breiten Markt typisches Elektrofahrzeug schneidet 
+                        im Vergleich mit verbrennungsmotorischen Fahrzeugen unter allen Klimagesichtspunkten 
+                        besser ab. Im Vergleich mit einem besonders sparsamen Dieselfahrzeug liegt der CO2-Vorteil 
+                        eines Elektroautos bei 16 Prozent, gegenüber einem modernen Benziner bei 27 Prozent. 
+                        Mehr Informationen <a href="https://www.bmu.de/fileadmin/Daten_BMU/Pools/Broschueren/elektroautos_bf.pdf" target="_blank">hier</a>, 
+                        <a href="https://www.medical-tribune.de/medizin-und-forschung/artikel/oft-ist-feinstaub-verantwortlich-fuer-asthma/" target="_blank">hier</a> und 
+                        <a href="https://erj.ersjournals.com/content/early/2019/07/08/13993003.02194-2018" target="_blank">hier</a>.
                     </div>
                     <div class="owl-carousel">
                         <?php
@@ -468,6 +477,18 @@ echo "<!DOCTYPE html>\n"
                             "Adidas Herren Oceanplastic Schuhe",
                             "Diese adidas Ultraboost Schuhe werden aus Ozeanplastik hergestellt."
                         );
+                        amzn(
+                            "2uHdNFg",
+                            "img/bambushandtuecher.jpg",
+                            "Bambus Reisehandtuch",
+                            "Bambus ist ein ultraschnell nachwachsender Rohstoff der im Anbau mit sehr wenig Wasser und ganz ohne Pestizide auskommt."
+                        );
+                        amzn(
+                            "2vCHiIp",
+                            "img/yoga.jpg",
+                            "Yogamatte aus 100% Kork und Natur-Kautschuk",
+                            "Yoga Matte aus naturmaterialien Kork und Kautschuk werden ökologisch angebaut und sind gleichzeitig biologisch wieder abbaubar. "
+                        );
                         ?>
                     </div>
                     <?php
@@ -501,6 +522,7 @@ echo "<!DOCTYPE html>\n"
                             "Adidas Herren Oceanplastic Schuhe",
                             "Diese adidas Ultraboost Schuhe werden aus Ozeanplastik hergestellt."
                         );
+<<<<<<< HEAD
                         amzn(
                             "334FKmV",
                             "img/adidasshirt.jpg",
@@ -513,6 +535,8 @@ echo "<!DOCTYPE html>\n"
                             "adidas Damen Oceanplastic Schuhe",
                             "Diese adidas Ultraboost Schuhe werden aus Ozeanplastik hergestellt."
                         );
+=======
+>>>>>>> master
                         ?>
                     </div>
                     <?php
@@ -605,7 +629,7 @@ echo "<!DOCTYPE html>\n"
                         Der durchschnittliche Mensch verbraucht 127 Liter Wasser pro Kopf pro Tag.
                     </div>
                     <div class="cta-products">
-                        Reinige dein Gewissen mit diesen ökologischen Alternativen
+                        Besonders das Duschen schlägt hier zu buche. Herkömmliche Duschköpfe verbrauchen etwa 12 bis 15 Liter pro Minute. Ein Sparduschkopf hingegen kommt mit ca. 6 bis 7 Litern pro Minute aus. Ein Dreipersonenhaushalt kann so im Jahr knapp 400 Euro und 640 kg an CO2 einsparen. Mehr Informationen <a href="https://www.mein-klimaschutz.de/zu-hause/a/bad/wie-hoch-ist-der-wasserverbrauch-beim-duschen/" target="_blank">hier</a> und <a href="https://www.bdew.de/media/documents/Entwicklung_des_personenbezogenen_Wassergebrauches_ab_1990_o_online_j_Ott_03042019.pdf" target="_blank">hier</a>.
                     </div>
                     <div class="owl-carousel">
                         <?php
