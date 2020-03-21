@@ -357,7 +357,7 @@ echo "<!DOCTYPE html>\n"
                 <div class="contentcontainer">
                     <h2>In der Pause</h2>
                     <div class="fact">
-                        Eine komplett vegane Ernährung verursacht durchschnittlich 2 Tonnen weniger CO2 pro jahr und Person.
+                        Eine komplett vegane Ernährung verursacht durchschnittlich 2 Tonnen weniger CO2 pro Jahr und Person.
                     </div>
                     <div class="cta-products">
                     Das ist in etwa der CO2 Ausstoß von 8 Kurzstreckenflügen. Natürlich möchte nicht jeder komplett vegan oder vegetarisch leben. Aber auch hin und wieder auf Alternativprodukte zurückzugreifen kann einen Unterschied machen. Mehr dazu <a href="https://utopia.de/vegan-treibhausgase-co2-137342/"> hier.</a>
@@ -451,6 +451,34 @@ echo "<!DOCTYPE html>\n"
                     <div class="fact">
                         Missing here
                     </div>
+                    <div class="owl-carousel">
+                        <?php
+                        amzn(
+                            "2V2o3lU",
+                            "img/proteinpancakes.jpg",
+                            "Proteinpancakes",
+                            "Diese Backmischung hat 6x mehr Protein als Standardmischungen. Perfekt für eine vegane Proteinreiche ernährung."
+                        );
+                        amzn(
+                            "2uQGCij",
+                            "img/adidas.jpg",
+                            "Adidas Herren Oceanplastic Schuhe",
+                            "Diese adidas Ultraboost Schuhe werden aus Ozeanplastik hergestellt."
+                        );
+                        amzn(
+                            "2uHdNFg",
+                            "img/bambushandtuecher.jpg",
+                            "Bambus Reisehandtuch",
+                            "Bambus ist ein ultraschnell nachwachsender Rohstoff der im Anbau mit sehr wenig Wasser und ganz ohne Pestizide auskommt."
+                        );
+                        amzn(
+                            "2vCHiIp",
+                            "img/yoga.jpg",
+                            "Yogamatte aus 100% Kork und Natur-Kautschuk",
+                            "Yoga Matte aus naturmaterialien Kork und Kautschuk werden ökologisch angebaut und sind gleichzeitig biologisch wieder abbaubar. "
+                        );
+                        ?>
+                    </div>
                     <?php
                         share(
                             "afterwork2",
@@ -468,6 +496,40 @@ echo "<!DOCTYPE html>\n"
                     <div class="fact">
                         Kommt noch!
                     </div>
+                    <div class="owl-carousel">
+                        <?php
+                        amzn(
+                            "2V2o3lU",
+                            "img/proteinpancakes.jpg",
+                            "Proteinpancakes",
+                            "Diese Backmischung hat 6x mehr Protein als Standardmischungen. Perfekt für eine vegane Proteinreiche ernährung."
+                        );
+                        amzn(
+                            "2uQGCij",
+                            "img/adidas.jpg",
+                            "Adidas Herren Oceanplastic Schuhe",
+                            "Diese adidas Ultraboost Schuhe werden aus Ozeanplastik hergestellt."
+                        );
+                        amzn(
+                            "2uHdNFg",
+                            "img/bambushandtuecher.jpg",
+                            "Bambus Reisehandtuch",
+                            "Bambus ist ein ultraschnell nachwachsender Rohstoff der im Anbau mit sehr wenig Wasser und ganz ohne Pestizide auskommt."
+                        );
+                        amzn(
+                            "2vCHiIp",
+                            "img/yoga.jpg",
+                            "Yogamatte aus 100% Kork und Natur-Kautschuk",
+                            "Yoga Matte aus naturmaterialien Kork und Kautschuk werden ökologisch angebaut und sind gleichzeitig biologisch wieder abbaubar. "
+                        );
+                        amzn(
+                            "31Z46On",
+                            "img/proteinshake.jpg",
+                            "Veganer Nahrungsersatz",
+                            "Food Vegan Drink enthält alle Nährstoffe, die dein Körper benötigt: 26g Protein, 40g glutenfreie Kohlenhydrate, 8.4g Ballaststoffe sowie 26 Vitamine & Mineralstoffe."
+                        );
+                        ?>
+                    </div>
                     <?php
                         share(
                             "sports",
@@ -475,6 +537,7 @@ echo "<!DOCTYPE html>\n"
                             "createimpact,impact,govegan"
                         );
                     ?>
+                    
                 </div>
             </div>
         </div>
