@@ -446,55 +446,6 @@ height: 20px!important;
     background-color: transparent;
 }
 
-
-
-@media only screen and (orientation: landscape){
-	#x_gotowork .graph{
-		width: 300px;
-    }
-    
-    #x_afterwork .graph{
-		width: 300px;
-    }
-    
-    .subtext{
-        margin-left: 0;
-    }
-
-	.contentcontainer{
-        padding-left: 0px;
-        width: 80%;
-        margin: auto;
-        position: relative;
-        padding-right: 0;
-    }
-
-    .logo, h1, .start-day{
-        margin-left: 0;
-        width: 100%;
-    }
-
-    #hero .sharemenu{
-        margin-left:20px;
-    }
-
-    .logo, h2{
-        margin-top: 00px !important;
-    }
-
-    .purpouse{
-        width: 500px;
-        margin: auto;
-        margin-top: 30px;
-    }
-
-    .cta-products{
-        font-size: calc(6px + 1.5vh);
-        width: 800px;
-        margin-top: 15px;
-    }
-}
-
 @media only screen and (max-width: 600px) {
 
     #x_purpouse {
@@ -634,5 +585,57 @@ height: 20px!important;
 
     .owl-carousel.owl-drag .owl-item{
         margin-top: 15px;
+    }
+}
+
+/*desktop view*/
+@media only screen and (orientation: landscape){
+	#x_gotowork .graph{
+		width: 300px;
+    }
+    
+    #x_afterwork .graph{
+		width: 300px;
+    }
+    
+    .subtext{
+        margin-left: 0;
+    }
+
+	.contentcontainer{
+        padding-left: 0px;
+        width: 80%;
+        margin: auto;
+        position: relative;
+        padding-right: 0;
+    }
+
+    .logo, h1, .start-day{
+        margin-left: 0;
+        width: 100%;
+    }
+
+    #hero .sharemenu{
+        margin-left:20px;
+    }
+
+    .logo, h2{
+        margin-top: 00px !important;
+    }
+
+    .purpouse{
+        width: 500px;
+        margin: auto;
+        margin-top: 30px;
+    }
+
+    .cta-products{
+        font-size: calc(6px + 1.5vh);
+        width: 800px;
+        margin-top: 15px;
+    }
+
+    .owl-carousel .product { 
+        width: 20vw;
     }
 }
