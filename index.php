@@ -449,33 +449,36 @@ echo "<!DOCTYPE html>\n"
                 <div class="contentcontainer">
                     <h2>Nach der Arbeit</h2>
                     <div class="fact">
-                        Missing here
+                        Tropische Regenwälder schrumpfen Weltweit um 30 Fussballfelder pro Minute. 
+                    </div>
+                    <div class="cta-products">
+                        Während ein Teil dieses Verlusts auf natürliche Ursachen wie Waldbrände zurückzuführen ist, werden Waldflächen in erster Linie gerodet, um Platz für Rinder oder landwirtschaftliche Produktion wie Palmöl und Sojabohnen zu machen.
                     </div>
                     <div class="owl-carousel">
                         <?php
                         amzn(
                             "2V2o3lU",
-                            "img/proteinpancakes.jpg",
-                            "Proteinpancakes",
-                            "Diese Backmischung hat 6x mehr Protein als Standardmischungen. Perfekt für eine vegane Proteinreiche ernährung."
+                            "img/einkaufstasche.jpg",
+                            "Nachhaltige Einkaufstasche",
+                            "Nachhaltiger Einkaufsbeutel aus 100% Bio Baumwolle. Global Organic Textile Standard mit nachhaltigem Druck."
                         );
                         amzn(
                             "2uQGCij",
-                            "img/adidas.jpg",
-                            "Adidas Herren Oceanplastic Schuhe",
-                            "Diese adidas Ultraboost Schuhe werden aus Ozeanplastik hergestellt."
+                            "img/kopfhörer.jpg",
+                            "Bluetooth Kopfhörer aus nachhaltigem Bambus und Silikon",
+                            "Diese Bluetoothkopfhörer sind aus nachhaltigem FSC-zertifiziertem Bambus und recyceltes Silikon. Sie haben 9 Std Akkulaufzeit und sind wasser- und schweißfest."
                         );
                         amzn(
                             "2uHdNFg",
                             "img/bambushandtuecher.jpg",
-                            "Bambus Reisehandtuch",
-                            "Bambus ist ein ultraschnell nachwachsender Rohstoff der im Anbau mit sehr wenig Wasser und ganz ohne Pestizide auskommt."
+                            "Bambus Küchenrolle",
+                            "Jeden Tag werden 51.000 Tonnen Bäume für Küchentücher gefällt. Mit der Küchenrolle wirkst du der Abholzung der Wälder entgegen."
                         );
                         amzn(
                             "2vCHiIp",
-                            "img/yoga.jpg",
-                            "Yogamatte aus 100% Kork und Natur-Kautschuk",
-                            "Yoga Matte aus naturmaterialien Kork und Kautschuk werden ökologisch angebaut und sind gleichzeitig biologisch wieder abbaubar. "
+                            "img/geldbörse.jpg",
+                            "Vegane Korkleder Geldbörse",
+                            "Korkleder ist eine alternative und umweltfreundliche Variante zu tierischem Leder."
                         );
                         ?>
                     </div>
