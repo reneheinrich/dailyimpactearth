@@ -502,22 +502,16 @@ echo "<!DOCTYPE html>\n"
                             "Diese adidas Ultraboost Schuhe werden aus Ozeanplastik hergestellt."
                         );
                         amzn(
-                            "2uHdNFg",
-                            "img/bambushandtuecher.jpg",
-                            "Bambus Reisehandtuch",
-                            "Bambus ist ein ultraschnell nachwachsender Rohstoff der im Anbau mit sehr wenig Wasser und ganz ohne Pestizide auskommt."
+                            "334FKmV",
+                            "img/adidasshirt.jpg",
+                            "adidas Parley Herren Sportshirt",
+                            "Dieses adidas Sportshirt wird aus Ozeanplastik hergestellt."
                         );
                         amzn(
-                            "2vCHiIp",
-                            "img/yoga.jpg",
-                            "Yogamatte aus 100% Kork und Natur-Kautschuk",
-                            "Yoga Matte aus naturmaterialien Kork und Kautschuk werden ökologisch angebaut und sind gleichzeitig biologisch wieder abbaubar. "
-                        );
-                        amzn(
-                            "31Z46On",
-                            "img/proteinshake.jpg",
-                            "Veganer Nahrungsersatz",
-                            "Food Vegan Drink enthält alle Nährstoffe, die dein Körper benötigt: 26g Protein, 40g glutenfreie Kohlenhydrate, 8.4g Ballaststoffe sowie 26 Vitamine & Mineralstoffe."
+                            "2TC4W16",
+                            "img/adidaswomen.jpg",
+                            "adidas Damen Oceanplastic Schuhe",
+                            "Diese adidas Ultraboost Schuhe werden aus Ozeanplastik hergestellt."
                         );
                         ?>
                     </div>
@@ -558,7 +552,7 @@ echo "<!DOCTYPE html>\n"
                         );
                         amzn(
                             "2uHdNFg",
-                            "img/bambushandtuecher.jpg",
+                            "img/traveltowel.jpg",
                             "Bambus Reisehandtuch",
                             "Bambus ist ein ultraschnell nachwachsender Rohstoff der im Anbau mit sehr wenig Wasser und ganz ohne Pestizide auskommt."
                         );
