@@ -364,7 +364,9 @@ echo "<!DOCTYPE html>\n"
                     </div>        
                     <?php
                         share(
-                            "break",    
+                            "break",
+                            "",
+                            ""
                         );
                     ?>
                 </div>
