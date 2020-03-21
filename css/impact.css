@@ -249,7 +249,7 @@ height: 20px!important;
     background-repeat: no-repeat;
 }
 #x_sports {
-    background-image: url('../backgrounds/desktop/wandern.jpg');
+    background-image: url('../backgrounds/desktop/racetrack.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -418,7 +418,7 @@ height: 20px!important;
 .graph{
     margin-top: 20px;
     margin-left: -20px;
-    width: 30vw;
+    width: 20vw;
 
 }
 
@@ -531,7 +531,7 @@ height: 20px!important;
         background-repeat: no-repeat;
     }
     #x_sports {
-        background-image: url('../backgrounds/wandern.jpg');
+        background-image: url('../backgrounds/racetrack.jpg');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -591,7 +591,7 @@ height: 20px!important;
 /*desktop view*/
 @media only screen and (orientation: landscape){
 	#x_gotowork .graph{
-		width: 300px;
+		width: 250px!important;
     }
     
     #x_afterwork .graph{
