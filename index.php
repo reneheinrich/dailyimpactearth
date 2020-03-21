@@ -602,7 +602,7 @@ echo "<!DOCTYPE html>\n"
                         Der durchschnittliche Deutsche verbraucht 127 Liter Wasser pro Kopf pro Tag.
                     </div>
                     <div class="cta-products">
-                        Reinige dein Gewissen mit diesen ökologischen Alternativen. Mehr <a href="https://www.bdew.de/media/documents/Entwicklung_des_personenbezogenen_Wassergebrauches_ab_1990_o_online_j_Ott_03042019.pdf" target="_blank">hier</a>.
+                        Besonders das Duschen schlägt hier zu buche. Herkömmliche Duschköpfe verbrauchen etwa 12 bis 15 Liter pro Minute. Ein Sparduschkopf hingegen kommt mit ca. 6 bis 7 Litern pro Minute aus. Ein Dreipersonenhaushalt kann so im Jahr knapp 400 Euro und 640 kg an CO2 einsparen. Mehr Informationen <a href="https://www.mein-klimaschutz.de/zu-hause/a/bad/wie-hoch-ist-der-wasserverbrauch-beim-duschen/" target="_blank">hier</a> und <a href="https://www.bdew.de/media/documents/Entwicklung_des_personenbezogenen_Wassergebrauches_ab_1990_o_online_j_Ott_03042019.pdf" target="_blank">hier</a>.
                     </div>
                     <div class="owl-carousel">
                         <?php
