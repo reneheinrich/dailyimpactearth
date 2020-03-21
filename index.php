@@ -227,9 +227,15 @@ echo "<!DOCTYPE html>\n"
         <div id="x_gotowork2" vs-anchor="gotowork2" class="mainview">
             <div class="darkbg">
                 <div class="contentcontainer">
-                    <h2>Ab zur Arbeit</h2>
+                    <h2>Feinstaub trägt europaweit zu einem Drittel der Asthmafälle bei.</h2>
                     <div class="fact">
-                        Neuer Fact mit Produkten.
+                    Ein heute gekauftes, für den breiten Markt typisches Elektrofahrzeug schneidet im Vergleich mit verbrennungsmotorischen Fahrzeugen unter allen Klimagesichtspunkten besser ab. Im Vergleich mit einem besonders sparsamen Dieselfahrzeug liegt der CO2-Vorteil eines Elektroautos bei 16 Prozent, gegenüber einem modernen Benziner bei 27 Prozent. Mehr Informationen <a href="https://www.bmu.de/fileadmin/Daten_BMU/Pools/Broschueren/elektroautos_bf.pdf" target="_blank">hier</a> <!-- https://www.bmu.de/fileadmin/Daten_BMU/Pools/Broschueren/elektroautos_bf.pdf
+https://www.medical-tribune.de/medizin-und-forschung/artikel/oft-ist-feinstaub-verantwortlich-fuer-asthma/ 
+
+bzw.
+
+https://erj.ersjournals.com/content/early/2019/07/08/13993003.02194-2018 
+                    -->
                     </div>
                     <div class="owl-carousel">
                         <?php
