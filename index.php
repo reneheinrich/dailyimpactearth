@@ -465,18 +465,6 @@ echo "<!DOCTYPE html>\n"
                             "Adidas Herren Oceanplastic Schuhe",
                             "Diese adidas Ultraboost Schuhe werden aus Ozeanplastik hergestellt."
                         );
-                        amzn(
-                            "2uHdNFg",
-                            "img/bambushandtuecher.jpg",
-                            "Bambus Reisehandtuch",
-                            "Bambus ist ein ultraschnell nachwachsender Rohstoff der im Anbau mit sehr wenig Wasser und ganz ohne Pestizide auskommt."
-                        );
-                        amzn(
-                            "2vCHiIp",
-                            "img/yoga.jpg",
-                            "Yogamatte aus 100% Kork und Natur-Kautschuk",
-                            "Yoga Matte aus naturmaterialien Kork und Kautschuk werden ökologisch angebaut und sind gleichzeitig biologisch wieder abbaubar. "
-                        );
                         ?>
                     </div>
                     <?php
