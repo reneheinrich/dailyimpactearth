@@ -602,7 +602,7 @@ echo "<!DOCTYPE html>\n"
                         Der durchschnittliche Deutsche verbraucht 127 Liter Wasser pro Kopf pro Tag.
                     </div>
                     <div class="cta-products">
-                        Reinige dein Gewissen mit diesen ökologischen Alternativen. <a href="https://www.bdew.de/media/documents/Entwicklung_des_personenbezogenen_Wassergebrauches_ab_1990_o_online_j_Ott_03042019.pdf" target="_blank">Mehr hier.</a>
+                        Reinige dein Gewissen mit diesen ökologischen Alternativen. Mehr <a href="https://www.bdew.de/media/documents/Entwicklung_des_personenbezogenen_Wassergebrauches_ab_1990_o_online_j_Ott_03042019.pdf" target="_blank">hier</a>.
                     </div>
                     <div class="owl-carousel">
                         <?php
