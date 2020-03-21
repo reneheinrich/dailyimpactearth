@@ -211,7 +211,7 @@ echo "<!DOCTYPE html>\n"
                         Auf dem durchschnittlichen Arbeitsweg verbraucht ein Pendler pro Tag 4,2kg CO2. 
                     </div>
                     <div class="cta-products">
-                        Mehr Informationen findest du <a href="https://www.focus.de/wissen/klima/fleisch-essen-ist-besonders-schlecht-foehnen-waschen-zaehne-putzen-so-viel-co2-produzieren-sie-an-einem-normalen-tag_id_10628671.html">hier</a>.
+                        In der Graphik siehst du wie viel Gramm CO2 pro Personenkilometer verbraucht werden. Mehr Informationen findest du <a href="https://www.focus.de/wissen/klima/fleisch-essen-ist-besonders-schlecht-foehnen-waschen-zaehne-putzen-so-viel-co2-produzieren-sie-an-einem-normalen-tag_id_10628671.html">hier</a>.
                     </div>
                     <img class="graph" src="verkehr.svg">
                     <?php
