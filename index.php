@@ -522,7 +522,6 @@ echo "<!DOCTYPE html>\n"
                             "Adidas Herren Oceanplastic Schuhe",
                             "Diese adidas Ultraboost Schuhe werden aus Ozeanplastik hergestellt."
                         );
-<<<<<<< HEAD
                         amzn(
                             "334FKmV",
                             "img/adidasshirt.jpg",
@@ -535,9 +534,7 @@ echo "<!DOCTYPE html>\n"
                             "adidas Damen Oceanplastic Schuhe",
                             "Diese adidas Ultraboost Schuhe werden aus Ozeanplastik hergestellt."
                         );
-=======
->>>>>>> master
-                        ?>
+                    ?>
                     </div>
                     <?php
                         share(
