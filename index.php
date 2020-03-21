@@ -212,6 +212,7 @@ echo "<!DOCTYPE html>\n"
                     </div>
                     <div class="cta-products">
                         Mehr Informationen findest du <a href="https://www.focus.de/wissen/klima/fleisch-essen-ist-besonders-schlecht-foehnen-waschen-zaehne-putzen-so-viel-co2-produzieren-sie-an-einem-normalen-tag_id_10628671.html">hier</a>.
+                            Gramm CO2 pro Personenkilometer:
                     </div>
                     <img class="graph" src="verkehr.svg">
                     <?php
