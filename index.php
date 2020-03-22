@@ -465,7 +465,7 @@ echo "<!DOCTYPE html>\n"
                         Tropische Regenwälder schrumpfen weltweit um 30 Fussballfelder pro Minute. 
                     </div>
                     <div class="cta-products">
-                        Während ein Teil dieses Verlusts auf natürliche Ursachen wie Waldbrände zurückzuführen ist, werden Waldflächen in erster Linie gerodet, um Platz für Rinder oder landwirtschaftliche Produktion wie Palmöl und Sojabohnen zu machen.
+                        Während ein Teil dieses Verlusts auf natürliche Ursachen wie Waldbrände zurückzuführen ist, werden Waldflächen in erster Linie gerodet, um Platz für Rinder oder landwirtschaftliche Produktion wie Palmöl und Sojabohnen zu machen. <br> <a href="https://www.wired.co.uk/article/climate-change-facts-2019" target="_blank"> Mehr Fakten findest du hier.</a>
                     </div>
                     <div class="owl-carousel">
                         <?php
