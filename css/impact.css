@@ -80,7 +80,7 @@ a:hover, a:visited, a:link, a:active
 }
 
 .small-nav{
-height: 20px!important;
+height: 3vh!important;
 }
 
 .small-nav img{
@@ -96,7 +96,7 @@ height: 20px!important;
 
 #navicontainer a {
     display: inline-block;
-    height: 7vh;
+    height: 6.5vh;
 }
 
 #site {
