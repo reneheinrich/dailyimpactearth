@@ -325,19 +325,20 @@ height: 20px!important;
     background-color:rgba(255, 255, 255, 0.9);
     height: auto;
     border-radius: 5px;
-    padding: 20px;
+    padding: 12px;
     color: black;
     cursor: pointer !important;
-    font-size: calc(1px + 1.5vh);
+    font-size: calc(8px + 0.3vw);
     font-weight: 300;
     text-overflow: ellipsis;
     height: 100%;
+    line-height: 1.1;
 }
 
 .owl-carousel .product .title{
-    font-size: calc(4px + 1.5vh);
+    font-size: calc(10px + 1.2vw);
     color: black;
-    margin-bottom: 8px;
+    margin-bottom: 4px;
     font-weight: 400;
 }
 
@@ -378,7 +379,7 @@ height: 20px!important;
 
 .cta-products{
     color: white;
-    font-size: calc(4px + 1.5vh);
+    font-size: calc(10px + 0.8vw);
     margin-top: 0px;
     font-weight: 300;
     line-height: 1.3em;
@@ -560,7 +561,7 @@ height: 20px!important;
     }
 
     .owl-carousel .product { 
-        width: 70vw;
+        width: 50vw;
     }
 }
 
