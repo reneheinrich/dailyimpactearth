@@ -80,14 +80,14 @@ a:hover, a:visited, a:link, a:active
 }
 
 .small-nav{
-height: 2vh!important;
+height: 2.5vh!important;
 }
 
 .small-nav img{
     width: 5px;
     display: flex;
     margin: auto;
-    margin-top: 5px;
+    margin-top: 7px;
 }
 
 .nav-highlight {
