@@ -461,7 +461,7 @@ echo "<!DOCTYPE html>\n"
                 <div class="contentcontainer">
                     <h2>Nach der Arbeit</h2>
                     <div class="fact">
-                        Tropische Regenwälder schrumpfen Weltweit um 30 Fussballfelder pro Minute. 
+                        Tropische Regenwälder schrumpfen weltweit um 30 Fussballfelder pro Minute. 
                     </div>
                     <div class="cta-products">
                         Während ein Teil dieses Verlusts auf natürliche Ursachen wie Waldbrände zurückzuführen ist, werden Waldflächen in erster Linie gerodet, um Platz für Rinder oder landwirtschaftliche Produktion wie Palmöl und Sojabohnen zu machen.
