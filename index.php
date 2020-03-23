@@ -694,7 +694,7 @@ echo "<!DOCTYPE html>\n"
                 </div>
             </div>
         </div>
-        <div id="x_end" vs-anchor="end" class="mainview">
+        <div id="x_end" vs-anchor="end" class="mainview" styling="height: auto !important;">
             <div class="darkbg">
                     <div class="contentcontainer">
                         <h2>SIGNUP</h2>
