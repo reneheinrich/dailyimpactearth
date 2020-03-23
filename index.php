@@ -697,7 +697,7 @@ echo "<!DOCTYPE html>\n"
         <div id="x_end" vs-anchor="end" class="mainview">
             
             <script>
-                if (document.getElementById("signup-content") == document.activeElement) {
+                if (document.getElementById("mce-EMAIL") == document.activeElement) {
                     document.getElementById("signup-content").class += "absolute"
                 }
             </script>
