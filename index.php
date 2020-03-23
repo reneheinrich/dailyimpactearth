@@ -695,8 +695,15 @@ echo "<!DOCTYPE html>\n"
             </div>
         </div>
         <div id="x_end" vs-anchor="end" class="mainview">
+            <script>
+            
+            if (document.getElementById("signup-content") == document.activeElement) {
+                document.getElementById("signup-content").class += "absolute"
+            }
+            </script>
             <div class="darkbg">
                 <div class="contentcontainer">
+                    <div id="signup-content">
                     <h2>SIGNUP</h2>
                     <div class="fact">
                         25% der meisten Tier- und Pflanzengruppen sind bereits vorm Aussterben bedroht.
@@ -773,6 +780,7 @@ echo "<!DOCTYPE html>\n"
                     </div>
                     <div class="imprint-link">
                         <a href="impressum.html" target="_blank">Impressum</a>
+                        </div>  
                     </div>
                 </div>
             </div>

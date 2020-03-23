@@ -464,6 +464,14 @@ height: 2.5vh!important;
     font-weight: 400;
 }
 
+#signup-content {
+    position: fixed;
+}
+
+#signup-content.absolute {
+    position: absolute;
+}
+
 @media only screen and (max-width: 600px) {
 
 
