@@ -443,12 +443,25 @@ height: 2.5vh!important;
     font-weight:100;
     border-radius: 5px;
     text-align: justify;
+    margin: 50px 0 0 0;
+    max-width: 650px;
 
 }
 
 #mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error {
     background: transparent;
     background-color: transparent;
+}
+
+.imprint-link {
+    position: absolute;
+    bottom: 20px;
+}
+
+.imprint-link a {
+    color: white;
+    text-decoration: underline;
+    font-weight: 400;
 }
 
 @media only screen and (max-width: 600px) {

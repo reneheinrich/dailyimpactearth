@@ -704,6 +704,7 @@ echo "<!DOCTYPE html>\n"
 
                     <div class="mailchimp-signup">
                     <!-- Begin Mailchimp Signup Form -->
+
                         <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
                         <style type="text/css">
 
@@ -731,14 +732,12 @@ echo "<!DOCTYPE html>\n"
                                 <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
                                 <label class="checkbox subfield" for="gdpr_56431"><input type="checkbox" id="gdpr_56431" name="gdpr[56431]" value="Y" class="av-checkbox gdpr"><span>Zum Newsletter anmelden</span> </label>
                                 </fieldset>
-                                <p>Mit der Anmeldung zu unserem Newsletter erklären Sie sich bis auf Widerruf damit einverstanden, dass Ihre oben angegebenen Daten von uns zum Zwecke der Zusendung des Newsletters verarbeitet werden und dass wir Ihnen den Newsletter per E-Mail zusenden dürfen. Es gelten die Bestimmungen unserer Datenschutzerklärung.
-
-                        Sie können sich jederzeit über den Link im Footer unserer Emails von unserem Newsletter abmelden.</p>
+                     
                             </div>
                             <div class="content__gdprLegal">
-                                <p>Wir nutzen Mailchimp als Mailingplattform. Mit Ihrem Klick auf Abonnieren willigen Sie ein, dass Ihre Daten über Mailchimp verarbeitet werden. 
+                                <p> Mit Ihrem Klick auf Abonnieren bestätigen Sie, dass Sie unsere <a href="datenschutz.html" target="_blank">Datenschutzerklärungen </a> gelesen haben und sich mit diesen einverstanden erklären. 
                                     
-                                <a href="https://mailchimp.com/legal/" target="_blank">Weitere Information zu diesem Thema finden Sie hier</a>.</p>
+        
                             </div>
                         </div>
                             <div id="mce-responses" class="clear">
@@ -771,6 +770,9 @@ echo "<!DOCTYPE html>\n"
                             creditcard: "Geben Sie bitte ein gültige Kreditkarten-Nummer ein."
                         });}(jQuery));var $mcj = jQuery.noConflict(true);</script>
                         <!--End mc_embed_signup-->
+                    </div>
+                    <div class="imprint-link">
+                        <a href="impressum.html" target="_blank">Impressum</a>
                     </div>
                 </div>
             </div>
