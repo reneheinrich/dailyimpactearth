@@ -697,7 +697,6 @@ echo "<!DOCTYPE html>\n"
         <div id="x_end" vs-anchor="end" class="mainview">
             <div class="darkbg">
                     <div class="contentcontainer">
-                        <div style="height: auto !important;">
                         <h2>SIGNUP</h2>
                         <div class="fact">
                             25% der meisten Tier- und Pflanzengruppen sind bereits vorm Aussterben bedroht.
@@ -775,7 +774,6 @@ echo "<!DOCTYPE html>\n"
                         <div class="imprint-link">
                             <a href="impressum.html" target="_blank">Impressum</a>
                         </div>  
-                        </div>
                     </div>
                 </div>
         </div>
