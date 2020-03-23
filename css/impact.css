@@ -137,7 +137,7 @@ height: 2.5vh!important;
 }
 
 #hero {
-    background-image: url('../backgrounds/desktop/background.jpg');
+    background-image: url('../backgrounds/background.webp');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -171,7 +171,7 @@ height: 2.5vh!important;
 }
 
 #x_purpouse {
-    background-image: url('../backgrounds/desktop/background.jpg');
+    background-image: url('../backgrounds/background.webp');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -185,93 +185,93 @@ height: 2.5vh!important;
     display: flex;
 }
 #x_morning {
-    background-image: url('../backgrounds/desktop/plastic.jpg');
+    background-image: url('../backgrounds/plastic.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 #x_morning2 {
-    background-image: url('../backgrounds/desktop/cliff.jpeg');
+    background-image: url('../backgrounds/cliff.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 #commute{
-    background-image: url('../backgrounds/desktop/auto.jpg');
+    background-image: url('../backgrounds/auto.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 #x_gotowork {
-    background-image: url('../backgrounds/desktop/auto.jpg');
+    background-image: url('../backgrounds/auto.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 #x_gotowork2 {
-    background-image: url('../backgrounds/desktop/amwegzurarbeit1.jpg');
+    background-image: url('../backgrounds/amwegzurarbeit1.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 #x_work {
-    background-image: url('../backgrounds/desktop/ozean.jpg');
+    background-image: url('../backgrounds/ozean.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 #x_work2 {
-    background-image: url('../backgrounds/desktop/ozean.jpg');
+    background-image: url('../backgrounds/ozean.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 #x_break {
-    background-image: url('../backgrounds/desktop/chill.jpg');
+    background-image: url('../backgrounds/chill.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 #x_break2 {
-    background-image: url('../backgrounds/desktop/chill.jpg');
+    background-image: url('../backgrounds/chill.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 #x_afterwork {
-    background-image: url('../backgrounds/desktop/fleisch.jpg');
+    background-image: url('../backgrounds/fleisch.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 #x_afterwork2 {
-    background-image: url('../backgrounds/desktop/backgroundfreizeit.jpg');
+    background-image: url('../backgrounds/backgroundfreizeit.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 #x_sports {
-    background-image: url('../backgrounds/desktop/racetrack.jpg');
+    background-image: url('../backgrounds/racetrack.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 #x_sports2 {
-    background-image: url('../backgrounds/desktop/wandern.jpg');
+    background-image: url('../backgrounds/wandern.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 #x_evening {
-    background-image: url('../backgrounds/desktop/wasser.jpg');
+    background-image: url('../backgrounds/wasser.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 #x_evening2 {
-    background-image: url('../backgrounds/desktop/wasser.jpg');
+    background-image: url('../backgrounds/wasser.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -453,112 +453,6 @@ height: 2.5vh!important;
 
 @media only screen and (max-width: 600px) {
 
-    #x_purpouse {
-        background-image: url('../backgrounds/background.jpg');
-        background-size: cover;
-        background-position: center center;
-        background-repeat: no-repeat;
-    }
-    #x_purpouse .section04 a span{
-        margin-left: 0;
-    }
-    #x_purpouse svg{
-        width: 150px;
-        margin: auto;
-        display: flex;
-    }
-    #x_morning {
-        background-image: url('../backgrounds/plastic.jpg');
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-    }
-    #x_morning2 {
-        background-image: url('../backgrounds/cliff.jpeg');
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-    }
-    #commute{
-        background-image: url('../backgrounds/auto.jpg');
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-    }
-    
-    #x_gotowork {
-        background-image: url('../backgrounds/auto.jpg');
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-    }
-    
-    #x_gotowork2 {
-        background-image: url('../backgrounds/amwegzurarbeit1.jpg');
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-    }
-    #x_work {
-        background-image: url('../backgrounds/screen-2.webp');
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-    }
-    #x_work2 {
-        background-image: url('../backgrounds/screen-2.webp');
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-    }
-    #x_break {
-        background-image: url('../backgrounds/chill.jpg');
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-    }
-    #x_break2 {
-        background-image: url('../backgrounds/chill.jpg');
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-    }
-    #x_afterwork {
-        background-image: url('../backgrounds/fleisch.jpg');
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-    }
-    #x_afterwork2 {
-        background-image: url('../backgrounds/backgroundfreizeit.jpg');
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-    }
-    #x_sports {
-        background-image: url('../backgrounds/racetrack.jpg');
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-    }
-    #x_sports2 {
-        background-image: url('../backgrounds/wandern.jpg');
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-    }
-    #x_evening {
-        background-image: url('../backgrounds/wasser.jpg');
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-    }
-    #x_evening2 {
-        background-image: url('../backgrounds/wasser.jpg');
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-    }
 
     .graph {
         width: 70vw;
