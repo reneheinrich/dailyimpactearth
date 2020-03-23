@@ -701,7 +701,7 @@ echo "<!DOCTYPE html>\n"
                         <div class="fact">
                             25% der meisten Tier- und Pflanzengruppen sind bereits vorm Aussterben bedroht.
                         </div>
-                        <div style="position: relative;">
+                        <div style="position: relative; z-index: 1000;">
                             <div class="mailchimp-signup">
 
                                 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
