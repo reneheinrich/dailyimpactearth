@@ -223,7 +223,7 @@ height: 2.5vh!important;
     background-repeat: no-repeat;
 }
 #x_work2 {
-    background-image: url('../backgrounds/ozean.webp');
+    background-image: url('../backgrounds/e-waste.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -427,6 +427,14 @@ height: 2.5vh!important;
 
 }
 
+.graph-vertical {
+    margin-top: 20px;
+    margin-left: 0;
+    padding-right: 20px;
+    width: 80vw;
+    max-width: 600px;
+}
+
 #gotowork .graph {
     width: 70vw;
 }
@@ -464,13 +472,6 @@ height: 2.5vh!important;
     font-weight: 400;
 }
 
-#signup-content {
-    position: fixed;
-}
-
-#signup-content.absolute {
-    position: absolute;
-}
 
 @media only screen and (max-width: 600px) {
 
