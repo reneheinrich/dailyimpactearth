@@ -34,6 +34,8 @@ echo "<!DOCTYPE html>\n"
     <link rel="stylesheet" type="text/css" href="css/viewScroller.css">
     <link rel="stylesheet" type="text/css" href="css/arrow.css">
     <link rel="stylesheet" type="text/css" href="css/impact.css">
+    <script
+        src="js/modernizr-custom.js"></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111111698-4"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -41,6 +43,7 @@ echo "<!DOCTYPE html>\n"
       gtag('js', new Date());
       gtag('config', 'UA-111111698-4');
     </script>
+
     <script src="https://kit.fontawesome.com/fdc6d52257.js" crossorigin="anonymous"></script>
     <link rel="shortcut icon" href="favicon.ico" />
 </head>

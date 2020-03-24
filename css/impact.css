@@ -143,6 +143,13 @@ height: 2.5vh!important;
     background-repeat: no-repeat;
 }
 
+.no-webp #hero {
+    background-image: url('../backgrounds/jpeg/background.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
 .subtext{
     color: white;
     font-size: calc(5px + 1.5vh);
@@ -176,6 +183,15 @@ height: 2.5vh!important;
     background-position: center center;
     background-repeat: no-repeat;
 }
+
+.no-webp #x_purpouse {
+    background-image: url('../backgrounds/jpeg/background.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+
 #x_purpouse .section04 a span{
     margin-left: 0;
 }
@@ -184,20 +200,46 @@ height: 2.5vh!important;
     margin: auto;
     display: flex;
 }
+
+
 #x_morning {
     background-image: url('../backgrounds/plastic.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.no-webp #x_morning {
+    background-image: url('../backgrounds/jpeg/plastic.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
 #x_morning2 {
     background-image: url('../backgrounds/cliff.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.no-webp #x_morning2 {
+    background-image: url('../backgrounds/jpeg/cliff.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 #commute{
     background-image: url('../backgrounds/auto.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.no-webp #commute{
+    background-image: url('../backgrounds/jpeg/auto.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -210,66 +252,156 @@ height: 2.5vh!important;
     background-repeat: no-repeat;
 }
 
+.no-webp #x_gotowork {
+    background-image: url('../backgrounds/jpeg/auto.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 #x_gotowork2 {
     background-image: url('../backgrounds/amwegzurarbeit1.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.no-webp #x_gotowork2 {
+    background-image: url('../backgrounds/jpeg/amwegzurarbeit1.jpeg'); /*JPEG FEHLT*/
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 #x_work {
     background-image: url('../backgrounds/ozean.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.no-webp #x_work {
+    background-image: url('../backgrounds/jpeg/ozean.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
 #x_work2 {
     background-image: url('../backgrounds/e-waste.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.no-webp #x_work2 {
+    background-image: url('../backgrounds/jpeg/e-waste.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
 #x_break {
     background-image: url('../backgrounds/chill.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.no-webp #x_break {
+    background-image: url('../backgrounds/jpeg/chill.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 #x_break2 {
     background-image: url('../backgrounds/coffee.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.no-webp #x_break2 {
+    background-image: url('../backgrounds/jpeg/coffee.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 #x_afterwork {
     background-image: url('../backgrounds/fleisch.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.no-webp #x_afterwork {
+    background-image: url('../backgrounds/jpeg/fleisch.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
 #x_afterwork2 {
     background-image: url('../backgrounds/backgroundfreizeit.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.no-webp #x_afterwork2 {
+    background-image: url('../backgrounds/jpeg/backgroundfreizeit.jpg'); /*JPEG FEHLT*/
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 #x_sports {
     background-image: url('../backgrounds/racetrack.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.no-webp #x_sports {
+    background-image: url('../backgrounds/jpeg/racetrack.jpg'); /*JPEG FEHLT*/
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 #x_sports2 {
     background-image: url('../backgrounds/wandern.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.no-webp #x_sports2 {
+    background-image: url('../backgrounds/jpeg/wandern.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 #x_evening {
     background-image: url('../backgrounds/wasser.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.no-webp #x_evening {
+    background-image: url('../backgrounds/jpeg/wasser.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 #x_evening2 {
     background-image: url('../backgrounds/wasser.webp');
     background-size: cover;
@@ -277,8 +409,22 @@ height: 2.5vh!important;
     background-repeat: no-repeat;
 }
 
+.no-webp #x_evening2 {
+    background-image: url('../backgrounds/jpeg/wasser.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 #x_end {
     background-image: url('../backgrounds/newsletter.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.no-webp #x_end {
+    background-image: url('../backgrounds/jpeg/newsletter.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
