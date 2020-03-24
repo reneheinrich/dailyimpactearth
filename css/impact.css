@@ -277,6 +277,13 @@ height: 2.5vh!important;
     background-repeat: no-repeat;
 }
 
+#x_end {
+    background-image: url('../backgrounds/newsletter.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 .secti{
     font-size: 3em;
     color: white;
@@ -533,7 +540,7 @@ height: 2.5vh!important;
     }
     
     #x_afterwork .graph{
-		width: 300px;
+		width: 450px;
     }
     
     .subtext{

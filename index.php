@@ -750,9 +750,9 @@ echo "<!DOCTYPE html>\n"
         <div id="x_end" vs-anchor="end" class="mainview">
             <div class="darkbg">
                     <div class="contentcontainer">
-                        <h2>SIGNUP</h2>
+                        <h2>Newsletter</h2>
                         <div class="fact">
-                            25% der meisten Tier- und Pflanzengruppen sind bereits vorm Aussterben bedroht.
+                           Schön, dass du's bis zum Ende geschafft hast. Lass uns doch in Kontakt bleiben, wir versprechen dir auch keinen e-Müll zuzusenden.
                         </div>
                         <div style="position: relative; z-index: 1000;">
                             <div class="mailchimp-signup">
