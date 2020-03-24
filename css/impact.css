@@ -235,7 +235,7 @@ height: 2.5vh!important;
     background-repeat: no-repeat;
 }
 #x_break2 {
-    background-image: url('../backgrounds/chill.webp');
+    background-image: url('../backgrounds/coffee.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -322,7 +322,7 @@ height: 2.5vh!important;
 
 .owl-carousel.owl-drag .owl-item{
     display: flex;
-    margin-top: 10px;
+    margin-top: 30px;
 }
 
 .owl-carousel .product{
@@ -332,15 +332,16 @@ height: 2.5vh!important;
     padding: 12px;
     color: black;
     cursor: pointer !important;
-    font-size: calc(8px + 0.4vw);
+    font-size: 12px;
     font-weight: 300;
     text-overflow: ellipsis;
     height: 100%;
     line-height: 1.1;
+    max-width: 15vw;
 }
 
 .owl-carousel .product .title{
-    font-size: calc(10px + 1.2vw);
+    font-size: 14px;
     color: black;
     margin-bottom: 4px;
     font-weight: 400;
@@ -393,7 +394,7 @@ height: 2.5vh!important;
 .cta-products a {
     color: white;
     text-decoration: underline;
-    font-weight: 400;
+    font-weight: 5  00;
 }
 
 #hero .sharemenu{
@@ -480,9 +481,25 @@ height: 2.5vh!important;
         width: 70vw;
     }
 
-    .owl-carousel .product { 
+
+
+    .owl-carousel .product{
         width: 50vw;
+        background-color:rgba(255, 255, 255, 0.9);
+        height: auto;
+        border-radius: 5px;
+        padding: 12px;
+        color: black;
+        cursor: pointer !important;
+        font-size: calc(8px + 0.4vw);
+        font-weight: 300;
+        text-overflow: ellipsis;
+        height: 100%;
+        line-height: 1.1;
+        max-width: none;
     }
+
+    
 }
 
 @media only screen and (max-width: 400px){
