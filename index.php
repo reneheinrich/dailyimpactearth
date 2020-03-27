@@ -668,6 +668,7 @@ echo "<!DOCTYPE html>\n"
                     <div class="fact">
                         TBD
                     </div>
+                    <img class="graph" src="img/infografik_abend.png">
                     <?php
                         share(
                             "evening",
