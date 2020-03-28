@@ -626,6 +626,27 @@ height: 2.5vh!important;
     font-weight: 400;
 }
 
+.impressum-wrapper{
+    padding: 0 5%;
+    background-image: url('../backgrounds/oceanplastic.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.impressum-wrapper .darkbg{
+    width: 112%;
+    margin-left: -6%;
+    padding: 5px 5%;
+}
+
+.no-webp .impressum-wrapper {
+    padding: 0 5%;
+    background-image: url('../backgrounds/jpeg/oceanplastic.jpg'); /*JPEG FEHLT*/
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 
 @media only screen and (max-width: 600px) {
 
@@ -633,8 +654,6 @@ height: 2.5vh!important;
     .graph {
         width: 70vw;
     }
-
-
 
     .owl-carousel .product{
         width: 50vw;
@@ -651,8 +670,6 @@ height: 2.5vh!important;
         line-height: 1.1;
         max-width: none;
     }
-
-    
 }
 
 @media only screen and (max-width: 400px){
