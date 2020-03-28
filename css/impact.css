@@ -633,7 +633,7 @@ height: 2.5vh!important;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: fixed!important;
 }
 
 
@@ -649,7 +649,7 @@ height: 2.5vh!important;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: fixed!important;
 }
 
 @media only screen and (max-width: 600px) {
