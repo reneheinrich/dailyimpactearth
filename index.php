@@ -566,7 +566,7 @@ echo "<!DOCTYPE html>\n"
                 <div class="contentcontainer">
                     <h2>Beim Sport</h2>
                     <div class="fact">
-                        Bis 2015 wurden weltweit mehr als 6,9 Milliarden Tonnen Plastikmüll erzeugt. 9% davon wurden recycelt, 12% verbrannt und ganze 79 % landeten in Deponien oder in der Umwelt.
+                        Bis 2015 wurden weltweit mehr als 6,9 Milliarden Tonnen Plastikmüll erzeugt. Ganze 79% davon landeten in Deponien oder in der Umwelt.
                     </div>
                     <div class="cta-products">
                         Jede Minute allein gerät umgerechnet eine Müllwagen-Ladung Plastik in die Ozeane was dazu führt, dass Meereslebewesen, und auch wir Menschen über Umwege, Plastik konsumieren. Mehr dazu findest du <a href="https://www.weforum.org/agenda/2016/10/every-minute-one-garbage-truck-of-plastic-is-dumped-into-our-oceans/" target="_blank">hier</a>.
@@ -602,7 +602,7 @@ echo "<!DOCTYPE html>\n"
                     <?php
                         share(
                             "sports",
-                            "Wusstest du, dass bis 2015 weltweit mehr als 6,9 Milliarden Tonnen Plastikmüll erzeugt wurden? 9% davon wurden recycelt, 12% verbrannt und ganze 79 % landeten in Deponien oder in der Umwelt.",
+                            "Wusstest du, dass bis 2015 weltweit mehr als 6,9 Milliarden Tonnen Plastikmüll erzeugt wurden? Ganze 79% davon landeten in Deponien oder in der Umwelt.",
                             "createimpact,impact,plasticfree"
                         );
                     ?>
@@ -615,10 +615,10 @@ echo "<!DOCTYPE html>\n"
                 <div class="contentcontainer">
                     <h2>Beim Sport</h2>
                     <div class="fact">
-                        25% der meisten Tier- und Pflanzengruppen sind bereits vorm Aussterben bedroht.
+                        Die höchste Müllkippe der Welt ist der Mount Everest. Es liegen etwa 50 Tonnen Abfall am Berg, die Expeditionen zurückgelassen haben.
                     </div>
                     <div class="cta-products">
-                        Verdiene dir eine Medaille von Mutter Erde und nutze nachhaltige Alternativen
+                        Generell trägt Sport nicht unbeachtlich zur Umweltverschlutzung bei. Bei der Fußball-EM in Österreich und der Schweiz wurden zum Beispiel rund 900 Tonnen Abfall produziert. Mehr dazu gibts <a href="https://www.greenpeace-magazin.ch/2014/09/29/zahlen-und-fakten-zu-sport-und-umwelt/" target="_blank">hier</a>.
                     </div>
                     <div class="owl-carousel">
                         <?php
@@ -657,8 +657,8 @@ echo "<!DOCTYPE html>\n"
                     <?php
                         share(
                             "sports2",
-                            "Wusstest du, dass bereits 25% der meisten Tier- und Pflanzengruppen vorm Aussterben bedroht sind?",
-                            "createimpact,impact,savetheanimals"
+                            "Wusstest du, der Mount Everest die höchste Müllkippe der Welt ist? Es liegen etwa 50 Tonnen Abfall am Berg, die Expeditionen zurückgelassen haben.",
+                            "createimpact,impact,savetheplanet"
                         );
                     ?>
                 </div>
