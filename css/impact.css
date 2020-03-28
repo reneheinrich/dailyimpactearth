@@ -632,6 +632,7 @@ height: 2.5vh!important;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .impressum-wrapper .darkbg{
@@ -646,6 +647,7 @@ height: 2.5vh!important;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 @media only screen and (max-width: 600px) {
