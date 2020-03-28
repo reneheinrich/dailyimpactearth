@@ -665,6 +665,7 @@ height: 2.5vh!important;
 
 .lastpage {
     height: auto !important;
+    position: absolute;
 }
 
 
