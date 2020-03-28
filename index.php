@@ -776,7 +776,7 @@ echo "<!DOCTYPE html>\n"
                                     #mergeRow-gdpr fieldset label {font-weight: normal;}
                                     #mc-embedded-subscribe-form .mc_fieldset{border:none;min-height: 0px;padding-bottom:0px; background: transparent; background-color: transparent;}
                                 </style>
-                                <div id="mc_embed_signup">
+                                <div id="mc_embed_signup" style="height:30vh">
                                 <form action="https://earth.us19.list-manage.com/subscribe/post?u=719dda749e11b95def474e60a&amp;id=a1b6f652af" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                                     <div id="mc_embed_signup_scroll">
                                 <div class="mc-field-group">
