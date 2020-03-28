@@ -629,11 +629,7 @@ height: 2.5vh!important;
 
 .impressum-wrapper{
     padding: 0 5%;
-    background-image: url('../backgrounds/oceanplastic.webp');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed!important;
+    z-index: 2;
 }
 
 
@@ -643,13 +639,26 @@ height: 2.5vh!important;
     padding: 5px 5%;
 }
 
-.no-webp .impressum-wrapper {
-    padding: 0 5%;
+.impressum-test{
     background-image: url('../backgrounds/jpeg/oceanplastic.jpg'); /*JPEG FEHLT*/
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-attachment: fixed!important;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+.no-webp .impressum-test{
+    background-image: url('../backgrounds/jpeg/oceanplastic.jpg'); /*JPEG FEHLT*/
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
 }
 
 @media only screen and (max-width: 600px) {
