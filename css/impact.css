@@ -422,6 +422,7 @@ height: 2.5vh!important;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    height: 300px;
 }
 
 .no-webp #x_end {
@@ -660,6 +661,12 @@ height: 2.5vh!important;
     height: 100%;
     z-index: 1;
 }
+
+
+.lastpage {
+    height: auto !important;
+}
+
 
 @media only screen and (max-width: 600px) {
 

@@ -754,12 +754,12 @@ echo "<!DOCTYPE html>\n"
                 </div>
             </div>
         </div>
-        <div id="x_end" vs-anchor="end" class="mainview">
+        <div id="x_end" vs-anchor="end" class="mainview lastpage">
             <div class="darkbg">
                     <div class="contentcontainer">
                         <h2>Newsletter</h2>
                         <div class="fact">
-                           Schön, dass du's bis zum Ende geschafft hast. Lass uns doch in Kontakt bleiben, wir versprechen dir auch keinen e-Müll zuzusenden.
+                           Schön, dass du's bis zum Ende geschafft hast. Lass uns in Kontakt bleiben, wir versprechen dir auch keinen digitalen Müll zu schicken.
                         </div>
                         <div style="position: relative; z-index: 1000;">
                             <div class="mailchimp-signup">
