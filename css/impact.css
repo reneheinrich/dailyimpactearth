@@ -694,7 +694,7 @@ height: 2.5vh!important;
 
 
 .newsletterpage {
-    background-image: url('../backgrounds/jpeg/oceanplastic.jpg'); /*JPEG FEHLT*/
+    background-image: url('../backgrounds/newsletter.webp'); /*JPEG FEHLT*/
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -706,7 +706,7 @@ height: 2.5vh!important;
 }
 
 .no-webp .newsletterpage {
-    background-image: url('../backgrounds/jpeg/oceanplastic.jpg'); /*JPEG FEHLT*/
+    background-image: url('../backgrounds/jpeg/newsletter.jpg'); /*JPEG FEHLT*/
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
