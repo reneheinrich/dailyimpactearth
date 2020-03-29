@@ -670,7 +670,7 @@ echo "<!DOCTYPE html>\n"
                 <div class="contentcontainer">
                     <h2>Am Abend</h2>
                     <div class="fact">
-                        TBD
+                        Während wir Menschen uns am Abend unseren Freizeitaktivitäten widmen, tragen wir auch zu großen Teilen zum Verbrauch von natürlichen Rohstoffen und Ressourcen bei. Der Earth Overshoot Day beispielsweise zeigt uns den Tag des Jahres, ab dem die Menschheit mehr natürliche Ressourcen verbraucht als die Erde produziert.
                     </div>
                     <img class="graph" src="img/infografik_abend.jpg">
                     <?php
