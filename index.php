@@ -667,17 +667,20 @@ echo "<!DOCTYPE html>\n"
         </div>
         <div id="x_evening" vs-anchor="evening" class="mainview">
             <div class="darkbg">
-                <div class="contentcontainer">
+            <div class="contentcontainer">
                     <h2>Am Abend</h2>
                     <div class="fact">
-                        Während wir Menschen uns am Abend unseren Freizeitaktivitäten widmen, tragen wir auch zu großen Teilen zum Verbrauch von natürlichen Rohstoffen und Ressourcen bei. Der Earth Overshoot Day beispielsweise zeigt uns den Tag des Jahres, ab dem die Menschheit mehr natürliche Ressourcen verbraucht als die Erde produziert. Mehr dazu findest du <a href="https://www.overshootday.org/" target="_blank">hier</a>.
+                        Während wir Menschen uns am Abend unseren Freizeitaktivitäten widmen, tragen wir auch zu großen Teilen zum Verbrauch von natürlichen Rohstoffen und Ressourcen bei. 
+                    </div>
+                    <div class="cta-products">
+                        Der Earth Overshoot Day beispielsweise zeigt uns den Tag des Jahres, ab dem die Menschheit mehr natürliche Ressourcen verbraucht als die Erde produziert. Mehr dazu findest du <a href="https://www.overshootday.org/" target="_blank">hier</a>.
                     </div>
                     <img class="graph" src="img/infografik_abend.jpg">
                     <?php
                         share(
-                            "evening",
-                            "Wusstest du, dass bereits 25% der meisten Tier- und Pflanzengruppen vorm Aussterben bedroht sind?",
-                            "createimpact,impact,savetheanimals"
+                            "afterwork",
+                            "Wusstest du, dass die fünf weltgrößten Fleisch- und Molkereikonzerne mehr Treibhausgas-Emissionen als die drei größten Ölkonzerne verursachen?",
+                            "createimpact,impact,govegan"
                         );
                     ?>
                 </div>
