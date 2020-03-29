@@ -672,7 +672,7 @@ echo "<!DOCTYPE html>\n"
                     <div class="fact">
                         TBD
                     </div>
-                    <img class="graph" src="img/infografik_abend.png">
+                    <img class="graph" src="img/infografik_abend.jpg">
                     <?php
                         share(
                             "evening",
