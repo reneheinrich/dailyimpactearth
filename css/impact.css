@@ -181,14 +181,14 @@ height: 2.5vh!important;
 }
 
 #x_purpouse {
-    background-image: url('../backgrounds/background.webp');
+    background-image: url('../backgrounds/nature.webp');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
 }
 
 .no-webp #x_purpouse {
-    background-image: url('../backgrounds/jpeg/background.jpg');
+    background-image: url('../backgrounds/jpeg/nature.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
