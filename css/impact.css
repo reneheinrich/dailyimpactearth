@@ -637,7 +637,8 @@ height: 2.5vh!important;
 }
 
 .impressum-wrapper .darkbg{
-    width: 112%;
+    width: auto;
+    height: auto;
     margin-left: -6%;
     padding: 5px 5%;
 }
