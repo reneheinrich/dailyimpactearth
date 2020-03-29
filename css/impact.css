@@ -420,7 +420,7 @@ height: 2.5vh!important;
 }
 
 #x_end {
-    background-image: url('../backgrounds/newsletter.webp');
+    background-image: url('../backgrounds/newsletter2.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -428,7 +428,7 @@ height: 2.5vh!important;
 }
 
 .no-webp #x_end {
-    background-image: url('../backgrounds/jpeg/newsletter.jpg');
+    background-image: url('../backgrounds/jpeg/newsletter2.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
