@@ -394,6 +394,12 @@ echo "<!DOCTYPE html>\n"
                     <div class="owl-carousel">
                         <?php
                         amzn(
+                            "31Z46On",
+                            "img/proteinshake.jpg",
+                            "Veganer Nahrungsersatz",
+                            "Food Vegan Drink enthält alle Nährstoffe, die dein Körper benötigt."
+                        );
+                        amzn(
                             "3bHtblG",
                             "img/brotdose.jpg",
                             "Plastikfreie Lunchboxmit aus Bambusholzdeckel",
