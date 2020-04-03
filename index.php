@@ -619,7 +619,7 @@ echo "<!DOCTYPE html>\n"
                         Die höchste Müllkippe der Welt ist der Mount Everest. Es liegen etwa 50 Tonnen Abfall am Berg, die Expeditionen zurückgelassen haben.
                     </div>
                     <div class="cta-products">
-                        Generell trägt Sport nicht unbeachtlich zur Umweltverschlutzung bei. Bei der Fußball-EM in Österreich und der Schweiz wurden zum Beispiel rund 900 Tonnen Abfall produziert. Mehr dazu gibts <a href="https://www.greenpeace-magazin.ch/2014/09/29/zahlen-und-fakten-zu-sport-und-umwelt/" target="_blank">hier</a>.
+                        Generell trägt Sport nicht unbeachtlich zur Umweltverschmutzung bei. Bei der Fußball-EM in Österreich und der Schweiz wurden zum Beispiel rund 900 Tonnen Abfall produziert. Mehr dazu gibts <a href="https://www.greenpeace-magazin.ch/2014/09/29/zahlen-und-fakten-zu-sport-und-umwelt/" target="_blank">hier</a>.
                     </div>
                     <div class="owl-carousel">
                         <?php
