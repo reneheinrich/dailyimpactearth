@@ -115,7 +115,7 @@ echo "<!DOCTYPE html>\n"
                        450 Jahre dauert es bis sich eine einfache Plastikflasche zersetzt
                     </div>
                     <div class="cta-products">
-                    Gerade unser Badezimmer ist besonders voll mit Plastikprodukten: Zahnbürsten, Cremes, Haargels, Wattestäbchen und vieles mehr. Dies macht es fast unmöglich plastikfrei in den Tag zu starten. <a href="https://www.zeit.de/2015/26/plastikmuell-nordsee-recycling-umweltschutz/komplettansicht" target="_blank"> Mehr Infos </a>                   </div>
+                    Gerade unser Badezimmer ist besonders voll mit Plastikprodukten: Zahnbürsten, Cremes, Haargels, Wattestäbchen und vieles mehr. Dies macht es fast unmöglich plastikfrei in den Tag zu starten. <a href="https://www.zeit.de/2015/26/plastikmuell-nordsee-recycling-umweltschutz/komplettansicht" target="_blank"> Mehr Infos</a>.</div>
                     <div class="owl-carousel">
                         <?php
                             amzn(
@@ -440,7 +440,7 @@ echo "<!DOCTYPE html>\n"
                 <div class="contentcontainer">
                     <h2>In der Pause</h2>
                     <div class="fact">
-                        Die Erzeugung einer einzigen Tasse Kaffee verschlingt 140l Wasser
+                        Die Erzeugung einer einzigen Tasse Kaffee verbraucht 140l Wasser
                     </div>
                     <div class="cta-products">
                     Aber auch die massive Abholzung im Rahmen der Kaffeeproduktion wird zunehmend zur Gefahr für unsere
@@ -492,7 +492,7 @@ echo "<!DOCTYPE html>\n"
                     <?php
                         share(
                             "break2",
-                            "Wusstest du, dass die Erzeugung einer einzigen Tasse Kaffee 140 Liter Wasser verschlingt?",
+                            "Wusstest du, dass die Erzeugung einer einzigen Tasse Kaffee 140 Liter Wasser verbraucht?",
                             "createimpact,impact,kaffee"
                         );
                     ?>

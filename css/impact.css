@@ -738,6 +738,24 @@ height: 2.5vh!important;
     margin: 30px;
 }
 
+.content__gdprLegal p {
+    font-size: 13px;
+    line-height: 1.2;
+    font-weight: 200;
+
+}
+
+.mc-field-group label {
+    font-size: 13px;
+    font-weight: 300;
+
+}
+
+#mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error{
+    background-color: transparent !important;
+
+}
+
 
 @media only screen and (max-width: 600px) {
 
