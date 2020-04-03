@@ -1,7 +1,3 @@
-<?php
-
-?>
-
         <div id="x_gotowork2" vs-anchor="gotowork2" class="mainview">
             <div class="darkbg">
                 <div class="contentcontainer">
