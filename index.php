@@ -550,7 +550,7 @@ echo "<!DOCTYPE html>\n"
                         Der Earth Overshoot Day beispielsweise zeigt uns den Tag des Jahres, ab dem die Menschheit mehr natürliche Ressourcen verbraucht als die Erde produziert. Mehr dazu findest du <a href="https://www.overshootday.org/" target="_blank">hier</a>.
                     </div>
                     
-                    <img class="graph-vertical" src="infografik_abend.svg">
+                    <img class="graph-vertical" src="infografikabend.svg">
                     <?php
                         share(
                             "afterwork",
