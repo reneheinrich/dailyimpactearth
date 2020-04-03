@@ -533,16 +533,16 @@ echo "<!DOCTYPE html>\n"
                     <div class="owl-carousel">
                         <?php
                         amzn(
-                            "2V2o3lU",
-                            "img/einkaufstasche.jpg",
-                            "Nachhaltige Einkaufstasche",
-                            "Nachhaltiger Einkaufsbeutel aus 100% Bio Baumwolle. Global Organic Textile Standard mit nachhaltigem Druck."
-                        );
-                        amzn(
                             "2uQGCij",
                             "img/kopfhörer.jpg",
                             "Nachhaltige Bambus Bluetooth Kopfhörer",
                             "Bluetoothkopfhörer aus FSC-zertifiziertem und nachhaltigem Bambus mit recyceltes Silikon. 9 Std Akkulaufzeit sowie wasser- und schweißfest."
+                        );
+                        amzn(
+                            "2vCHiIp",
+                            "img/geldbörse.jpg",
+                            "Vegane Korkleder Geldbörse",
+                            "Korkleder ist eine alternative und umweltfreundliche Variante zu tierischem Leder."
                         );
                         amzn(
                             "2uHdNFg",
@@ -551,10 +551,10 @@ echo "<!DOCTYPE html>\n"
                             "Jeden Tag werden 51.000 Tonnen Bäume für Küchentücher gefällt. Mit der Küchenrolle wirkst du der Abholzung der Wälder entgegen."
                         );
                         amzn(
-                            "2vCHiIp",
-                            "img/geldbörse.jpg",
-                            "Vegane Korkleder Geldbörse",
-                            "Korkleder ist eine alternative und umweltfreundliche Variante zu tierischem Leder."
+                            "2V2o3lU",
+                            "img/einkaufstasche.jpg",
+                            "Nachhaltige Einkaufstasche",
+                            "Nachhaltiger Einkaufsbeutel aus 100% Bio Baumwolle. Global Organic Textile Standard mit nachhaltigem Druck."
                         );
                         ?>
                     </div>
