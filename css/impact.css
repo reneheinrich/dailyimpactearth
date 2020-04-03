@@ -202,6 +202,7 @@ height: 2.5vh!important;
     width: 120px;
     margin: auto;
     display: flex;
+    margin-top:-10px;
 }
 
 
