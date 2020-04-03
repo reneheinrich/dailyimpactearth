@@ -545,6 +545,12 @@ echo "<!DOCTYPE html>\n"
                             "Korkleder ist eine alternative und umweltfreundliche Variante zu tierischem Leder."
                         );
                         amzn(
+                            "2vBoSrl",
+                            "img/dauerbackfolie.jpg",
+                            "Schwarze Dauerbackfolie",
+                            "Wiederverwendbares Backpapier und spülmaschinenfest."
+                        );
+                        amzn(
                             "2uHdNFg",
                             "img/bambushandtuecher.jpg",
                             "Bambus Küchenrolle",
@@ -721,12 +727,6 @@ echo "<!DOCTYPE html>\n"
                             "img/bambushandtuecher.jpg",
                             "Organische Baumwollhandtücher",
                             "Handtuchset besteht aus 100% natürlicher, biologischer und umweltfreundlicher Baumwolle."
-                        );
-                        amzn(
-                            "2vBoSrl",
-                            "img/dauerbackfolie.jpg",
-                            "Schwarze Dauerbackfolie",
-                            "Wiederverwendbares Backpapier und spülmaschinenfest."
                         );
                         amzn(
                             "2u18Ruj",
