@@ -528,7 +528,7 @@ echo "<!DOCTYPE html>\n"
                         Tropische Regenwälder schrumpfen weltweit um 30 Fussballfelder pro Minute. 
                     </div>
                     <div class="cta-products">
-                        Während ein Teil dieses Verlusts auf natürliche Ursachen wie Waldbrände zurückzuführen ist, werden Waldflächen in erster Linie gerodet, um Platz für Rinder oder landwirtschaftliche Produktion wie Palmöl und Sojabohnen zu machen. <br> <a href="https://www.wired.co.uk/article/climate-change-facts-2019" target="_blank"> Mehr Fakten findest du hier.</a>
+                        Während ein Teil dieses Verlusts auf natürliche Ursachen wie Waldbrände zurückzuführen ist, werden Waldflächen in erster Linie gerodet, um Platz für Rinder oder landwirtschaftliche Produktion wie Palmöl und Sojabohnen zu machen. <br> Mehr Fakten findest du <a href="https://www.wired.co.uk/article/climate-change-facts-2019" target="_blank"> hier.</a>
                     </div>
                     <div class="owl-carousel">
                         <?php
@@ -542,7 +542,7 @@ echo "<!DOCTYPE html>\n"
                             "2uQGCij",
                             "img/kopfhörer.jpg",
                             "Bluetooth Kopfhörer aus nachhaltigem Bambus und Silikon",
-                            "Diese Bluetoothkopfhörer sind aus nachhaltigem FSC-zertifiziertem Bambus und recyceltes Silikon. Sie haben 9 Std Akkulaufzeit und sind wasser- und schweißfest."
+                            "Bluetoothkopfhörer aus FSC-zertifiziertem und nachhaltigem Bambus mit recyceltes Silikon. 9 Std Akkulaufzeit sowie wasser- und schweißfest."
                         );
                         amzn(
                             "2uHdNFg",
