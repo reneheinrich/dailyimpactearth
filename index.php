@@ -541,7 +541,7 @@ echo "<!DOCTYPE html>\n"
                         amzn(
                             "2uQGCij",
                             "img/kopfhörer.jpg",
-                            "Bluetooth Kopfhörer aus nachhaltigem Bambus und Silikon",
+                            "Nachhaltige Bambus Bluetooth Kopfhörer",
                             "Bluetoothkopfhörer aus FSC-zertifiziertem und nachhaltigem Bambus mit recyceltes Silikon. 9 Std Akkulaufzeit sowie wasser- und schweißfest."
                         );
                         amzn(
