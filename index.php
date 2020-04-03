@@ -79,7 +79,7 @@ echo "<!DOCTYPE html>\n"
                         <svg fill="#FFFFFF" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" x="0px" y="0px"><defs><style>.cls-1{fill:none;}</style></defs><title>Moon</title><g><path class="cls-1" d="M21,10a1,1,0,0,1,1-1h2.48A11,11,0,0,0,16,5,10.86,10.86,0,0,0,9.7,7H13a1,1,0,0,1,0,2H7.52a11,11,0,0,0,0,14H13a1,1,0,0,1,0,2H9.7A10.86,10.86,0,0,0,16,27a11,11,0,0,0,7.53-3H21a1,1,0,0,1,0-2h4.21a10.94,10.94,0,0,0,.58-11H22A1,1,0,0,1,21,10Zm-9,9H11a1,1,0,0,1,0-2h1a1,1,0,0,1,0,2ZM17,9h1a1,1,0,0,1,0,2H17a1,1,0,0,1,0-2Zm4,10H16a1,1,0,0,1,0-2h5a1,1,0,0,1,0,2Z"></path><path d="M31,10a1,1,0,0,0-1-1H26.94A13,13,0,0,0,6.64,7H2A1,1,0,0,0,2,9H5.06a12.92,12.92,0,0,0,0,14H2a1,1,0,0,0,0,2H6.64a13,13,0,0,0,19.59-1H30a1,1,0,0,0,0-2H27.52A12.95,12.95,0,0,0,28,11h2A1,1,0,0,0,31,10Zm-4,6a10.94,10.94,0,0,1-1.79,6H21a1,1,0,0,0,0,2h2.53A11,11,0,0,1,16,27a10.86,10.86,0,0,1-6.3-2H13a1,1,0,0,0,0-2H7.52a11,11,0,0,1,0-14H13a1,1,0,0,0,0-2H9.7A10.86,10.86,0,0,1,16,5a11,11,0,0,1,8.48,4H22a1,1,0,0,0,0,2h3.79A10.92,10.92,0,0,1,27,16Z"></path><path d="M17,11h1a1,1,0,0,0,0-2H17a1,1,0,0,0,0,2Z"></path><path d="M21,17H16a1,1,0,0,0,0,2h5a1,1,0,0,0,0-2Z"></path><path d="M12,17H11a1,1,0,0,0,0,2h1a1,1,0,0,0,0-2Z"></path></g></svg>
                         <span>daily impact</span>
                     </div>
-                    <h1>Wusstest du, dass jeder Mensch pro Woche Plastik in der Menge einer Kreditkarte isst?</h1>
+                    <h1>Wusstest du, dass jeder Mensch pro Woche Plastik in der Menge einer Kreditkarte zu sich nimmt?</h1>
                     <div class="subtext">Mikroplastikteilchen sind kleiner als fünf Millimeter und verstecken sich in Essen, Trinkwasser und sogar der Luft. Der Mensch nimmt wöchentlich fünf Gramm, also etwa das Gewicht einer Kreditkarte, davon auf. Mehr zum Thema kannst du in <a href="https://www.umsicht.fraunhofer.de/content/dam/umsicht/de/dokumente/publikationen/2018/kunststoffe-id-umwelt-konsortialstudie-mikroplastik.pdf" target="_blank" >diesem Report lesen.</a></div>
                     <?php
                         share(
@@ -99,7 +99,7 @@ echo "<!DOCTYPE html>\n"
                 <div class="contentcontainer">
                     <svg fill="#FFFFFF" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" x="0px" y="0px"><defs><style>.cls-1{fill:none;}</style></defs><title>Moon</title><g><path class="cls-1" d="M21,10a1,1,0,0,1,1-1h2.48A11,11,0,0,0,16,5,10.86,10.86,0,0,0,9.7,7H13a1,1,0,0,1,0,2H7.52a11,11,0,0,0,0,14H13a1,1,0,0,1,0,2H9.7A10.86,10.86,0,0,0,16,27a11,11,0,0,0,7.53-3H21a1,1,0,0,1,0-2h4.21a10.94,10.94,0,0,0,.58-11H22A1,1,0,0,1,21,10Zm-9,9H11a1,1,0,0,1,0-2h1a1,1,0,0,1,0,2ZM17,9h1a1,1,0,0,1,0,2H17a1,1,0,0,1,0-2Zm4,10H16a1,1,0,0,1,0-2h5a1,1,0,0,1,0,2Z"></path><path d="M31,10a1,1,0,0,0-1-1H26.94A13,13,0,0,0,6.64,7H2A1,1,0,0,0,2,9H5.06a12.92,12.92,0,0,0,0,14H2a1,1,0,0,0,0,2H6.64a13,13,0,0,0,19.59-1H30a1,1,0,0,0,0-2H27.52A12.95,12.95,0,0,0,28,11h2A1,1,0,0,0,31,10Zm-4,6a10.94,10.94,0,0,1-1.79,6H21a1,1,0,0,0,0,2h2.53A11,11,0,0,1,16,27a10.86,10.86,0,0,1-6.3-2H13a1,1,0,0,0,0-2H7.52a11,11,0,0,1,0-14H13a1,1,0,0,0,0-2H9.7A10.86,10.86,0,0,1,16,5a11,11,0,0,1,8.48,4H22a1,1,0,0,0,0,2h3.79A10.92,10.92,0,0,1,27,16Z"></path><path d="M17,11h1a1,1,0,0,0,0-2H17a1,1,0,0,0,0,2Z"></path><path d="M21,17H16a1,1,0,0,0,0,2h5a1,1,0,0,0,0-2Z"></path><path d="M12,17H11a1,1,0,0,0,0,2h1a1,1,0,0,0,0-2Z"></path></g></svg>
                     <div class="purpouse">
-                        Hier folgen Fakten zum Thema Nachhaltigkeit und Umwelt, angelehnt an den Tagesablauf eines durchschnittlichen Menschen.
+                        Hier folgen Fakten zum Thema Nachhaltigkeit und Umwelt, angelehnt an einen gewöhnlichen Tagesablauf. Die Zeitleiste auf der linken Seite führt dich durch die unterschiedlichen Tageszeiten.
                     </div>
                     <section class="demo section04">
                         <a href="#morning"><span></span></a>
@@ -159,13 +159,25 @@ echo "<!DOCTYPE html>\n"
                 <div class="contentcontainer">
                     <h2>Am Morgen</h2>
                     <div class="fact">
-                        Deutschland verbraucht so viel Papier wie die Kontinente Afrika und Südamerika zusammen.
+                        Deutschland verbraucht so viel Papier wie die Kontinente Afrika und Südamerika zusammen
                     </div>
                     <div class="cta-products">
                         Fast jeder zweite industriell gefällte Baum weltweit wird zu Papier verarbeitet - Zeitungen, Zeitschriften, Geschenkpapier, Verpackungen, Küchentücher oder Toilettenpapier. Mehr Informationen findest du <a href="https://www.wwf.de/themen-projekte/waelder/papierverbrauch/zahlen-und-fakten/">hier</a>.
                     </div>
                     <div class="owl-carousel">
                         <?php
+                            amzn(
+                                "2uHdNFg",
+                                "img/bambushandtuecher.jpg",
+                                "Bambus Küchenrolle",
+                                "Jeden Tag werden 51.000 Tonnen Bäume für Küchentücher gefällt. Mit der Küchenrolle wirkst du der Abholzung der Wälder entgegen."
+                            );
+                            amzn(
+                                "38vkFEk", 
+                                "img/müllbeutel.jpg", 
+                                "Kompostierbare Müllsäcke",
+                                "100% heim kompstierbare und biologisch abbaubare Müllsäcke."
+                            );
                             amzn(
                                 "3bJct5p", 
                                 "img/handbrause.jpg", 
@@ -190,19 +202,13 @@ echo "<!DOCTYPE html>\n"
                                 "Kokosschwamm",
                                 "Kokosfasern sind umweltschonend und bilogisch abbaubar!"
                             );
-                            amzn(
-                                "38vkFEk", 
-                                "img/müllbeutel.jpg", 
-                                "Kompostierbare Müllsäcke",
-                                "100% heim kompstierbare und biologisch abbaubare Müllsäcke."
-                            );
                         ?> 
                     </div>
                     <?php
                         share(
                             "morning2",
                             "Wusstest du, dass Deutschland so viel Papier wie die Kontinente Afrika und Südamerika zusammen verbraucht?",
-                            "createimpact,impact,reducingwaste"
+                            "createimpact,impact,reducewaste"
                         );
                     ?>
                 </div>
@@ -498,10 +504,10 @@ echo "<!DOCTYPE html>\n"
                 <div class="contentcontainer">
                     <h2>Nach der Arbeit</h2>
                     <div class="fact">
-                        Die fünf weltgrößten Fleisch- und Molkereikonzerne verursachen mehr Treibhausgas-Emissionen als die drei größten Ölkonzerne. 
+                        Die fünf weltgrößten Fleisch- und Molkereikonzerne verursachen mehr Treibhausgas-Emissionen als die drei größten Ölkonzerne 
                     </div>
                     <div class="cta-products">
-                        In der unten angeführten Grafik, zeigen wir dir wie viel Fleisch pro Kopf und Jahr die Deutschen konsumieren. Es lohnt sich dieses Wissen auch beim Einkaufen nach der Arbeit im Hinterkopf zu haben.<br> <a href="https://www.iatp.org/emissions-impossible" target="_blank"> Hier findest du mehr dazu.</a>
+                        Die unten angeführte Grafik, zeigen wir dir wie viel Fleisch pro Kopf und Jahr die Deutschen konsumieren. Es lohnt sich dieses Wissen auch beim Einkaufen nach der Arbeit im Hinterkopf zu haben.<br> <a href="https://www.iatp.org/emissions-impossible" target="_blank">Hier</a> findest du mehr dazu.
                     </div>
                     <img class="graph" src="tiere.svg">
                     <?php
@@ -567,7 +573,7 @@ echo "<!DOCTYPE html>\n"
                 <div class="contentcontainer">
                     <h2>Beim Sport</h2>
                     <div class="fact">
-                        Bis 2015 wurden weltweit mehr als 6,9 Milliarden Tonnen Plastikmüll erzeugt. Ganze 79% davon landeten in Deponien oder in der Umwelt.
+                        Bis 2015 wurden weltweit mehr als 6,9 Milliarden Tonnen Plastikmüll erzeugt. 79% davon landeten in Deponien oder in der Umwelt
                     </div>
                     <div class="cta-products">
                         Jede Minute allein gerät umgerechnet eine Müllwagen-Ladung Plastik in die Ozeane was dazu führt, dass Meereslebewesen, und auch wir Menschen über Umwege, Plastik konsumieren. Mehr dazu findest du <a href="https://www.weforum.org/agenda/2016/10/every-minute-one-garbage-truck-of-plastic-is-dumped-into-our-oceans/" target="_blank">hier</a>.
@@ -575,10 +581,10 @@ echo "<!DOCTYPE html>\n"
                     <div class="owl-carousel">
                         <?php
                         amzn(
-                            "2V2o3lU",
-                            "img/proteinpancakes.jpg",
-                            "Proteinpancakes",
-                            "Diese Backmischung hat 6x mehr Protein als Standardmischungen. Perfekt für eine vegane Proteinreiche ernährung."
+                            "2TC4W16",
+                            "img/adidaswomen.jpg",
+                            "adidas Damen Oceanplastic Schuhe",
+                            "Diese adidas Ultraboost Schuhe werden aus Ozeanplastik hergestellt."
                         );
                         amzn(
                             "2uQGCij",
@@ -593,18 +599,18 @@ echo "<!DOCTYPE html>\n"
                             "Dieses adidas Sportshirt wird aus Ozeanplastik hergestellt."
                         );
                         amzn(
-                            "2TC4W16",
-                            "img/adidaswomen.jpg",
-                            "adidas Damen Oceanplastic Schuhe",
-                            "Diese adidas Ultraboost Schuhe werden aus Ozeanplastik hergestellt."
+                            "2V2o3lU",
+                            "img/proteinpancakes.jpg",
+                            "Proteinpancakes",
+                            "Diese Backmischung hat 6x mehr Protein als Standardmischungen. Perfekt für eine vegane Proteinreiche ernährung."
                         );
                     ?>
                     </div>
                     <?php
                         share(
                             "sports",
-                            "Wusstest du, dass bis 2015 weltweit mehr als 6,9 Milliarden Tonnen Plastikmüll erzeugt wurden? Ganze 79% davon landeten in Deponien oder in der Umwelt.",
-                            "createimpact,impact,plasticfree"
+                            "Wusstest du, dass bis 2015 weltweit mehr als 6,9 Milliarden Tonnen Plastikmüll erzeugt wurden? 79% davon landeten in Deponien oder in der Umwelt.",
+                            "createimpact,impact,reduceplasticwaste"
                         );
                     ?>
                     
@@ -616,7 +622,7 @@ echo "<!DOCTYPE html>\n"
                 <div class="contentcontainer">
                     <h2>Beim Sport</h2>
                     <div class="fact">
-                        Die höchste Müllkippe der Welt ist der Mount Everest. Es liegen etwa 50 Tonnen Abfall am Berg, die Expeditionen zurückgelassen haben.
+                        Die höchste Müllkippe der Welt ist der Mount Everest. 50 Tonnen Abfall werden dort bei Expeditionen zurückgelassen
                     </div>
                     <div class="cta-products">
                         Generell trägt Sport nicht unbeachtlich zur Umweltverschmutzung bei. Bei der Fußball-EM in Österreich und der Schweiz wurden zum Beispiel rund 900 Tonnen Abfall produziert. Mehr dazu gibts <a href="https://www.greenpeace-magazin.ch/2014/09/29/zahlen-und-fakten-zu-sport-und-umwelt/" target="_blank">hier</a>.
@@ -645,20 +651,20 @@ echo "<!DOCTYPE html>\n"
                             "2vCHiIp",
                             "img/yoga.jpg",
                             "Yogamatte aus 100% Kork und Natur-Kautschuk",
-                            "Yoga Matte aus naturmaterialien Kork und Kautschuk werden ökologisch angebaut und sind gleichzeitig biologisch wieder abbaubar. "
+                            "Biologisch abbaubare Yoga Matte aus Kork und Kautschuk. "
                         );
                         amzn(
                             "31Z46On",
                             "img/proteinshake.jpg",
                             "Veganer Nahrungsersatz",
-                            "Food Vegan Drink enthält alle Nährstoffe, die dein Körper benötigt: 26g Protein, 40g glutenfreie Kohlenhydrate, 8.4g Ballaststoffe sowie 26 Vitamine & Mineralstoffe."
+                            "Food Vegan Drink enthält alle Nährstoffe, die dein Körper benötigt."
                         );
                         ?>
                     </div>
                     <?php
                         share(
                             "sports2",
-                            "Wusstest du, der Mount Everest die höchste Müllkippe der Welt ist? Es liegen etwa 50 Tonnen Abfall am Berg, die Expeditionen zurückgelassen haben.",
+                            "Wusstest du, dass der Mount Everest die höchste Müllkippe der Welt ist? 50 Tonnen Abfall werden dort bei Expeditionen zurückgelassen.",
                             "createimpact,impact,savetheplanet"
                         );
                     ?>
