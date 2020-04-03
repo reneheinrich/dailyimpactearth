@@ -101,7 +101,7 @@ echo "<!DOCTYPE html>\n"
                     <div class="purpouse">
                         Hier folgen Fakten zum Thema Nachhaltigkeit und Umwelt, angelehnt an einen gewöhnlichen Tagesablauf
                     </div>
-                    <div class="cta-products">
+                    <div class="subtext">
                         Die Zeitleiste auf der linken Seite führt dich durch die unterschiedlichen Tageszeiten.
                     </div>
                     <section class="demo section04">
