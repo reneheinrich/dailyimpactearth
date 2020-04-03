@@ -169,6 +169,10 @@ height: 2.5vh!important;
     font-weight: 400;
 }
 
+#x_purpouse .subtext{
+    margin-left: 0;
+}
+
 .purpouse{
     color:white;
     position: relative;
