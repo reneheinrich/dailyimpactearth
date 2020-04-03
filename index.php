@@ -119,28 +119,7 @@ echo "<!DOCTYPE html>\n"
         <?php require("afterwork2.php"); ?>
         <?php require("sports.php"); ?>
         <?php require("sports2.php"); ?>
-        <div id="x_evening" vs-anchor="evening" class="mainview">
-            <div class="darkbg">
-            <div class="contentcontainer">
-                    <h2>Am Abend</h2>
-                    <div class="fact">
-                        Während wir Menschen uns am Abend unserer Freizeit widmen, tragen wir großteils zum Verbrauch von natürlichen Rohstoffen und Ressourcen bei 
-                    </div>
-                    <div class="cta-products">
-                        Der Earth Overshoot Day beispielsweise zeigt uns den Tag des Jahres, ab dem die Menschheit mehr natürliche Ressourcen verbraucht als die Erde produziert. Mehr dazu findest du <a href="https://www.overshootday.org/" target="_blank">hier</a>.
-                    </div>
-                    
-                    <img class="graph-vertical" src="infografikabend.svg">
-                    <?php
-                        share(
-                            "afterwork",
-                            "Wusstest du, dass wir Menschen am uns am Abend während wir uns unserer Freizeit widmen, zu großen Teilen zum Verbrauch von natürlichen Rohstoffen und Ressourcen beitragen?",
-                            "createimpact,impact, earthovershootday"
-                        );
-                    ?>
-                </div>
-            </div>
-        </div>
+        <?php require("evening.php"); ?>
         <?php require("evening2.php"); ?>
         <div id="x_end" vs-anchor="end" class="mainview lastpage">
             <div class="darkbg lastpage">
@@ -159,9 +138,6 @@ echo "<!DOCTYPE html>\n"
                     </div>
                 </div>
         </div>
-                
-
-
     </main>
 </div>
 <script
