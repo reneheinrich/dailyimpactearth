@@ -472,7 +472,7 @@ echo "<!DOCTYPE html>\n"
                             "38wPKaJ",
                             "img/proteinriegel.jpg",
                             "Riegel aus Grillenmehl",
-                            "Vegane und proteinreiche Snacks aus Grillenmehl."
+                            "Proteinreiche Snacks aus Grillenmehl."
                         );
               
                         amzn(
