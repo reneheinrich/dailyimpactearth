@@ -676,7 +676,7 @@ echo "<!DOCTYPE html>\n"
             <div class="contentcontainer">
                     <h2>Am Abend</h2>
                     <div class="fact">
-                        Während wir Menschen uns am Abend unserer Freizeit widmen, tragen wir großteils zum Verbrauch von natürlichen Rohstoffen und Ressourcen bei. 
+                        Während wir Menschen uns am Abend unserer Freizeit widmen, tragen wir großteils zum Verbrauch von natürlichen Rohstoffen und Ressourcen bei 
                     </div>
                     <div class="cta-products">
                         Der Earth Overshoot Day beispielsweise zeigt uns den Tag des Jahres, ab dem die Menschheit mehr natürliche Ressourcen verbraucht als die Erde produziert. Mehr dazu findest du <a href="https://www.overshootday.org/" target="_blank">hier</a>.
