@@ -27,9 +27,9 @@ echo "<!DOCTYPE html>\n"
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta property="og:image" content="img/preview-dailyimpact.jpg">  
-    <meta name="twitter:image:src" content="mg/preview-dailyimpact.jpg">  
-    <link rel="image_src" href="img/preview-dailyimpact.jpg">
+    <meta property="og:image" content="https://dailyimpact.earth/img/preview-dailyimpact.jpg">  
+    <meta name="twitter:image:src" content="https://dailyimpact.earth/img/preview-dailyimpact.jpg">  
+    <link rel="image_src" href="https://dailyimpact.earth/img/preview-dailyimpact.jpg">
     <title>daily impact</title>
     <link rel="icon" type="image/png" href="favicon.ico">
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
