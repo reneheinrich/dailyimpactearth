@@ -851,6 +851,11 @@ height: 2.5vh!important;
         margin-top: 30px;
     }
 
+    #x_purpouse .subtext{
+        width: 500px;
+        margin: auto;
+    }
+
     .cta-products{
         font-size: calc(6px + 1.5vh);
         width: 800px;
