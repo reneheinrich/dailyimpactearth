@@ -107,6 +107,9 @@ echo "<!DOCTYPE html>\n"
                 </div>
             </div>
         </div>
+        /*
+            Der Content für die einzelnen Screens befindet sich jetzt in separaten PHP-Dateien.
+         */
         <?php require("morning.php"); ?>
         <?php require("morning2.php"); ?>
         <?php require("gotowork.php"); ?>
