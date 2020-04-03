@@ -228,7 +228,7 @@ echo "<!DOCTYPE html>\n"
                     <?php
                         share(
                             "gotowork",
-                            "Wusstest du, dass ein Pendler auf seinem durchschnittlichen Arbeitsweg pro Tag 4,2kg CO2 ausstoßt?",
+                            "Wusstest du, dass ein Pendler auf seinem durchschnittlichen Arbeitsweg pro Tag 4,2kg CO2 ausstößt?",
                             "createimpact,impact,cleancommute"
                         );
                     ?>
