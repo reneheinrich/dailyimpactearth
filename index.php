@@ -394,12 +394,6 @@ echo "<!DOCTYPE html>\n"
                     <div class="owl-carousel">
                         <?php
                         amzn(
-                            "38wPKaJ",
-                            "img/proteinriegel.jpg",
-                            "Riegel aus Grillenmehl",
-                            "Vegane und proteinreiche Snacks aus Grillenmehl."
-                        );
-                        amzn(
                             "3bHtblG",
                             "img/brotdose.jpg",
                             "Plastikfreie Lunchboxmit aus Bambusholzdeckel",
