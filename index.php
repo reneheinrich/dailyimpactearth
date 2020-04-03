@@ -567,8 +567,8 @@ echo "<!DOCTYPE html>\n"
                     <?php
                         share(
                             "afterwork2",
-                            "Wusstest du, dass die globale Massentierhaltung mit 20% zur weltweiten Treibhausgasemission beiträgt?",
-                            "createimpact,impact,govegan"
+                            "Wusstest du, dass Tropische Regenwälder weltweit um 30 Fussballfelder pro Minute schrumpfen?",
+                            "createimpact,impact, safetheforrest"
                         );
                     ?>
                 </div>
@@ -691,8 +691,8 @@ echo "<!DOCTYPE html>\n"
                     <?php
                         share(
                             "afterwork",
-                            "Wusstest du, dass die fünf weltgrößten Fleisch- und Molkereikonzerne mehr Treibhausgas-Emissionen als die drei größten Ölkonzerne verursachen?",
-                            "createimpact,impact,govegan"
+                            "Wusstest du, dass wir Menschen am uns am Abend während wir uns unserer Freizeit widmen, zu großen Teilen zum Verbrauch von natürlichen Rohstoffen und Ressourcen beitragen?",
+                            "createimpact,impact, earthovershootday"
                         );
                     ?>
                 </div>
