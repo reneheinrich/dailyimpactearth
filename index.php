@@ -240,7 +240,7 @@ echo "<!DOCTYPE html>\n"
                 <div class="contentcontainer">
                     <h2>Ab zur Arbeit</h2>
                     <div class="fact">
-                        Feinstaub trägt europaweit zu einem Drittel der Asthmafälle bei.
+                        Feinstaub trägt europaweit zu einem Drittel der Asthmafälle bei
                     </div>
                     <div class="cta-products">
                         Ein heute gekauftes, für den breiten Markt typisches Elektrofahrzeug schneidet 
@@ -386,7 +386,7 @@ echo "<!DOCTYPE html>\n"
                 <div class="contentcontainer">
                     <h2>In der Pause</h2>
                     <div class="fact">
-                        Eine komplett vegane Ernährung verursacht durchschnittlich 2 Tonnen weniger CO2 pro Jahr und Person.
+                        Eine komplett vegane Ernährung verursacht durchschnittlich 2 Tonnen weniger CO2 pro Jahr und Person
                     </div>
                     <div class="cta-products">
                     Das ist in etwa der CO2 Ausstoß von 8 Kurzstreckenflügen. Natürlich möchte nicht jeder komplett vegan oder vegetarisch leben. Aber auch hin und wieder auf Alternativprodukte zurückzugreifen kann einen Unterschied machen. Mehr dazu <a href="https://utopia.de/vegan-treibhausgase-co2-137342/"> hier.</a>
@@ -525,7 +525,7 @@ echo "<!DOCTYPE html>\n"
                 <div class="contentcontainer">
                     <h2>Nach der Arbeit</h2>
                     <div class="fact">
-                        Tropische Regenwälder schrumpfen weltweit um 30 Fussballfelder pro Minute. 
+                        Tropische Regenwälder schrumpfen weltweit um 30 Fussballfelder pro Minute 
                     </div>
                     <div class="cta-products">
                         Während ein Teil dieses Verlusts auf natürliche Ursachen wie Waldbrände zurückzuführen ist, werden Waldflächen in erster Linie gerodet, um Platz für Rinder oder landwirtschaftliche Produktion wie Palmöl und Sojabohnen zu machen. <br> Mehr Fakten findest du <a href="https://www.wired.co.uk/article/climate-change-facts-2019" target="_blank"> hier.</a>
