@@ -11,7 +11,7 @@
                     <div class="owl-carousel">
                         <?php
                             amzn(
-                                "2uHdNFg",
+                                "31WpvIe",
                                 "img/bambushandtuecher.jpg",
                                 "Bambus Küchenrolle",
                                 "Jeden Tag werden 51.000 Tonnen Bäume für Küchentücher gefällt. Mit der Küchenrolle wirkst du der Abholzung der Wälder entgegen."
@@ -23,7 +23,7 @@
                                 "100% heim kompstierbare und biologisch abbaubare Müllsäcke."
                             );
                             amzn(
-                                "3bJct5p", 
+                                "2TzQWow", 
                                 "img/handbrause.jpg", 
                                 "Wassersparender Duschkopf",
                                 "3 Wege Funktion Duschkopf reinigt Wasser mit Ionenfiltern und Mineralkugeln und führt zu bis zu 30% Wasserersparnis."
@@ -35,7 +35,7 @@
                                 "Handgemachtes, natürliches und veganes Haarshampoo ohne Mirkoplastik."
                             );
                             amzn(
-                                "3bJct5p", 
+                                "3bGQ7RY", 
                                 "img/zahnpasta1.jpg", 
                                 "Aktivkohlezahnpasta aus Kokos",
                                 "Es besteht zu 100% aus organischer Aktivkohle, aus der Kokosnuss, mit maximaler Schonwirkung für Zähne, Zahnfleisch und Körper."

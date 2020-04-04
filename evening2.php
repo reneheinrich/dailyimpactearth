@@ -11,7 +11,7 @@
                     <div class="owl-carousel">
                         <?php
                         amzn(
-                            "3bJct5p", 
+                            "2TzQWow", 
                             "img/handbrause.jpg", 
                             "Wassersparender Duschkopf",
                             "3 Wege Funktion Duschkopf reinigt Wasser mit Ionenfiltern und Mineralkugeln und führt zu bis zu 30% Wasserersparnis."

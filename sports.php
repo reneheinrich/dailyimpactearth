@@ -17,7 +17,7 @@
                             "Diese adidas Ultraboost Schuhe werden aus Ozeanplastik hergestellt."
                         );
                         amzn(
-                            "2uQGCij",
+                            "2PVpqzJ",
                             "img/adidas.jpg",
                             "Adidas Herren Oceanplastic Schuhe",
                             "Diese adidas Ultraboost Schuhe werden aus Ozeanplastik hergestellt."
@@ -29,7 +29,7 @@
                             "Dieses adidas Sportshirt wird aus Ozeanplastik hergestellt."
                         );
                         amzn(
-                            "2V2o3lU",
+                            "2vHrpjF",
                             "img/proteinpancakes.jpg",
                             "Proteinpancakes",
                             "Diese Backmischung hat 6x mehr Protein als Standardmischungen. Perfekt für eine vegane Proteinreiche ernährung."
