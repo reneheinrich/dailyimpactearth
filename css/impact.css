@@ -786,7 +786,10 @@ height: 2.5vh!important;
     }
 }
 
-@media only screen and (max-width: 400px){
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) {
 
     .section04 a span {
         bottom: 35px;
@@ -794,11 +797,11 @@ height: 2.5vh!important;
 
     .contentcontainer h2{
         margin-bottom: 30px;
-        font-size: calc(22px + 0.9vh);
+        font-size: calc(20px + 0.9vh);
     }
 
     .fact{
-        font-size: calc(13px + 0.9vh);
+        font-size: calc(12px + 0.9vh);
     }
 
     .cta-products{
@@ -806,7 +809,7 @@ height: 2.5vh!important;
     }
 
     .owl-carousel.owl-drag .owl-item{
-        margin-top: 15px;
+        margin-top: 10px;
     }
 }
 
