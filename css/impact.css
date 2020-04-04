@@ -787,7 +787,7 @@ height: 2.5vh!important;
 }
 
 @media screen 
-  and (device-width: 320px) 
+  and (device-width: 360px) 
   and (device-height: 640px) 
   and (-webkit-device-pixel-ratio: 3) {
 
@@ -798,6 +798,16 @@ height: 2.5vh!important;
     .contentcontainer h2{
         margin-bottom: 30px;
         font-size: calc(20px + 0.9vh);
+        margin-top: -5px;
+    }
+
+    .contentcontainer{
+        padding: 7vh 7vw;
+        padding-left: 65px;
+    }
+
+    .owl-carousel{
+        width: 100%;
     }
 
     .fact{
@@ -805,7 +815,21 @@ height: 2.5vh!important;
     }
 
     .cta-products{
-        margin-top: 20px;
+        margin-top: 5px;
+    }
+
+    .owl-carousel .product{
+        width: 40vw;
+        font-size: calc(7px + 0.4vw);
+        padding: 7px;
+    }
+
+    .owl-carousel .product img{
+        margin-bottom: 7px;
+    }
+
+    .owl-carousel .product .title{
+        font-size: 11px;
     }
 
     .owl-carousel.owl-drag .owl-item{
