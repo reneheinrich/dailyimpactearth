@@ -91,7 +91,7 @@ echo "<!DOCTYPE html>\n"
                     <?php
                         share(
                             "home",
-                            "Wusstest du, dass jeder Mensch pro Woche Plastik in der Menge von einer Kreditkarte isst?",
+                            "Wusstest du, dass jeder Mensch pro Woche Plastik in der Menge von einer Kreditkarte zu sich nimmt?",
                             "createimpact,impact,noplastic"
                         );
                     ?>
