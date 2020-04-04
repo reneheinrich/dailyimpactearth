@@ -893,10 +893,3 @@ height: 2.5vh!important;
         width: 20vw;
     }
 }
-
-@media screen 
-  and (device-width: 380px) 
-  and (device-height: 680px) 
-  and (-webkit-device-pixel-ratio: 2){
-      font-style: Arial!important;
-  }
