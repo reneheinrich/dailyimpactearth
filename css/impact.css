@@ -789,10 +789,7 @@ height: 2.5vh!important;
 @media screen 
   and (device-width: 360px) 
   and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 3)
-  and (device-width: 380px) 
-  and (device-height: 680px) 
-  and (-webkit-device-pixel-ratio: 2) {
+  and (-webkit-device-pixel-ratio: 3){
 
     .section04 a span {
         bottom: 35px;
