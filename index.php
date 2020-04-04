@@ -87,7 +87,7 @@ echo "<!DOCTYPE html>\n"
                         <span>daily impact</span>
                     </div>
                     <h1>Wusstest du, dass jeder Mensch pro Woche Plastik in der Menge einer Kreditkarte zu sich nimmt?</h1>
-                    <div class="subtext">Mikroplastikteilchen sind kleiner als fünf Millimeter und verstecken sich in Essen, Trinkwasser und sogar der Luft. Der Mensch nimmt wöchentlich fünf Gramm, also etwa das Gewicht einer Kreditkarte, davon auf. Mehr zum Thema kannst du in <a href="https://www.umsicht.fraunhofer.de/content/dam/umsicht/de/dokumente/publikationen/2018/kunststoffe-id-umwelt-konsortialstudie-mikroplastik.pdf" target="_blank" >diesem Report lesen.</a></div>
+                    <div class="subtext">Mikroplastikteilchen sind kleiner als fünf Millimeter und verstecken sich in Essen, Trinkwasser und sogar der Luft. Der Mensch nimmt wöchentlich fünf Gramm, also etwa das Gewicht einer Kreditkarte, davon auf. Mehr zum Thema kannst du in <a href="https://www.umsicht.fraunhofer.de/content/dam/umsicht/de/dokumente/publikationen/2018/kunststoffe-id-umwelt-konsortialstudie-mikroplastik.pdf" target="_blank" >diesem Report lesen</a>.</div>
                     <?php
                         share(
                             "home",
@@ -141,10 +141,7 @@ echo "<!DOCTYPE html>\n"
                         <div class="fact lastpage">
                            Schön, dass du's bis zum Ende geschafft hast. <br>Lass uns in Kontakt bleiben! 
                         </div>
-
                         <a href="newsletter.html" target="_blank" class="end-button">Newsletter anmelden</a>
-                        
-                        
                         <div class="imprint-link">
                             <a href="impressum.html" target="_blank">Impressum</a>
                         </div>  
