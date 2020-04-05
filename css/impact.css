@@ -500,14 +500,31 @@ height: 2.5vh!important;
     height: 100%;
     line-height: 1.1;
     max-width: 15vw;
+    transition: 0.3s ease-out;
 }
+
+
+
+.owl-carousel .product:hover {
+    background-color: rgba(25, 112, 55, 0.8);
+    color: white;
+}
+
+
 
 .owl-carousel .product .title{
     font-size: 14px;
     color: black;
     margin-bottom: 4px;
     font-weight: 400;
+    transition: 0.3s ease-out;
 }
+
+
+.owl-carousel .product:hover .title{
+    color: white;
+}
+
 
 .owl-carousel .product img{
     width: 100%;
