@@ -6,7 +6,7 @@
                         Deutschland verbraucht so viel Papier wie die Kontinente Afrika und Südamerika zusammen
                     </div>
                     <div class="cta-products">
-                        Fast jeder zweite industriell gefällte Baum weltweit wird zu Papier verarbeitet - Zeitungen, Zeitschriften, Geschenkpapier, Verpackungen, Küchentücher oder Toilettenpapier. Mehr Informationen findest du <a href="https://www.wwf.de/themen-projekte/waelder/papierverbrauch/zahlen-und-fakten/">hier</a>.
+                        Fast jeder zweite industriell gefällte Baum wird zu Papier verarbeitet, egal ob Zeitungen, Zeitschriften, Geschenkpapier, Verpackungen, Küchentücher oder Toilettenpapier. <a href="https://www.wwf.de/themen-projekte/waelder/papierverbrauch/zahlen-und-fakten/">Mehr Infos</a>
                     </div>
                     <div class="owl-carousel">
                         <?php
@@ -20,7 +20,7 @@
                                 "38vkFEk", 
                                 "img/müllbeutel.jpg", 
                                 "Kompostierbare Müllsäcke",
-                                "100% heim kompstierbare und biologisch abbaubare Müllsäcke."
+                                "100% heim kompostierbare und biologisch abbaubare Müllsäcke."
                             );
                             amzn(
                                 "2TzQWow", 
@@ -32,7 +32,7 @@
                                 "2u6F5oa", 
                                 "img/haarshampoo.jpg", 
                                 "Mikroplastikfreies Haarshampoo",
-                                "Handgemachtes, natürliches und veganes Haarshampoo ohne Mirkoplastik."
+                                "Handgemachtes, natürliches und veganes Haarshampoo ohne Mikroplastik."
                             );
                             amzn(
                                 "3bGQ7RY", 
@@ -43,8 +43,8 @@
                             amzn(
                                 "37yONx0", 
                                 "img/kokosschwamm.jpg", 
-                                "Kokosschwamm",
-                                "Kokosfasern sind umweltschonend und bilogisch abbaubar!"
+                                "Kokos Küchenschwamm",
+                                "Kokosfasern sind umweltschonend und biologisch abbaubar!"
                             );
                         ?> 
                     </div>
