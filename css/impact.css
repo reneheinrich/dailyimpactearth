@@ -423,7 +423,7 @@ height: 3.5%!important;
     background-repeat: no-repeat;
 }
 
-#x_end {
+#x_end, #x_ctabetween {
     background-image: url('../backgrounds/newsletter2.webp');
     background-size: cover;
     background-position: center;
