@@ -34,12 +34,6 @@
                             "Yogamatte aus Kork und Natur-Kautschuk",
                             "Biologisch abbaubare Yoga Matte aus Kork und Kautschuk. "
                         );
-                        amzn(
-                            "31Z46On",
-                            "img/proteinshake.jpg",
-                            "Veganer Nahrungsersatz Drink",
-                            "Food Vegan Drink enthält alle Nährstoffe, die dein Körper benötigt."
-                        );
                         ?>
                     </div>
                     <?php
