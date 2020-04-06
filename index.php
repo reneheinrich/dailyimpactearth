@@ -142,12 +142,12 @@ echo "<!DOCTYPE html>\n"
         <div id="x_end" vs-anchor="end" class="mainview lastpage">
             <div class="darkbg lastpage">
                     <div class="contentcontainer lastpage">
-                        <h2>Newsletter</h2>
+                        <h2>Zusammen die Welt verbessern</h2>
                         <div class="fact lastpage">
-                           Schön, dass du's bis zum Ende geschafft hast. <br>Lass uns in Kontakt bleiben! 
+                            Wir hoffen du findest diese Fakten und Infos spannend. <br>Lass uns über unseren Newsletter in Kontakt bleiben! 
                         </div>
-                        <a href="newsletter.html" target="_blank" class="end-button">Newsletter anmelden</a>
-                        <div class="calltoshare">Wenn auch dir die Umwelt wichtig ist, teile uns mit deinen Freunden!</div>
+                        <a href="newsletter.html" target="_blank" class="end-button">Klar, mach ich</a>
+                        <div class="calltoshare">Teile die Botschaft mit deinen Freunden!</div>
                         <?php
                         share(
                             "home",
