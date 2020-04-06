@@ -18,13 +18,13 @@
                             amzn(
                                 "3bJct5p", 
                                 "img/ebike.jpg", 
-                                "E-Bike",
+                                "E-Bike 50km Reichweite",
                                 "Elektro Bike mit hoher Akkulaufzeit mit Reichweite bis zu 50km bei einer Höchstgeschwindigkeit von 25 km pro Stunde."
                             );
                             amzn(
                                 "336Ict3", 
                                 "img/escooter.jpg", 
-                                "Elektro Scooter",
+                                "Elektro Scooter Futura",
                                 "Der hervorragend verarbeitete und umweltfreundliche Elektroroller Elettrico 3000 Li von elektroroller-futura, bietet Ihnen maximalen Fahrspaß für 2 Personen."
                             );
                             amzn(
