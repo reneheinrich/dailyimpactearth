@@ -744,7 +744,7 @@ height: 3.5%!important;
     display: none;
 }
 
-#x_end .fact{
+#x_end .fact, #x_ctabetween .fact{
     line-height: 1.2;
 }
 

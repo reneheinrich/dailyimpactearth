@@ -3,7 +3,7 @@
                     <div class="contentcontainer">
                         <h2>Newsletter</h2>
                         <div class="fact lastpage">
-                           Wir hoffen du findest die Website bis jetzt spannend. <br>Lass uns in Kontakt bleiben! 
+                           Wir hoffen du findest diese Fakten und Infos spannend. <br>Lass uns in Kontakt bleiben! 
                         </div>
                         <a href="newsletter.html" target="_blank" class="end-button">Newsletter anmelden</a>
                         <div class="calltoshare">Wenn auch dir die Umwelt wichtig ist, teile uns mit deinen Freunden!</div>
