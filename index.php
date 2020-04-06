@@ -11,7 +11,6 @@ function amzn($url, $imgsrc, $title, $description) {
 
 function share($url, $text, $hashtags) {
     echo "<div class=\"sharemenu\">\n";
-    echo "<div class=\"share-text\">SHARE</div>\n";
     echo "<a href=\"http://twitter.com/share?text=".$text."&url=http://www.dailyimpact.earth/".$url."/&hashtags=".$hashtags."\">\n";
     echo "<i class=\"fab fa-twitter\"></i></a>\n";
     echo "<a href=\"https://www.linkedin.com/shareArticle?mini=true&url=http://www.dailyimpact.earth/".$url."/&title=".$text."\">\n";
@@ -19,7 +18,7 @@ function share($url, $text, $hashtags) {
     echo "<a href=\"whatsapp://send?text=".$text." --> https://www.dailyimpact.earth/".$url."/\" data-action=\"share/whatsapp/share\" title=\"Share on whatsapp\">\n";
     echo "<i class=\"fab fa-whatsapp-square\"></i></a>\n";
     echo "<a href=\"https://www.facebook.com/sharer/sharer.php?u=https://www.dailyimpact.earth/".$url."/&quote=".$text."\">\n";
-    echo "<i class=\"fab fa-facebook-square\"></i></a></div>\n";
+    echo "<i class=\"fab fa-facebook-square\"></i></a><div class=\"share-text\">SHARE</div></div>\n";
 }
 
 echo "<!DOCTYPE html>\n"
