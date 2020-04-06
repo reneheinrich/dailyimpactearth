@@ -30,17 +30,20 @@
                             amzn(
                                 "#",
                                 "img/ninesteplongboard.jpg",
-                                "Ninestep 40 km/h Longboard"
+                                "Ninestep 40 km/h Longboard",
+                                ""
                             );
                             amzn(
                                 "#",
                                 "img/teamgeelongboard.jpg",
-                                "Elektro Longboard Teamgee H5"
+                                "Elektro Longboard Teamgee H5",
+                                ""
                             );
                             amzn(
                                 "#",
                                 "img/miscooter.jpg",
-                                "Mi Elektro Scooter"
+                                "Mi Elektro Scooter",
+                                ""
                             );
                             amzn(
                                 "2uPu2jw",
