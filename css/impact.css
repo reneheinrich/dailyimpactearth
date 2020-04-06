@@ -588,13 +588,11 @@ height: 3.5%!important;
 }
 
 .sharemenu{
-    width: 100%;
     bottom: 20px;
     display: flex;
     flex-direction: row;
     position: absolute;
     right: 20px;
-    flex-flow: row-reverse;
 }
 
 .share-text{
