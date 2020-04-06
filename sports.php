@@ -25,7 +25,7 @@
                         amzn(
                             "334FKmV",
                             "img/adidasshirt.jpg",
-                            "adidas Parley Herren Sportshirt",
+                            "adidas Herren Oceanplastic Sportshirt",
                             "Dieses adidas Sportshirt wird aus Ozeanplastik hergestellt."
                         );
                         amzn(
