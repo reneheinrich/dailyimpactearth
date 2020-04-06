@@ -4,7 +4,7 @@ function amzn($url, $imgsrc, $title, $description) {
     echo "<div class=\"product\">\n";
     echo "<img src=\"".$imgsrc."\"/>\n";
     echo "<div class=\"title\">".$title."</div>\n";
-    echo $description;
+    echo "<div class=\"description\">".$description."</div>\n";
     echo "</div>\n";
     echo "</a>\n";
 }

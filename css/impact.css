@@ -503,6 +503,10 @@ height: 2.5vh!important;
     transition: 0.3s ease-out;
 }
 
+.product .description{
+    display: none;
+}
+
 
 
 .owl-carousel .product:hover {
