@@ -6,9 +6,7 @@
                         Die Erzeugung einer einzigen Tasse Kaffee verbraucht 140l Wasser
                     </div>
                     <div class="cta-products">
-                    Aber auch die massive Abholzung im Rahmen der Kaffeeproduktion wird zunehmend zur Gefahr für unsere
-                    Regenwälder. Die durch den Klimawandel bedingte Verschiebung der Anbaugebiete führt dazu, dass die immer steigende Nachfrage
-                    nach Kaffee künftig nur durch weitere Rhodung der Regenwälder zu decken sein wird. 
+                    Aber auch die massive Abholzung der Regenwälder im Zuge der Kaffeeproduktion wird zunehmend zur Gefahr für die Umwelt. Durch den Klimawandel und den stetig wachsenden Kaffeekonsum verschieben sich die Anbaugebiete immer weiter in Regenwaldgebiete.
                     <bold><a href="https://www.br.de/radio/bayern1/inhalt/experten-tipps/umweltkommissar/kaffee-kapseln-pads-umwelt-100.html" target="_blank">Hier</a></bold> und 
                     
                    <a href="https://www.tagesanzeiger.ch/wissen/natur/fuer-unseren-taeglichen-kaffee-wird-der-regenwald-sterben/story/11876527" target="_blank">hier</a> findest du mehr zu diesen Themen.
