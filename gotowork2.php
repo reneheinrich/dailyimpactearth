@@ -44,7 +44,7 @@
                                 "img/miscooter.jpg",
                                 "Mi Elektro Scooter",
                                 ""
-                            );
+                            );/*
                             amzn(
                                 "2uPu2jw",
                                 "img/handyhuelle.jpg",
@@ -62,7 +62,7 @@
                                 "img/kaffee.jpg",
                                 "Bambus Kaffeebecher",
                                 "Bambusbecher sind langlebig, wiederverwendbar und umweltfreundlich."
-                            );
+                            );*/
                         ?>
                     </div>
                     <?php
