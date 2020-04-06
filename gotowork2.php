@@ -28,6 +28,21 @@
                                 "Der hervorragend verarbeitete und umweltfreundliche Elektroroller Elettrico 3000 Li von elektroroller-futura, bietet Ihnen maximalen Fahrspaß für 2 Personen."
                             );
                             amzn(
+                                "#",
+                                "img/ninesteplongboard.jpg",
+                                "Ninestep 40 km/h Longboard"
+                            );
+                            amzn(
+                                "#",
+                                "img/teamgeelongboard.jpg",
+                                "Elektro Longboard Teamgee H5"
+                            );
+                            amzn(
+                                "#",
+                                "img/miscooter.jpg",
+                                "Mi Elektro Scooter"
+                            );
+                            amzn(
                                 "2uPu2jw",
                                 "img/handyhuelle.jpg",
                                 "BioCase Hülle für IPhone",
@@ -44,12 +59,6 @@
                                 "img/kaffee.jpg",
                                 "Bambus Kaffeebecher",
                                 "Bambusbecher sind langlebig, wiederverwendbar und umweltfreundlich."
-                            );
-                            amzn(
-                                "323vjzx",
-                                "img/papierrucksack.jpg",
-                                "Rucksack aus Kraftpapier",
-                                "Rucksack aus pflanzlischen Materialien wie Zellstoff und Naturlatex. Biologisch abbaubar und nachwachsend."
                             );
                         ?>
                     </div>
