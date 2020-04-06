@@ -3,10 +3,11 @@
                 <div class="contentcontainer">
                     <h2>Am Morgen</h2>
                     <div class="fact">
-                       450 Jahre dauert es bis sich eine einfache Plastikflasche zersetzt
-                    </div>
+                    Eine herkömmliche Plastikflasche braucht ganze 450 Jahre um sich komplett zu zersetzen.
+
+                </div>
                     <div class="cta-products">
-                    Gerade unser Badezimmer ist besonders voll mit Plastikprodukten: Zahnbürsten, Cremes, Haargels, Wattestäbchen und vieles mehr. Dies macht es fast unmöglich plastikfrei in den Tag zu starten. <a href="https://www.zeit.de/2015/26/plastikmuell-nordsee-recycling-umweltschutz/komplettansicht" target="_blank"> Mehr Infos</a>.</div>
+                    Dennoch ist Plastik ein stetiger Begleiter in unserem Alltag. So sind wir schon morgens mit unzähligen Wegwerfprodukten aus Plastik konfrontiert. Dabei reicht das Sortiment von wie Zahnbürsten, über Cremes und Gels, bis hin zu Wattestäbchen.  <a href="https://www.manager-magazin.de/unternehmen/artikel/plastik-die-zehn-wichtigsten-fakten-zur-plastik-plage-a-1207612-11.html" target="_blank"> Mehr Infos</a>.</div>
                     <div class="owl-carousel">
                         <?php
                             amzn(
@@ -38,7 +39,7 @@
                     <?php
                         share(
                             "morning",
-                            "Wusstest du, dass eine Plastikflasche bis zu 450 Jahre braucht bis sie sich zersetzt?",
+                            "Wusstest du, dass es bis zu 450 Jahre dauert bis sich eine Plastikflasche zersetzt?",
                             "createimpact,impact,noplastic"
                         );
                     ?>
