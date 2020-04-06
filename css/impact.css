@@ -60,7 +60,7 @@ a:hover, a:visited, a:link, a:active
 #navi {
     position: fixed;
     display: none;
-    height: 100vh;
+    height: 100%;
     width: 40px;
     background-color:rgba(0, 0, 0, 0.8);
     z-index: 10000;
