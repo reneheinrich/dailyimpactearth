@@ -142,6 +142,13 @@ echo "<!DOCTYPE html>\n"
                            Schön, dass du's bis zum Ende geschafft hast. <br>Lass uns in Kontakt bleiben! 
                         </div>
                         <a href="newsletter.html" target="_blank" class="end-button">Newsletter anmelden</a>
+                        <?php
+                        share(
+                            "morning2",
+                            "Wusstest du, dass Deutschland so viel Papier wie die Kontinente Afrika und Südamerika zusammen verbraucht?",
+                            "createimpact,impact,reducewaste"
+                        );
+                    ?>
                         <div class="imprint-link">
                             <a href="impressum.html" target="_blank">Impressum</a>
                         </div>  
