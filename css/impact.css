@@ -735,7 +735,8 @@ height: 3.5%!important;
     word-wrap: break-word;
     hyphens: auto;
     font-weight: 400;
-    margin-top: -20px;
+    margin-top: 50px;
+    margin-bottom: 20px;
 }
 
 #x_end .share-text{
@@ -854,7 +855,7 @@ height: 3.5%!important;
         width: 100%;
     }
 
-    .fact{
+    .fact, .calltoshare{
         font-size: calc(12px + 0.9vh);
     }
 
