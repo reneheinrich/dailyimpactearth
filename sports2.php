@@ -3,7 +3,7 @@
                 <div class="contentcontainer">
                     <h2>Beim Sport</h2>
                     <div class="fact">
-                        Die höchste Müllkippe der Welt ist der Mount Everest. 50 Tonnen Abfall werden dort bei Expeditionen zurückgelassen.
+                        Die höchste Müllkippe der Welt ist der Mount Everest. 50 Tonnen Abfall werden dort pro Jahr bei Expeditionen zurückgelassen.
                     </div>
                     <div class="cta-products">
                         Generell trägt Sport nicht unbeachtlich zur Umweltverschmutzung bei. Bei der Fußball-EM in Österreich und der Schweiz wurden zum Beispiel rund 900 Tonnen Abfall produziert. <a href="https://www.greenpeace-magazin.ch/2014/09/29/zahlen-und-fakten-zu-sport-und-umwelt/" target="_blank">Mehr Infos</a>
