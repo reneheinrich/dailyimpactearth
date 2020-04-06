@@ -67,8 +67,7 @@ a:hover, a:visited, a:link, a:active
 }
 
 #navicontainer {
-    display: flex;
-    flex-direction: column;
+    height: 100%;
 }
 
 #navicontainer svg{
@@ -85,7 +84,7 @@ a:hover, a:visited, a:link, a:active
 }
 
 .small-nav{
-height: 3.5vh!important;
+height: 2.5%!important;
 }
 
 .small-nav img{
@@ -101,7 +100,7 @@ height: 3.5vh!important;
 
 #navicontainer a {
     display: inline-block;
-    height: 8vh;
+    height: 8%;
 }
 
 #site {
