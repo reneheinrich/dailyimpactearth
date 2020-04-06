@@ -11,6 +11,7 @@ function amzn($url, $imgsrc, $title, $description) {
 
 function share($url, $text, $hashtags) {
     echo "<div class=\"sharemenu\">\n";
+    echo "<div class=\"share-text\">SHARE</div>\n";
     echo "<a href=\"http://twitter.com/share?text=".$text."&url=http://www.dailyimpact.earth/".$url."/&hashtags=".$hashtags."\">\n";
     echo "<i class=\"fab fa-twitter\"></i></a>\n";
     echo "<a href=\"https://www.linkedin.com/shareArticle?mini=true&url=http://www.dailyimpact.earth/".$url."/&title=".$text."\">\n";
