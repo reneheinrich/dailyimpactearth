@@ -729,6 +729,19 @@ height: 3.5%!important;
 	top:1px;
 }
 
+.calltoshare{
+    color: white;
+    font-size: calc(13px + 1.5vh);
+    word-wrap: break-word;
+    hyphens: auto;
+    font-weight: 400;
+    margin-top: -20px;
+}
+
+#x_end .share-text{
+    display: none;
+}
+
 
 .newsletterpage {
     background-image: url('../backgrounds/newsletter.webp'); /*JPEG FEHLT*/
