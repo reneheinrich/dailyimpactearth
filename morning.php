@@ -7,7 +7,7 @@
 
                 </div>
                     <div class="cta-products">
-                    Dennoch ist Plastik ein stetiger Begleiter in unserem Alltag. So sind wir schon morgens mit unzähligen Wegwerfprodukten aus Plastik konfrontiert. Dabei reicht das Sortiment von wie Zahnbürsten, über Cremes und Gels, bis hin zu Wattestäbchen.  <a href="https://www.manager-magazin.de/unternehmen/artikel/plastik-die-zehn-wichtigsten-fakten-zur-plastik-plage-a-1207612-11.html" target="_blank"> Mehr Infos</a>.</div>
+                    Dennoch ist Plastik ein stetiger Begleiter in unserem Alltag. So sind wir schon morgens mit unzähligen Wegwerfprodukten aus Plastik konfrontiert. Dabei reicht das Spektrum von Zahnbürsten, über Cremes und Gels, bis hin zu einfachen Wattestäbchen.  <a href="https://www.manager-magazin.de/unternehmen/artikel/plastik-die-zehn-wichtigsten-fakten-zur-plastik-plage-a-1207612-11.html" target="_blank"> Mehr Infos</a>.</div>
                     <div class="owl-carousel">
                         <?php
                             amzn(
