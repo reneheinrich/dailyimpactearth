@@ -6,7 +6,7 @@
                         Bis 2015 wurden weltweit mehr als 6,9 Milliarden Tonnen Plastikmüll erzeugt. 79% davon landeten in Deponien oder in der Umwelt.
                     </div>
                     <div class="cta-products">
-                        Jede Minute allein gerät umgerechnet eine Müllwagen-Ladung Plastik in die Ozeane was dazu führt, dass Meereslebewesen, und auch wir Menschen über Umwege, Plastik konsumieren. <a href="https://www.weforum.org/agenda/2016/10/every-minute-one-garbage-truck-of-plastic-is-dumped-into-our-oceans/" target="_blank">Mehr Infos</a>
+                        Jede Minute allein gerät umgerechnet eine Müllwagen-Ladung Plastik in die Ozeane. Dies führt dazu, dass Meereslebewesen, und auch wir Menschen über Umwege, Plastik konsumieren. <a href="https://www.weforum.org/agenda/2016/10/every-minute-one-garbage-truck-of-plastic-is-dumped-into-our-oceans/" target="_blank">Mehr Infos</a>
                     </div>
                     <div class="owl-carousel">
                         <?php
