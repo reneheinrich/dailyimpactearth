@@ -9,7 +9,7 @@
                         Aktuelle Elektrofahrzeuge schneiden 
                         im Vergleich zu Fahrzeugen mit Verbrennungsmotor unter allen Klimagesichtspunkten 
                         besser ab. Selbst gegenüber sparsamen Dieselfahrzeugen liegt der CO2-Vorteil 
-                        eines Elektroautos bei 16 Prozent, gegenüber modernen Benzinern bei 27 Prozent. 
+                        eines Elektroautos bei 16%, gegenüber modernen Benzinern bei 27%. 
                         Mehr Informationen <a href="https://www.bmu.de/fileadmin/Daten_BMU/Pools/Broschueren/elektroautos_bf.pdf" target="_blank">hier</a> und
                         <a href="https://www.medical-tribune.de/medizin-und-forschung/artikel/oft-ist-feinstaub-verantwortlich-fuer-asthma/" target="_blank">hier</a>.
                     </div>
@@ -49,12 +49,12 @@
                                 "2uPu2jw",
                                 "img/handyhuelle.jpg",
                                 "BioCase Hülle für IPhone",
-                                "IPhone Schutzhülle aus biologisch abbauabren Rohstoffen hergestellt und frei von umweltschädlichen Substanzen."
+                                "IPhone Schutzhülle aus biologisch abbaubaren Rohstoffen hergestellt und frei von umweltschädlichen Substanzen."
                             );
                             amzn(
                                 "2uRE17P",
                                 "img/rucksack-schwarz2.jpg",
-                                "Johnny Urban aus recyceltem PET",
+                                "Johnny Urban Rucksack (recyceltes PET)",
                                 "Stylischer Johnny Urban Rucksack aus 100% recycelten PET Flaschen."
                             );
                             amzn(

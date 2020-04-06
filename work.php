@@ -20,7 +20,7 @@
                             "2uPu2jw",
                             "img/handyhuelle.jpg",
                             "BioCase Hülle für IPhone",
-                            "IPhone Schutzhülle aus biologisch abbauabren Rohstoffen hergestellt und frei von umweltschädlichen Substanzen."
+                            "IPhone Schutzhülle aus biologisch abbaubaren Rohstoffen hergestellt und frei von umweltschädlichen Substanzen."
                         );
                         amzn(
                             "323vjzx",
@@ -31,7 +31,7 @@
                         amzn(
                             "2uRE17P",
                             "img/rucksack-schwarz2.jpg",
-                            "Johnny Urban aus recyceltem PET",
+                            "Johnny Urban Rucksack (recyceltes PET)",
                             "Stylischer Johnny Urban Rucksack aus 100% recycelten PET Flaschen."
                         );
                         amzn(
@@ -44,13 +44,13 @@
                             "3bJct5p",
                             "img/kugelschreiber.jpg",
                             "Kugelschreiber Bambus",
-                            "Bambus Kugelschreiber aus nachhaltigen Materialien"
+                            "Bambus Kugelschreiber aus nachhaltigen Materialien."
                         );
                         amzn(
                             "2SwoFib",
                             "img/jacke.jpg",
                             "Recycled Patagonia Wool Bomber Jacke",
-                            "Außenmaterial aus 60 % recycelter Wolle, 30 % recyceltem Polyester und 10 % recyceltem Nylon, gefüttert mit recyceltem Polyester Ripstop."
+                            "Außenmaterial aus 60% recycelter Wolle, 30% recyceltem Polyester und 10% recyceltem Nylon, gefüttert mit recyceltem Polyester Ripstop."
                         );
                         ?>
                     </div>
