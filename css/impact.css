@@ -431,7 +431,7 @@ height: 3.5%!important;
     height: 300px;
 }
 
-.no-webp #x_end {
+.no-webp #x_end, .no-webp #x_ctabetween {
     background-image: url('../backgrounds/jpeg/newsletter2.jpg');
     background-size: cover;
     background-position: center;
