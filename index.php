@@ -149,9 +149,9 @@ echo "<!DOCTYPE html>\n"
                         <div class="calltoshare">Wenn auch dir die Umwelt wichtig ist, teile uns mit deinen Freunden!</div>
                         <?php
                         share(
-                            "morning2",
-                            "Wusstest du, dass Deutschland so viel Papier wie die Kontinente Afrika und Südamerika zusammen verbraucht?",
-                            "createimpact,impact,reducewaste"
+                            "home",
+                            "Wusstest du, dass jeder Mensch pro Woche Plastik in der Menge von einer Kreditkarte zu sich nimmt?",
+                            "createimpact,impact,noplastic"
                         );
                     ?>
                         <div class="imprint-link">
