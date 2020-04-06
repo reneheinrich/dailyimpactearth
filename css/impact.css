@@ -587,6 +587,11 @@ height: 3.5%!important;
     margin-top: 20px;
 }
 
+#x_end .sharemenu{
+    bottom:auto;
+    right:auto;
+}
+
 .sharemenu{
     bottom: 20px;
     display: flex;
