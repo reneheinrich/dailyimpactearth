@@ -18,7 +18,7 @@ function share($url, $text, $hashtags) {
     echo "<a href=\"whatsapp://send?text=".$text." --> https://www.dailyimpact.earth/".$url."/\" data-action=\"share/whatsapp/share\" title=\"Share on whatsapp\">\n";
     echo "<i class=\"fab fa-whatsapp-square\"></i></a>\n";
     echo "<a href=\"https://www.facebook.com/sharer/sharer.php?u=https://www.dailyimpact.earth/".$url."/&quote=".$text."\">\n";
-    echo "<i class=\"fab fa-facebook-square\"></i></a><div class=\"share-text\">Teile es hier</div></div>\n";
+    echo "<i class=\"fab fa-facebook-square\"></i></a><div class=\"share-text\">Teile es mit</div></div>\n";
 }
 
 echo "<!DOCTYPE html>\n"
