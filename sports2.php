@@ -3,10 +3,10 @@
                 <div class="contentcontainer">
                     <h2>Beim Sport</h2>
                     <div class="fact">
-                        Die höchste Müllkippe der Welt ist der Mount Everest. 50 Tonnen Abfall werden dort bei Expeditionen zurückgelassen
+                        Die höchste Müllkippe der Welt ist der Mount Everest. 50 Tonnen Abfall werden dort bei Expeditionen zurückgelassen.
                     </div>
                     <div class="cta-products">
-                        Generell trägt Sport nicht unbeachtlich zur Umweltverschmutzung bei. Bei der Fußball-EM in Österreich und der Schweiz wurden zum Beispiel rund 900 Tonnen Abfall produziert. Mehr dazu gibts <a href="https://www.greenpeace-magazin.ch/2014/09/29/zahlen-und-fakten-zu-sport-und-umwelt/" target="_blank">hier</a>.
+                        Generell trägt Sport nicht unbeachtlich zur Umweltverschmutzung bei. Bei der Fußball-EM in Österreich und der Schweiz wurden zum Beispiel rund 900 Tonnen Abfall produziert. <a href="https://www.greenpeace-magazin.ch/2014/09/29/zahlen-und-fakten-zu-sport-und-umwelt/" target="_blank">Mehr Infos</a>
                     </div>
                     <div class="owl-carousel">
                         <?php
@@ -19,7 +19,7 @@
                         amzn(
                             "2uQGCij",
                             "img/whey.jpg",
-                            "Bio Whey Protein",
+                            "Bio Proteinpulver",
                             "100% Bio Molkenprotein, ausschließlich von zertifizierten Bio-Bauern aus Österreich und Bayern und ohne künstliche Zusatzstoffe."
                         );
                         amzn(
@@ -31,13 +31,13 @@
                         amzn(
                             "2vCHiIp",
                             "img/yoga.jpg",
-                            "Yogamatte aus 100% Kork und Natur-Kautschuk",
+                            "Yogamatte aus Kork und Natur-Kautschuk",
                             "Biologisch abbaubare Yoga Matte aus Kork und Kautschuk. "
                         );
                         amzn(
                             "31Z46On",
                             "img/proteinshake.jpg",
-                            "Veganer Nahrungsersatz",
+                            "Veganer Nahrungsersatz Drink",
                             "Food Vegan Drink enthält alle Nährstoffe, die dein Körper benötigt."
                         );
                         ?>

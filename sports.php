@@ -3,10 +3,10 @@
                 <div class="contentcontainer">
                     <h2>Beim Sport</h2>
                     <div class="fact">
-                        Bis 2015 wurden weltweit mehr als 6,9 Milliarden Tonnen Plastikmüll erzeugt. 79% davon landeten in Deponien oder in der Umwelt
+                        Bis 2015 wurden weltweit mehr als 6,9 Milliarden Tonnen Plastikmüll erzeugt. 79% davon landeten in Deponien oder in der Umwelt.
                     </div>
                     <div class="cta-products">
-                        Jede Minute allein gerät umgerechnet eine Müllwagen-Ladung Plastik in die Ozeane was dazu führt, dass Meereslebewesen, und auch wir Menschen über Umwege, Plastik konsumieren. Mehr dazu findest du <a href="https://www.weforum.org/agenda/2016/10/every-minute-one-garbage-truck-of-plastic-is-dumped-into-our-oceans/" target="_blank">hier</a>.
+                        Jede Minute allein gerät umgerechnet eine Müllwagen-Ladung Plastik in die Ozeane was dazu führt, dass Meereslebewesen, und auch wir Menschen über Umwege, Plastik konsumieren. <a href="https://www.weforum.org/agenda/2016/10/every-minute-one-garbage-truck-of-plastic-is-dumped-into-our-oceans/" target="_blank">Mehr Infos</a>
                     </div>
                     <div class="owl-carousel">
                         <?php
@@ -19,7 +19,7 @@
                         amzn(
                             "2PVpqzJ",
                             "img/adidas.jpg",
-                            "Adidas Herren Oceanplastic Schuhe",
+                            "adidas Herren Oceanplastic Schuhe",
                             "Diese adidas Ultraboost Schuhe werden aus Ozeanplastik hergestellt."
                         );
                         amzn(
@@ -31,7 +31,7 @@
                         amzn(
                             "2vHrpjF",
                             "img/proteinpancakes.jpg",
-                            "Proteinpancakes",
+                            "Proteinpancake Backmischung",
                             "Diese Backmischung hat 6x mehr Protein als Standardmischungen. Perfekt für eine vegane Proteinreiche ernährung."
                         );
                     ?>
