@@ -3,10 +3,10 @@
                 <div class="contentcontainer">
                     <h2>Während der Arbeit</h2>
                     <div class="fact">
-                    Jährlich fallen in Deutschland pro Kopf mehr als 20kg Elektroschrott an
-                    </div>
+                    Jährlich fallen in Deutschland pro Kopf mehr als 20kg Elektroschrott an.                    </div>
                     <div class="cta-products">
-                    Speziell die als "Seltene Erden" bekannten Edelmedalle stellen sich im Abbau als besonders problematisch für die Umwelt dar. Diese überwiegend in China abgebauten Metalle, lassen sich leider nur bedingt effizient recyclen. Norwegen ist übrigens Elektroschrott-Weltmeister, dicht gefolgt von anderen westlichen und europäischen Ländern. Im Vergleich fallen in Afrika durchschnittlich pro Kopf nur ca. 2kg an. Mehr zu diesem Thema kannst du <a href="https://www.br.de/themen/wissen/seltene-erden-metalle-smartphones-china-100.html" target="_blank"> hier </a>und <a href="https://www.sueddeutsche.de/wissen/elektroschrott-globaler-berg-an-elektromuell-waechst-rasant-1.3789993" target="_blank">hier</a> lesen.      
+                    Speziell die als "Seltene Erden" bekannten Edelmetalle sind durch ihre Abbauverfahren besonders problematisch für die Umwelt und lassen sich nur schwer recyceln. Mit 26kg pro Kopf verursachen die Norweger weltweit den meisten Elektroschrott, dicht gefolgt von anderen westlichen Ländern. Ein durchschnittlicher Afrikaner verursacht im Vergleich nur 2kg pro Jahr.
+                    Mehr zu diesem Thema findest du <a href="https://www.br.de/themen/wissen/seltene-erden-metalle-smartphones-china-100.html" target="_blank"> hier </a>und <a href="https://www.sueddeutsche.de/wissen/elektroschrott-globaler-berg-an-elektromuell-waechst-rasant-1.3789993" target="_blank">hier</a>.      
                    
                     </div>
                     <div>
