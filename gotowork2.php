@@ -3,7 +3,7 @@
                 <div class="contentcontainer">
                     <h2>Ab zur Arbeit</h2>
                     <div class="fact">
-                        Feinstaub trägt europaweit zu einem Drittel der Asthmafälle bei
+                        Feinstaub trägt europaweit zu einem Drittel der Asthmafälle bei.
                     </div>
                     <div class="cta-products">
                         Ein heute gekauftes, marktreifes Elektrofahrzeug schneidet
