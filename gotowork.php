@@ -6,7 +6,8 @@
                         Ein Pendler stößt auf seinem durchschnittlichen Arbeitsweg pro Tag 4,2kg CO2 aus 
                     </div>
                     <div class="cta-products">
-                        In der Graphik siehst du wie viel Gramm CO2 pro Personenkilometer ausgestoßen werden. Mehr Informationen findest du <a href="https://www.focus.de/wissen/klima/fleisch-essen-ist-besonders-schlecht-foehnen-waschen-zaehne-putzen-so-viel-co2-produzieren-sie-an-einem-normalen-tag_id_10628671.html">hier</a>.
+                        In der Grafik siehst du wie viel Gramm CO2 pro Personenkilometer ausgestoßen werden. 
+                        Mehr Informationen findest du <a href="https://www.focus.de/wissen/klima/fleisch-essen-ist-besonders-schlecht-foehnen-waschen-zaehne-putzen-so-viel-co2-produzieren-sie-an-einem-normalen-tag_id_10628671.html">hier</a>.
                     </div>
                     <img class="graph" src="verkehr.svg">
                     <?php
