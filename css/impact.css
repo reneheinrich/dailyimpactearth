@@ -729,6 +729,25 @@ height: 3.5%!important;
 	top:1px;
 }
 
+.calltoshare{
+    color: white;
+    font-size: calc(13px + 1.5vh);
+    word-wrap: break-word;
+    hyphens: auto;
+    font-weight: 400;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    line-height: 1.2;
+}
+
+#x_end .share-text{
+    display: none;
+}
+
+#x_end .fact{
+    line-height: 1.2;
+}
+
 
 .newsletterpage {
     background-image: url('../backgrounds/newsletter.webp'); /*JPEG FEHLT*/
@@ -841,7 +860,7 @@ height: 3.5%!important;
         width: 100%;
     }
 
-    .fact{
+    .fact, .calltoshare{
         font-size: calc(12px + 0.9vh);
     }
 
