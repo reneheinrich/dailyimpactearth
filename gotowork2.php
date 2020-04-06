@@ -8,7 +8,7 @@
                     <div class="cta-products">
                         Aktuelle Elektrofahrzeuge schneiden 
                         im Vergleich zu Fahrzeugen mit Verbrennungsmotor unter allen Klimagesichtspunkten 
-                        besser ab. Selst gegenüber besonders sparsamen Dieselfahrzeugen liegt der CO2-Vorteil 
+                        besser ab. Selbst gegenüber sparsamen Dieselfahrzeugen liegt der CO2-Vorteil 
                         eines Elektroautos bei 16 Prozent, gegenüber modernen Benzinern bei 27 Prozent. 
                         Mehr Informationen <a href="https://www.bmu.de/fileadmin/Daten_BMU/Pools/Broschueren/elektroautos_bf.pdf" target="_blank">hier</a> und
                         <a href="https://www.medical-tribune.de/medizin-und-forschung/artikel/oft-ist-feinstaub-verantwortlich-fuer-asthma/" target="_blank">hier</a>.

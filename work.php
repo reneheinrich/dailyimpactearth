@@ -3,10 +3,10 @@
                 <div class="contentcontainer">
                     <h2>Während der Arbeit</h2>
                     <div class="fact">
-                        Während du in Arbeit schwimmst, schwimmt im Pazifik eine Plastikinsel 4 Mal so groß wie Deutschland.
+                        Während du in Arbeit schwimmst, schwimmt im Pazifik eine Plastikinsel vier Mal so groß wie Deutschland.
                     </div>
                     <div class="cta-products">
-                        Die auch als “Great Pacific Garbage Patch” bekannte Insel umfasst ca. 1.6 millionen Quadratkilometer an Plastikmüll. Mehr dazu findest du <a href="https://www.nature.com/articles/s41598-018-22939-w" target="_blank">hier</a>.
+                        Die auch als “Great Pacific Garbage Patch” bekannte Insel umfasst ca. 1.6 Millionen Quadratkilometer an Plastikmüll. Mehr dazu findest du <a href="https://www.nature.com/articles/s41598-018-22939-w" target="_blank">hier</a>.
                     </div>
                     <div class="owl-carousel">
                         <?php
@@ -57,7 +57,7 @@
                     <?php
                         share(
                             "work",
-                            "Wusstest du, dass im Pazifik eine Plastikinsel 4 Mal so groß wie Deutschland schwimmt?",
+                            "Wusstest du, dass im Pazifik eine Plastikinsel vier Mal so groß wie Deutschland schwimmt?",
                             "createimpact,impact,noplastic"
                         );
                     ?>
