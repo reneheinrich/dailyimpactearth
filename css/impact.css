@@ -744,6 +744,10 @@ height: 3.5%!important;
     display: none;
 }
 
+#x_end .fact{
+    line-height: 1.2;
+}
+
 
 .newsletterpage {
     background-image: url('../backgrounds/newsletter.webp'); /*JPEG FEHLT*/
