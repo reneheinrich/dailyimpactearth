@@ -130,6 +130,28 @@ echo "<!DOCTYPE html>\n"
         <?php require("gotowork2.php"); ?>
         <?php require("work.php"); ?>
         <?php require("work2.php"); ?>
+        <div id="x_test" vs-anchor="test" class="mainview lastpage">
+            <div class="darkbg lastpage">
+                    <div class="contentcontainer lastpage">
+                        <h2>Newsletter</h2>
+                        <div class="fact lastpage">
+                           This is a test. <br>Lass uns in Kontakt bleiben! 
+                        </div>
+                        <a href="newsletter.html" target="_blank" class="end-button">Newsletter anmelden</a>
+                        <div class="calltoshare">Wenn auch dir die Umwelt wichtig ist, teile uns mit deinen Freunden!</div>
+                        <?php
+                        share(
+                            "home",
+                            "Wusstest du, dass jeder Mensch pro Woche Plastik in der Menge von einer Kreditkarte zu sich nimmt?",
+                            "createimpact,impact,noplastic"
+                        );
+                    ?>
+                        <div class="imprint-link">
+                            <a href="impressum.html" target="_blank">Impressum</a>
+                        </div>  
+                    </div>
+                </div>
+        </div>
         <?php require("break.php"); ?>
         <?php require("break2.php"); ?>
         <?php require("afterwork.php"); ?>
