@@ -1,4 +1,4 @@
-        <div id="x_break2" vs-anchor="break2" class="mainview">
+        <div id="x_break2" data-anchor="break2" class="mainview">
             <div class="darkbg">
                 <div class="contentcontainer">
                     <h2>In der Pause</h2>

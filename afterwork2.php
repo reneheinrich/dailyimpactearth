@@ -1,4 +1,4 @@
-        <div id="x_afterwork2" vs-anchor="afterwork2" class="mainview">
+        <div id="x_afterwork2" data-anchor="afterwork2" class="mainview">
             <div class="darkbg">
                 <div class="contentcontainer">
                     <h2>Nach der Arbeit</h2>

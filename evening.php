@@ -1,4 +1,4 @@
-        <div id="x_evening" vs-anchor="evening" class="mainview">
+        <div id="x_evening" data-anchor="evening" class="mainview">
             <div class="darkbg">
             <div class="contentcontainer">
                     <h2>Am Abend</h2>

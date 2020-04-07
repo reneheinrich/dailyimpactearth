@@ -1,4 +1,4 @@
-        <div id="commute" vs-anchor="gotowork" class="mainview">
+        <div id="commute" data-anchor="gotowork" class="mainview">
             <div class="darkbg">
                 <div class="contentcontainer">
                     <h2>Ab zur Arbeit</h2>
