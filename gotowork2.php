@@ -6,12 +6,16 @@
                         Feinstaub trägt europaweit zu einem Drittel der Asthmafälle bei.
                     </div>
                     <div class="cta-products">
-                        Aktuelle Elektrofahrzeuge schneiden 
-                        im Vergleich zu Fahrzeugen mit Verbrennungsmotor unter allen Klimagesichtspunkten 
-                        besser ab. Selbst gegenüber sparsamen Dieselfahrzeugen liegt der CO2-Vorteil 
+                        Straßenverkehr ist die Hauptursache von Feinstaub und Elektromobilität ist 
+                        eine Möglichkeit die Emissionen in Städten massiv zu reduzieren.
+                        Aktuelle Elektrofahrzeuge schneiden im Vergleich zu Fahrzeugen mit 
+                        Verbrennungsmotor unter allen Klimagesichtspunkten besser ab. 
+                        <!--
+                        Selbst gegenüber sparsamen Dieselfahrzeugen liegt der CO2-Vorteil 
                         eines Elektroautos bei 16%, gegenüber modernen Benzinern bei 27%. 
                         Mehr Informationen <a href="https://www.bmu.de/fileadmin/Daten_BMU/Pools/Broschueren/elektroautos_bf.pdf" target="_blank">hier</a> und
-                        <a href="https://www.medical-tribune.de/medizin-und-forschung/artikel/oft-ist-feinstaub-verantwortlich-fuer-asthma/" target="_blank">hier</a>.
+                        <a href="https://www.medical-tribune.de/medizin-und-forschung/artikel/oft-ist-feinstaub-verantwortlich-fuer-asthma/" target="_blank">hier</a>.-->
+                        Mehr Infos <a href="https://www.medical-tribune.de/medizin-und-forschung/artikel/oft-ist-feinstaub-verantwortlich-fuer-asthma/" target="_blank">hier</a>.
                     </div>
                     <div class="owl-carousel">
                         <?php
