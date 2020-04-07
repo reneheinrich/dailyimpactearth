@@ -68,6 +68,17 @@ echo "<!DOCTYPE html>\n"
     <link rel="shortcut icon" href="favicon.ico" />
 </head>
 <body>
+<div id="loadscreen" style="position: fixed; height: 100%; width: 100%; top: 0px; left: 0px; bottom: 0px; right: 0px; background: rgb(25, 112, 55); z-index: 10001;">
+    <div style="margin: 50px auto; width: 400px;">
+        <div class="logo">
+            <svg fill="#FFFFFF" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" x="0px" y="0px"><defs><style>.cls-1{fill:none;}</style></defs><title>Moon</title><g><path class="cls-1" d="M21,10a1,1,0,0,1,1-1h2.48A11,11,0,0,0,16,5,10.86,10.86,0,0,0,9.7,7H13a1,1,0,0,1,0,2H7.52a11,11,0,0,0,0,14H13a1,1,0,0,1,0,2H9.7A10.86,10.86,0,0,0,16,27a11,11,0,0,0,7.53-3H21a1,1,0,0,1,0-2h4.21a10.94,10.94,0,0,0,.58-11H22A1,1,0,0,1,21,10Zm-9,9H11a1,1,0,0,1,0-2h1a1,1,0,0,1,0,2ZM17,9h1a1,1,0,0,1,0,2H17a1,1,0,0,1,0-2Zm4,10H16a1,1,0,0,1,0-2h5a1,1,0,0,1,0,2Z"></path><path d="M31,10a1,1,0,0,0-1-1H26.94A13,13,0,0,0,6.64,7H2A1,1,0,0,0,2,9H5.06a12.92,12.92,0,0,0,0,14H2a1,1,0,0,0,0,2H6.64a13,13,0,0,0,19.59-1H30a1,1,0,0,0,0-2H27.52A12.95,12.95,0,0,0,28,11h2A1,1,0,0,0,31,10Zm-4,6a10.94,10.94,0,0,1-1.79,6H21a1,1,0,0,0,0,2h2.53A11,11,0,0,1,16,27a10.86,10.86,0,0,1-6.3-2H13a1,1,0,0,0,0-2H7.52a11,11,0,0,1,0-14H13a1,1,0,0,0,0-2H9.7A10.86,10.86,0,0,1,16,5a11,11,0,0,1,8.48,4H22a1,1,0,0,0,0,2h3.79A10.92,10.92,0,0,1,27,16Z"></path><path d="M17,11h1a1,1,0,0,0,0-2H17a1,1,0,0,0,0,2Z"></path><path d="M21,17H16a1,1,0,0,0,0,2h5a1,1,0,0,0,0-2Z"></path><path d="M12,17H11a1,1,0,0,0,0,2h1a1,1,0,0,0,0-2Z"></path></g></svg>
+            <span>daily impact</span>
+        </div>
+        <span>
+            Diese Seite wird geladen... 
+        </span>
+    </div>
+</div>
 <div id="navi">
     <div id="navicontainer">
         <a data-menuanchor="home" class="nav-home" href="#home"><svg height='300px' width='300px'  fill="#FFFFFF" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve"><path d="M93.689,48.219L52.673,7.185c-0.688-0.699-1.665-1.099-2.681-1.099c-1.014,0-1.992,0.397-2.686,1.091L6.12,48.393  c-1.104,1.104-1.42,2.687-0.822,4.129c0.59,1.425,1.964,2.346,3.501,2.346h9.211v35.252c0,2.092,1.703,3.795,3.795,3.795h19.51  c2.092,0,3.794-1.703,3.794-3.795V74.392h9.754v15.728c0,2.092,1.702,3.795,3.794,3.795h19.51c2.093,0,3.794-1.703,3.794-3.795  V54.867h9.234c1.65,0,2.971-0.809,3.53-2.162C95.33,51.246,94.913,49.443,93.689,48.219z M58.657,66.798H41.315  c-2.092,0-3.795,1.704-3.795,3.797v15.728H25.6V54.867h48.773v31.455H62.451V70.595C62.451,68.502,60.749,66.798,58.657,66.798z   M82.024,47.276H17.958l32.028-32.049L82.024,47.276z"></path></svg></a>
@@ -189,13 +200,14 @@ echo "<!DOCTYPE html>\n"
         });
     }
     $(document).ready(function () {
+        $('#loadscreen').hide();
         $('.mainbag').fullpage({
-            //anchors: ['home', 'purpouse', 'morning', 'morning2','gotowork','gotowork2','work', 'work2', 'ctabetween', 'break', 'break2', 'afterwork', 'afterwork2', 'sports', 'sports2', 'evening', 'evening2', 'end'],
+            anchors: ['home', 'purpouse', 'morning', 'morning2','gotowork','gotowork2','work', 'work2', 'ctabetween', 'break', 'break2', 'afterwork', 'afterwork2', 'sports', 'sports2', 'evening', 'evening2', 'end'],
             autoScrolling:true,
             menu: '#navicontainer',
             scrollHorizontally: true,
             sectionSelector: '.mainview',
-            scrollingSpeed: 1000,
+            scrollingSpeed: 700,
             afterLoad: function(anchorLink, index){
                 if(anchorLink == 'home'){
                     $('#navi').fadeOut(700);
