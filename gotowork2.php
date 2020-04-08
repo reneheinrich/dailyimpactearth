@@ -32,41 +32,23 @@
                                 "Der hervorragend verarbeitete und umweltfreundliche Elektroroller Elettrico 3000 Li von elektroroller-futura, bietet Ihnen maximalen Fahrspaß für 2 Personen."
                             );
                             amzn(
-                                "#",
+                                "3e4rKih",
                                 "img/ninesteplongboard.jpg",
                                 "Ninestep 40 km/h Longboard",
                                 ""
                             );
                             amzn(
-                                "#",
+                                "2RixdZa",
                                 "img/teamgeelongboard.jpg",
                                 "Elektro Longboard Teamgee H5",
                                 ""
                             );
                             amzn(
-                                "#",
+                                "3aUons9",
                                 "img/miscooter.jpg",
                                 "Mi Elektro Scooter",
                                 ""
-                            );/*
-                            amzn(
-                                "2uPu2jw",
-                                "img/handyhuelle.jpg",
-                                "BioCase Hülle für IPhone",
-                                "IPhone Schutzhülle aus biologisch abbaubaren Rohstoffen hergestellt und frei von umweltschädlichen Substanzen."
                             );
-                            amzn(
-                                "2uRE17P",
-                                "img/rucksack-schwarz2.jpg",
-                                "Johnny Urban Rucksack (recyceltes PET)",
-                                "Stylischer Johnny Urban Rucksack aus 100% recycelten PET Flaschen."
-                            );
-                            amzn(
-                                "2UXADDk",
-                                "img/kaffee.jpg",
-                                "Bambus Kaffeebecher",
-                                "Bambusbecher sind langlebig, wiederverwendbar und umweltfreundlich."
-                            );*/
                         ?>
                     </div>
                     <?php
