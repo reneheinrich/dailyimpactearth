@@ -49,6 +49,12 @@
                                 "Mi Elektro Scooter",
                                 ""
                             );
+                            amzn(
+                                "2V9XaLn",
+                                "img/arborlongboard.jpg",
+                                "Arbor Longboard",
+                                "Arbor produziert seit Beginn nachhaltige Boards"
+                            );
                         ?>
                     </div>
                     <?php
