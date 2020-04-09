@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <script
@@ -8,9 +9,6 @@
                 integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
                 crossorigin="anonymous">
         </script>
-
-
-
         <script src="content.js"></script> 
         <script src="functions.js"></script>
 
@@ -45,38 +43,26 @@
             </div>
             <div>
                 <div id="wrapper" class="wrapper" page="0">
-                <div class="fragen-wrapper">
-                    <div id="frage" class="subtext"></div>
-                    <div class="antwort-gruppe">
-                        <input type="radio" id="rq1" name="quizz" value="1" checked="checked" class="pointer">
-                        <label id="lq1" for="rq1"class="pointer quizz-antworten"></label><br>
+                    <div class="fragen-wrapper">
+                        <div id="frage" class="subtext"></div>
+                        <div class="antwort-gruppe">
+                            <input type="radio" id="rq1" name="quizz" value="1" checked="checked" class="pointer">
+                            <label id="lq1" for="rq1"class="pointer quizz-antworten"></label><br>
+                        </div>
+                        <div class="antwort-gruppe">
+                            <input type="radio" id="rq2" name="quizz" value="2" class="pointer">
+                            <label id="lq2" for="rq2" class="pointer quizz-antworten"></label><br>   
+                        </div>
+                        <div class="antwort-gruppe">
+                            <input type="radio" id="rq3" name="quizz" value="3" class="pointer">
+                            <label id="lq3" for="rq3" class="pointer quizz-antworten"></label><br><br>
+                        </div>
                     </div>
-                    <div class="antwort-gruppe">
-                        <input type="radio" id="rq2" name="quizz" value="2" class="pointer">
-                        <label id="lq2" for="rq2" class="pointer quizz-antworten"></label><br>   
-                    </div>
-                    <div class="antwort-gruppe">
-                        <input type="radio" id="rq3" name="quizz" value="3" class="pointer">
-                        <label id="lq3" for="rq3" class="pointer quizz-antworten"></label><br><br>
+                    <div id="button-container">
+                        <button type="button" id="next" onclick="nextQuestion()" class="pointer weiter-button">Nächste Frage</button>
                     </div>
                 </div>
-
-                <div id="button-container">
-                    <button type="button" id="next" onclick="nextQuestion()" class="pointer weiter-button">Nächste Frage</button>
-                </div>
-            </div>
-
-               
-
-                    
-
-
-
-                </div> 
-
-
-
-
+            </div> 
                     <script>
                         $(document).ready(function(){
                         
@@ -86,13 +72,8 @@
                                 $("#lq2").html(quizzContent[buttonCounter].a2);
                                 $("#lq3").html(quizzContent[buttonCounter].a3);
                                 buttonCounter ++
-                                
-                            }
-                            
+                            }     
                             initalizeWrapper();
-
-                        
-
                         })
                     </script>   
                 </div>
