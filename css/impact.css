@@ -511,11 +511,11 @@ a.active {
 }
 
 
-
+/* 
 .owl-carousel .product:hover {
     background-color: rgba(25, 112, 55, 0.8);
     color: white;
-}
+} */
 
 
 
@@ -528,9 +528,9 @@ a.active {
 }
 
 
-.owl-carousel .product:hover .title{
+/* .owl-carousel .product:hover .title{
     color: white;
-}
+} */
 
 
 .owl-carousel .product img{
