@@ -3,7 +3,7 @@
                 <div class="contentcontainer">
                     <h2>Am Morgen</h2>
                     <div class="fact">
-                    Eine herkömmliche Plastikflasche braucht ganze 450 Jahre um sich komplett zu zersetzen.
+                    Eine Plastikflasche braucht ganze 450 Jahre um sich komplett zu zersetzen.
 
                 </div>
                     <div class="cta-products">
