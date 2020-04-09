@@ -58,7 +58,7 @@ let endText = [
 
     {
         "Name": "Influencer",
-        "Bild": "<img class='ergebnis-bild' src='influencer.jpg'>",
+        "Bild": "<img class='ergebnis-bild' src='influencer.png'>",
         "Text": "Gratuliere, du bist zumindest nicht komplett ahnungslos. Du kaufst nachhaltige Biomode, klärst deine Follower über die CO2-Belastung einer nicht-veganen Ernährung auf und pendelst in der kalten Jahreszeit gern zwischen Berlin und Tel Aviv, um der Umwelt zu liebe weniger zu heizen. "
 
     },
