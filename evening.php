@@ -3,7 +3,7 @@
             <div class="contentcontainer">
                     <h2>Am Abend</h2>
                     <div class="fact">
-                        Während wir uns Abend unserer Freizeit widmen, tragen wir großteils zum Verbrauch von natürlichen Rohstoffen und Ressourcen bei. 
+                        Während wir uns Abend unserer Freizeit widmen, tragen wir zum Verbrauch von natürlichen Rohstoffen und Ressourcen bei. 
                     </div>
                     <div class="cta-products">
                         Der Earth Overshoot Day beispielsweise zeigt uns den Tag des Jahres, ab dem mehr natürliche Ressourcen verbraucht werden als die Erde produziert. Mehr dazu findest du <a href="https://www.overshootday.org/" target="_blank">hier</a>.
