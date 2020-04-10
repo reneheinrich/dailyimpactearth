@@ -8,7 +8,7 @@
                     <div class="cta-products">
                         In dieser Grafik zeigen wir dir wie viel Fleisch pro Kopf und Jahr in Deutschland konsumiert wird. Es lohnt sich dieses Wissen auch beim Einkaufen nach der Arbeit im Hinterkopf zu haben. <a href="https://www.iatp.org/emissions-impossible" target="_blank">Mehr Infos hier.</a>
                     </div>
-                    <img class="graph" src="tiere.svg">
+                    <img class="graph-tiere" src="tiere.svg">
                     <?php
                         share(
                             "afterwork",

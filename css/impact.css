@@ -678,6 +678,14 @@ a.active {
     width: 70vw;
 }
 
+.graph-tiere {
+    height:auto;
+    width: auto;
+    margin-top: 15px;
+    max-height: 60vh;
+    
+}
+
 
 /*MAILCHIMP*/
 
@@ -861,9 +869,9 @@ a.active {
 
 
     .graph {
-        height: auto;
-        max-height: 30vh;
-        width: 60vw;
+        height: 40vh;
+        max-height: 60vh;
+        width: auto;
     }
 
     .owl-carousel .product{
@@ -886,9 +894,10 @@ a.active {
 @media only screen and (max-width: 350px) {
     .graph {
         height: auto;
-        max-height: 30vh;
+        /* max-height: 30vh; */
         width: 45vw;
     }
+
 
     .fact {
         color: white;
