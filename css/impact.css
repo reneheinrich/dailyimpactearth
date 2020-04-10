@@ -878,6 +878,15 @@ a.active {
     }
 }
 
+@media only screen and (max-width: 350px) {
+    .graph {
+        height: auto;
+        max-height: 30vh;
+        width: 30vw;
+    }
+
+}
+
 @media screen 
   and (device-width: 360px) 
   and (device-height: 640px) 
