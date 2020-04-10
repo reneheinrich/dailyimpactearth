@@ -55,8 +55,6 @@ a:hover, a:visited, a:link, a:active
     text-decoration: none;
 }
 
-
-
 #navi {
     position: fixed;
     display: none;
@@ -111,7 +109,7 @@ a.active {
     position: absolute;
     display: block;
     height: 100%;
-    width: 150px;
+    width: auto;
     z-index: 10000;
     left: 40px;
     top: 0;
@@ -134,13 +132,12 @@ a.active {
     height: 8%;
     padding-left: calc(10vh - 40px);
     font-weight: 400;
+    display: flex;
+    align-items: center;
 }
 
-#menu-descr .menu-item .menu-text{
-    height: 20px;
-    line-height: 20px;
-    top: 40%;
-    position:relative;
+#menu-descr .menu-item{
+    color:white;
 }
 
 #site {
@@ -955,6 +952,15 @@ a.active {
 
 /*desktop view*/
 @media only screen and (orientation: landscape){
+    .contentcontainer h2 {
+        width: 100%;
+        text-align: center;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
 	#x_gotowork .graph{
 		width: 250px!important;
     }
@@ -1007,5 +1013,13 @@ a.active {
 
     .owl-carousel .product { 
         width: 20vw;
+    }
+
+    #menu-descr {
+        left: 0px;
+    }
+    
+    #menu-descr .menu-item{
+        padding-left: 0px;
     }
 }
