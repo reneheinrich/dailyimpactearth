@@ -891,7 +891,7 @@ a.active {
     }
 }
 
-@media only screen and (max-width: 350px) {
+@media only screen and (max-width: 378px) {
     .graph {
         height: auto;
         /* max-height: 30vh; */
