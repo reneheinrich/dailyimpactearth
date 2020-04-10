@@ -17,25 +17,25 @@
                             "Wiederverwendbares Backpapier und spülmaschinenfest."
                         );
                         amzn(
-                            "2uQGCij",
+                            "2VXa55x",
                             "img/kopfhörer.jpg",
                             "Nachhaltige Bambus Bluetooth Kopfhörer",
                             "Bluetoothkopfhörer aus FSC-zertifiziertem und nachhaltigem Bambus mit recyceltes Silikon. 9 Std Akkulaufzeit sowie wasser- und schweißfest."
                         );
                         amzn(
-                            "2vCHiIp",
+                            "2OX0mI8",
                             "img/geldbörse.jpg",
                             "Vegane Korkleder Geldbörse",
                             "Korkleder ist eine alternative und umweltfreundliche Variante zu tierischem Leder."
                         );
                         amzn(
-                            "2uHdNFg",
+                            "31WpvIe",
                             "img/bambushandtuecher.jpg",
                             "Bambus Küchenrolle",
                             "Jeden Tag werden 51.000 Tonnen Bäume für Küchentücher gefällt. Mit der Küchenrolle wirkst du der Abholzung der Wälder entgegen."
                         );
                         amzn(
-                            "2V2o3lU",
+                            "39CVS15",
                             "img/einkaufstasche.jpg",
                             "Nachhaltige Einkaufstasche",
                             "Nachhaltiger Einkaufsbeutel aus 100% Bio Baumwolle. Global Organic Textile Standard mit nachhaltigem Druck."
