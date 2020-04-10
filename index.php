@@ -118,7 +118,7 @@ echo "<!DOCTYPE html>\n"
                             "createimpact,impact,noplastic"
                         );
                     ?>
-                    <div class="subtext">Auf dieser Website erfährst du mehr über die tägliche Umweltbelastung die wir Menschen verursachen!</div>
+                    <div class="subtext">Auf dieser Website findet du noch mehr dieser interessanten Fakten. Sie sollen die tägliche Umweltbelastung die wir Menschen verursachen verdeutlichen!</div>
                     <section class="demo section04">
                         <a href="#purpouse"><span></span></a>
                     </section>
