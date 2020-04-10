@@ -861,9 +861,9 @@ a.active {
 
 
     .graph {
-        height: auto;
-        max-height: 30vh;
-        width: 60vw;
+        height: 40vh;
+        max-height: 60vh;
+        width: auto;
     }
 
     .owl-carousel .product{
