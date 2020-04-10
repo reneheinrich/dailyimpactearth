@@ -163,10 +163,10 @@ echo "<!DOCTYPE html>\n"
                     </div>
                     <!--<div class="purpouse">
                         Hier folgen Fakten zum Thema Nachhaltigkeit und Umwelt, angelehnt an einen gewöhnlichen Tagesablauf
-                    </div>
-                    <div class="subtext">
-                        Die Zeitleiste auf der linken Seite führt dich durch die unterschiedlichen Tageszeiten.
                     </div>-->
+                    <h2>
+                        Der Tagesablauf
+                    </h2>
                     <section class="demo section04">
                         <a href="#morning"><span></span></a>
                     </section>
