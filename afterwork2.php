@@ -3,13 +3,19 @@
                 <div class="contentcontainer">
                     <h2>Nach der Arbeit</h2>
                     <div class="fact">
-                        Tropische Regenwälder schrumpfen weltweit um 30 Fussballfelder pro Minute 
+                        Tropische Regenwälder schrumpfen weltweit um 30 Fussballfelder pro Minute. 
                     </div>
                     <div class="cta-products">
                         Während ein Teil dieses Verlusts auf natürliche Ursachen wie Waldbrände zurückzuführen ist, werden Waldflächen in erster Linie gerodet, um Platz für Rinder oder landwirtschaftliche Produktion wie Palmöl und Sojabohnen zu machen. <br> Mehr Fakten findest du <a href="https://www.wired.co.uk/article/climate-change-facts-2019" target="_blank"> hier.</a>
                     </div>
                     <div class="owl-carousel">
                         <?php
+                        amzn(
+                            "2vBoSrl",
+                            "img/dauerbackfolie.jpg",
+                            "Schwarze Dauerbackfolie",
+                            "Wiederverwendbares Backpapier und spülmaschinenfest."
+                        );
                         amzn(
                             "2uQGCij",
                             "img/kopfhörer.jpg",
@@ -21,12 +27,6 @@
                             "img/geldbörse.jpg",
                             "Vegane Korkleder Geldbörse",
                             "Korkleder ist eine alternative und umweltfreundliche Variante zu tierischem Leder."
-                        );
-                        amzn(
-                            "2vBoSrl",
-                            "img/dauerbackfolie.jpg",
-                            "Schwarze Dauerbackfolie",
-                            "Wiederverwendbares Backpapier und spülmaschinenfest."
                         );
                         amzn(
                             "2uHdNFg",
