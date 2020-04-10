@@ -19,8 +19,8 @@
                         amzn(
                             "3bHtblG",
                             "img/brotdose.jpg",
-                            "Plastikfreie Lunchboxmit aus Bambusholzdeckel",
-                            "Umweltfreundliche edelstahl Brotdose ohne Plastik, BPA, ohne chemische Stoffe und Toxizität."
+                            "Plastikfreie Lunchbox mit Bambusholzdeckel",
+                            "Umweltfreundliche Edelstahl Brotdose ohne Plastik, BPA, ohne chemische Stoffe und Toxizität."
                         );
                         amzn(
                             "39ImkGN",
@@ -31,7 +31,7 @@
                         amzn(
                             "2SRp1ia",
                             "img/einkaufsnetze.jpg",
-                            "Wiederverwendbare Obst-  und Gemüsebeutel",
+                            "Wiederverwendbare Obstbeutel",
                             "100% BPA freie Bio Baumwolle, biologisch abbaubaubar und waschbar."
                         );
                         amzn(
@@ -45,8 +45,8 @@
                     <?php
                         share(
                             "break",
-                            "",
-                            ""
+                            "Wusstest du, dass eine komplett vegane Ernährung 2 Tonnen C02 pro Jahr spart?",
+                            "createimpact,impact,govegan"
                         );
                     ?>
                 </div>
