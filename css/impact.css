@@ -107,6 +107,36 @@ a.active {
     height: 8%;
 }
 
+#menu-descr {
+    position: absolute;
+    display: block;
+    height: 100%;
+    width: 150px;
+    z-index: 10000;
+    left: 40px;
+    top: 0;
+    color:white;
+}
+
+#menu-descr .spacing-top{
+    height: 11.5%;
+}
+
+#menu-descr .spacing-small{
+    height: 3.5%;
+}
+
+#menu-descr .spacing-bottom{
+    height: 8%;
+}
+
+#menu-descr .menu-item{
+    height: 8%;
+    padding-left: 20px;
+    font-weight: 400;
+    padding-top: 25px;
+}
+
 #site {
     width: 100vw;
     color: #000000;
