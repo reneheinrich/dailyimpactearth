@@ -900,11 +900,11 @@ a.active {
     .owl-carousel .product {
         width: 40vw;
     }
-    .owl-carousel .title {
-        font-size: 12px;
-        
-    }
 
+
+    .owl-carousel .product .title { 
+        font-size: 12px !important;
+    }
 
 }
 
