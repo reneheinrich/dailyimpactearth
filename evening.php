@@ -6,7 +6,7 @@
                         Während wir uns Abend unserer Freizeit widmen, tragen wir großteils zum Verbrauch von natürlichen Rohstoffen und Ressourcen bei. 
                     </div>
                     <div class="cta-products">
-                        Der Earth Overshoot Day beispielsweise zeigt uns den Tag des Jahres, ab dem die Menschheit mehr natürliche Ressourcen verbraucht als die Erde produziert. Mehr dazu findest du <a href="https://www.overshootday.org/" target="_blank">hier</a>.
+                        Der Earth Overshoot Day beispielsweise zeigt uns den Tag des Jahres, ab dem mehr natürliche Ressourcen verbraucht als die Erde produziert. Mehr dazu findest du <a href="https://www.overshootday.org/" target="_blank">hier</a>.
                     </div>
                     
                     <img class="graph-vertical" src="infografikabend.svg">
