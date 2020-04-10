@@ -887,8 +887,15 @@ a.active {
     .graph {
         height: auto;
         max-height: 30vh;
-        width: 30vw;
+        width: 45vw;
     }
+
+    .fact {
+        color: white;
+        font-size: calc(11px + 1vh);
+        word-wrap: break-word;
+   
+        }
 
 }
 
