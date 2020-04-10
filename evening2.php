@@ -23,6 +23,12 @@
                             "Wiederverwendbare Wattepads, Konjac Schwammset, Bambus Zahnbürsten, Obst und Gemüsebeutel, Bienenwachstücher."
                         );
                         amzn(
+                            "2xhdYbm",
+                            "img/energiesparlampe.jpg",
+                            "Energiesparlampen",
+                            "Lebensdauer von bis zu 15000 Stunden. Spart bis zu 87% Energie im Vergleich zu herkömmlichen Leuchtmitteln."
+                        );                        
+                        amzn(
                             "2u2vjmR",
                             "img/bambushandtuecher.jpg",
                             "Organische Baumwollhandtücher",
