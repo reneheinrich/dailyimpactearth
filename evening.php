@@ -9,7 +9,7 @@
                         Der Earth Overshoot Day beispielsweise zeigt uns den Tag des Jahres, ab dem mehr natürliche Ressourcen verbraucht werden als die Erde produziert. Mehr dazu findest du <a href="https://www.overshootday.org/" target="_blank">hier</a>.
                     </div>
                     
-                    <img class="graph-vertical" src="infografikabend.svg">
+                    <img class="infografik-abend" src="infografikabend.svg">
                     <?php
                         share(
                             "afterwork",

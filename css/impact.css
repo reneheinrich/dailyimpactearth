@@ -864,6 +864,12 @@ a.active {
 
 }
 
+.infografik-abend {
+    height: auto;
+    width: 70vw;
+    max-width: 500px;
+}
+
 
 @media only screen and (max-width: 600px) {
 
