@@ -3,7 +3,7 @@
                 <div class="contentcontainer">
                     <h2>In der Pause</h2>
                     <div class="fact">
-                        Die Erzeugung einer einzigen Tasse Kaffee verbraucht 140l Wasser
+                        Die Erzeugung einer einzigen Tasse Kaffee verbraucht 140l Wasser.
                     </div>
                     <div class="cta-products">
                     Aber auch die massive Abholzung der Regenwälder im Zuge der Kaffeeproduktion wird zunehmend zur Gefahr für die Umwelt. Durch den Klimawandel und den stetig wachsenden Kaffeekonsum verschieben sich die Anbaugebiete immer weiter in Regenwaldgebiete.
