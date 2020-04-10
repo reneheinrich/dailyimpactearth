@@ -136,10 +136,10 @@ a.active {
     font-weight: 400;
 }
 
-#menu-descr .menu-item div{
+#menu-descr .menu-item .menu-text{
     height: 20px;
     line-height: 20px;
-    top: 50%;
+    top: 40%;
     position:relative;
 }
 
