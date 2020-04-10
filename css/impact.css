@@ -655,6 +655,14 @@ a.active {
     margin: 0px 5px;
 }
 
+#x_end .fa-twitter-square, #x_end .fa-facebook-square, #x_end .fa-whatsapp-square, #x_end .fa-linkedin,  
+#x_ctabetween .fa-twitter-square, #x_ctabetween .fa-facebook-square, #x_ctabetween .fa-whatsapp-square, #x_ctabetween .fa-linkedin 
+{
+    color:white;
+    font-size: calc(11px + 7vh);
+    margin: 0px 5px;
+}
+
 .graph{
     margin-top: 20px;
     width: 20vw;
