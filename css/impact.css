@@ -893,6 +893,13 @@ a.active {
         width: 30vw;
     }
 
+    .fact {
+        color: white;
+        font-size: calc(11px + 1vh);
+        word-wrap: break-word;
+   
+        }
+
 }
 
 @media screen 
