@@ -136,10 +136,10 @@ a.active {
     font-weight: 400;
 }
 
-#menu-descr .menu-item div{
+#menu-descr .menu-item .menu-text{
     height: 20px;
     line-height: 20px;
-    top: 50%;
+    top: 40%;
     position:relative;
 }
 
@@ -652,6 +652,14 @@ a.active {
 .fa-twitter-square, .fa-facebook-square, .fa-whatsapp-square, .fa-linkedin{
     color:white;
     font-size: 1.6em;
+    margin: 0px 5px;
+}
+
+#x_end .fa-twitter-square, #x_end .fa-facebook-square, #x_end .fa-whatsapp-square, #x_end .fa-linkedin,  
+#x_ctabetween .fa-twitter-square, #x_ctabetween .fa-facebook-square, #x_ctabetween .fa-whatsapp-square, #x_ctabetween .fa-linkedin 
+{
+    color:white;
+    font-size: calc(11px + 7vh);
     margin: 0px 5px;
 }
 

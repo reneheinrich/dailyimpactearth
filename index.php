@@ -132,43 +132,43 @@ echo "<!DOCTYPE html>\n"
                     <div id="menu-descr">
                         <div class="spacing-top"></div>
                         <div class="menu-item">
-                            <div>
+                            <div class="menu-text">
                                 Am Morgen
                             </div>
                         </div>
                         <div class="spacing-small"></div>
                         <div class="menu-item">
-                            <div>
+                            <div class="menu-text">
                                 Ab zur Arbeit
                             </div>
                         </div>
                         <div class="spacing-small"></div>
                         <div class="menu-item">
-                            <div>
+                            <div class="menu-text">
                                 Während der Arbeit
                             </div>
                         </div>
                         <div class="spacing-small"></div>
                         <div class="menu-item">
-                            <div>
+                            <div class="menu-text">
                                 In der Pause
                             </div>
                         </div>
                         <div class="spacing-small"></div>
                         <div class="menu-item">
-                            <div>
+                            <div class="menu-text">
                                 Nach der Arbeit
                             </div>
                         </div>
                         <div class="spacing-small"></div>
                         <div class="menu-item">
-                            <div>
+                            <div class="menu-text">
                                 Beim Sport
                             </div>
                         </div>
                         <div class="spacing-small"></div>
                         <div class="menu-item">
-                            <div>
+                            <div class="menu-text">
                                 Am Abend
                             </div>
                         </div>
