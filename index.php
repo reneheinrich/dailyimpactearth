@@ -132,31 +132,45 @@ echo "<!DOCTYPE html>\n"
                     <div id="menu-descr">
                         <div class="spacing-top"></div>
                         <div class="menu-item">
-                            Am Morgen
+                            <div>
+                                Am Morgen
+                            </div>
                         </div>
                         <div class="spacing-small"></div>
                         <div class="menu-item">
-                            Ab zur Arbeit
+                            <div>
+                                Ab zur Arbeit
+                            </div>
                         </div>
                         <div class="spacing-small"></div>
                         <div class="menu-item">
-                            Während der Arbeit
+                            <div>
+                                Während der Arbeit
+                            </div>
                         </div>
                         <div class="spacing-small"></div>
                         <div class="menu-item">
-                            In der Pause
+                            <div>
+                                In der Pause
+                            </div>
                         </div>
                         <div class="spacing-small"></div>
                         <div class="menu-item">
-                            Nach der Arbeit
+                            <div>
+                                Nach der Arbeit
+                            </div>
                         </div>
                         <div class="spacing-small"></div>
                         <div class="menu-item">
-                            Beim Sport
+                            <div>
+                                Beim Sport
+                            </div>
                         </div>
                         <div class="spacing-small"></div>
                         <div class="menu-item">
-                            Am Abend
+                            <div>
+                                Am Abend
+                            </div>
                         </div>
                         <div class="spacing-small"></div>
                         <div class="spacing"></div>
