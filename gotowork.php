@@ -3,7 +3,7 @@
                 <div class="contentcontainer">
                     <h2>Ab zur Arbeit</h2>
                     <div class="fact">
-                        Ein Pendler stößt auf seinem durchschnittlichen Arbeitsweg pro Tag 4,2kg CO2 aus 
+                        Ein Pendler stößt auf seinem durchschnittlichen Arbeitsweg pro Tag 4,2kg CO2 aus. 
                     </div>
                     <div class="cta-products">
                         In der Grafik siehst du wie viel Gramm CO2 pro Personenkilometer ausgestoßen werden. 
