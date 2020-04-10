@@ -3,7 +3,7 @@
                 <div class="contentcontainer">
                     <h2>In der Pause</h2>
                     <div class="fact">
-                        Eine komplett vegane Ernährung verursacht durchschnittlich 2 Tonnen weniger CO2 pro Jahr und Person
+                        Eine komplett vegane Ernährung verursacht durchschnittlich 2 Tonnen weniger CO2 pro Jahr und Person.
                     </div>
                     <div class="cta-products">
                     Das ist in etwa der CO2 Ausstoß von 8 Kurzstreckenflügen. Natürlich möchte nicht jeder komplett vegan oder vegetarisch leben. Aber auch hin und wieder auf Alternativprodukte zurückzugreifen kann einen Unterschied machen. Mehr dazu <a href="https://utopia.de/vegan-treibhausgase-co2-137342/"> hier.</a>
