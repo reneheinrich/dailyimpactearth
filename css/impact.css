@@ -533,7 +533,6 @@ a.active {
     color: white;
 } */
 
-
 .owl-carousel .product img{
     width: 100%;
     margin-bottom: 15px;
@@ -567,6 +566,7 @@ a.active {
     hyphens: auto;
     font-weight: 400;
     margin-top: -20px;
+    line-height: 1.2;
 }
 
 .cta-products{
