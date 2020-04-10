@@ -945,7 +945,7 @@ a.active {
 
 /*desktop view*/
 @media only screen and (orientation: landscape){
-    .contentcontainer h2 {
+    #x_purpouse .contentcontainer h2 {
         width: 100%;
         text-align: center;
         height: 100%;
