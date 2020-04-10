@@ -887,7 +887,7 @@ a.active {
     .graph {
         height: auto;
         max-height: 30vh;
-        width: 40vw;
+        width: 45vw;
     }
 
     .fact {
@@ -898,7 +898,7 @@ a.active {
         }
 
     .owl-carousel .product {
-        
+        width: 40vw;
     }
     .owl-carousel .title {
         font-size: 12px;
@@ -961,7 +961,7 @@ a.active {
 
 /*desktop view*/
 @media only screen and (orientation: landscape){
-    #x_purpouse .contentcontainer h2 {
+    .contentcontainer h2 {
         width: 100%;
         text-align: center;
         height: 100%;
