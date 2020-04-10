@@ -2,7 +2,7 @@
             <div class="darkbg">
                 <div class="contentcontainer">
                     <h2>Während der Arbeit</h2>
-                    <div class="fact">
+                    <div class="fact" style="font-size: calc(11px + 1.2vh);">
                         Während du in Arbeit schwimmst, schwimmt im Pazifik eine Plastikinsel vier Mal so groß wie Deutschland.
                     </div>
                     <div class="cta-products">
