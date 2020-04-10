@@ -887,7 +887,7 @@ a.active {
     .graph {
         height: auto;
         max-height: 30vh;
-        width: 45vw;
+        width: 40vw;
     }
 
     .fact {
@@ -896,6 +896,15 @@ a.active {
         word-wrap: break-word;
    
         }
+
+    .owl-carousel .product {
+        
+    }
+    .owl-carousel .title {
+        font-size: 12px;
+        
+    }
+
 
 }
 
