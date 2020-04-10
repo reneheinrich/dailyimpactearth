@@ -6,7 +6,7 @@
                         Deutschland verbraucht so viel Papier wie die Kontinente Afrika und Südamerika zusammen.
                     </div>
                     <div class="cta-products">
-                        Fast jeder zweite industriell gefällte Baum wird zu Papier verarbeitet, egal ob Zeitungen, Zeitschriften, Geschenkpapier, Verpackungen, Küchentücher oder Toilettenpapier. <a href="https://www.wwf.de/themen-projekte/waelder/papierverbrauch/zahlen-und-fakten/">Mehr Infos</a>
+                        Fast jeder zweite industriell gefällte Baum wird zu Papier verarbeitet, egal ob Zeitungen, Zeitschriften, Geschenkpapier, Verpackungen, Küchentücher oder Toilettenpapier. <a href="https://www.wwf.de/themen-projekte/waelder/papierverbrauch/zahlen-und-fakten/">Mehr Infos.</a>
                     </div>
                     <div class="owl-carousel">
                         <?php
