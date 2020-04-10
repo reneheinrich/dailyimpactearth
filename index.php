@@ -10,6 +10,7 @@ function amzn($url, $imgsrc, $title, $description) {
 }
 
 function share($url, $text, $hashtags) {
+    $text = urlencode($text);
     echo "<div class=\"sharemenu\"><div class=\"share-text\">Teile es mit</div>\n";
     echo "<a href=\"https://www.facebook.com/sharer/sharer.php?u=https://www.dailyimpact.earth/".$url."/&quote=".$text."\">\n";
     echo "<i class=\"fab fa-facebook-square\"></i></a>\n";
