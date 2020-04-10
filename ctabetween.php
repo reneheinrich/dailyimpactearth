@@ -1,4 +1,4 @@
-<div id="x_ctabetween" vs-anchor="ctabetween" class="mainview lastpage">
+<div id="x_ctabetween" data-anchor="ctabetween" class="mainview lastpage">
             <div class="darkbg lastpage">
                     <div class="contentcontainer">
                         <h2>Zusammen die Welt verbessern</h2>

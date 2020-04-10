@@ -1,9 +1,9 @@
-        <div id="x_morning" vs-anchor="morning" class="mainview">
+        <div id="x_morning" data-anchor="morning" class="mainview">
             <div class="darkbg">
                 <div class="contentcontainer">
                     <h2>Am Morgen</h2>
                     <div class="fact">
-                    Eine herkömmliche Plastikflasche braucht ganze 450 Jahre um sich komplett zu zersetzen.
+                    Eine Plastikflasche braucht ganze 450 Jahre um sich komplett zu zersetzen.
 
                 </div>
                     <div class="cta-products">

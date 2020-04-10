@@ -1,4 +1,4 @@
-        <div id="x_sports" vs-anchor="sports" class="mainview">
+        <div id="x_sports" data-anchor="sports" class="mainview">
             <div class="darkbg">
                 <div class="contentcontainer">
                     <h2>Beim Sport</h2>
