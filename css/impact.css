@@ -898,6 +898,11 @@ a.active {
         width: 45vw;
     }
 
+    .graph-tiere {
+        height: 23vh;
+        width: auto;
+    }
+
 
     .fact {
         color: white;
@@ -914,6 +919,7 @@ a.active {
     .owl-carousel .product .title { 
         font-size: 12px !important;
     }
+
 
 
 
