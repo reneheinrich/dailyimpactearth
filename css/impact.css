@@ -903,6 +903,10 @@ a.active {
         width: auto;
     }
 
+    .graph-vertical {
+        width: auto;
+    }
+
 
     .fact {
         color: white;
