@@ -2,7 +2,7 @@
             <div class="darkbg">
                 <div class="contentcontainer">
                     <h2>Während der Arbeit</h2>
-                    <div class="fact">
+                    <div class="fact" style="font-size: calc(11px + 1.2vh);">
                     Jährlich fallen in Deutschland pro Kopf mehr als 20kg Elektroschrott an.                    </div>
                     <div class="cta-products">
                     Speziell die als "Seltene Erden" bekannten Edelmetalle sind durch ihre Abbauverfahren besonders problematisch für die Umwelt und lassen sich nur schwer recyceln. Mit 26kg pro Kopf verursachen die Norweger weltweit den meisten Elektroschrott, ein durchschnittlicher Afrikaner im Vergleich nur 2kg pro Jahr.
