@@ -58,6 +58,8 @@ function finalScore () {
     $("#point-message").html(pointMessage);
 
     if (score >= 4 ) {
+
+        $("head").append(' <meta property="og:image" content="https://dailyimpact.earth/impact-quiz/greta.png"><meta name="twitter:image:src" content="https://dailyimpact.earth/impact-quiz/greta.png"><link rel="image_src" href="https://dailyimpact.earth/impact-quiz/greta.png">');
      
         $("#ergebnis-name").html(endText[2].Name);
         $("#ergebnis-text").html(endText[2].Text);
