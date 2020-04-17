@@ -60,7 +60,6 @@ function finalScore () {
 
     if (score >= 4 ) {
 
-        $("head").append('<meta property="og:image:url" content="https://dailyimpact.earth/impact-quiz/greta2.jpg"/>');
      
         $("#ergebnis-name").html(endText[2].Name);
         $("#ergebnis-text").html(endText[2].Text);
