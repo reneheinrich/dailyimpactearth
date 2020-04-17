@@ -11,6 +11,7 @@ let answers = [];
 
 
 
+
 function showSolution () {
 
     for (let i in quizzContent) {
@@ -59,7 +60,7 @@ function finalScore () {
 
     if (score >= 4 ) {
 
-        $("head").append(' <meta property="og:image" content="https://dailyimpact.earth/impact-quiz/greta.jpg"><meta name="twitter:image:src" content="https://dailyimpact.earth/impact-quiz/greta.jpg"><link rel="image_src" href="https://dailyimpact.earth/impact-quiz/greta.jpg">');
+        $("head").append('<meta property="og:image:url" content="https://dailyimpact.earth/impact-quiz/greta2.jpg"/>');
      
         $("#ergebnis-name").html(endText[2].Name);
         $("#ergebnis-text").html(endText[2].Text);
