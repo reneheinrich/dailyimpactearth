@@ -10,7 +10,7 @@ function amzn($url, $imgsrc, $title, $description) {
 }
 
 function share($url, $text, $hashtags) {
-    $text = urlencode($text);
+    $textEnc = urlencode($text);
     /*echo "<div class=\"sharemenu\"><div class=\"share-text\">Teile es mit</div>\n";
     echo "<a href=\"https://www.facebook.com/sharer/sharer.php?u=https://www.dailyimpact.earth/".$url."/&quote=".$text."\">\n";
     echo "<i class=\"fab fa-facebook-square\"></i></a>\n";
@@ -21,7 +21,7 @@ function share($url, $text, $hashtags) {
     echo "<a href=\"http://twitter.com/share?text=".$text."&url=http://www.dailyimpact.earth/".$url."/&hashtags=".$hashtags."\">\n";
     echo "<i class=\"fab fa-twitter-square\"></i></a>\n";
     echo "</div>\n"; */
-    echo '<div class="sharemenu"><button class="share-button" type="button" title="Teile diesen Fakt" die-target="'.$url.'" die-content="'.$text.'" die-tags="'.$hashtags.'">';
+    echo '<div class="sharemenu"><button class="share-button" type="button" title="Teile diesen Fakt" die-target="'.$url.'" die-content="'.$textEnc.'" die-plain="'.$text.'" die-tags="'.$hashtags.'">';
     echo '<i class="fas fa-share"></i>';
     echo '<span>Teile diese Seite</span>';
     echo '</button></div>\n';
@@ -369,12 +369,13 @@ echo "<!DOCTYPE html>\n"
             console.log(encodeURI($(this).attr('die-content')));
             var target = $(this).attr('die-target');
             var content = $(this).attr('die-content');
+            var plainContent = $(this).attr('die-plain');
             var contentEncoded = content; // php already generates urlencoded version = encodeURIComponent(content);
             var tags = $(this).attr('die-tags');;
             if (navigator.share) { 
                 navigator.share({
                     title: 'Daily Impact',
-                    text: decodeURI(content),
+                    text: plainContent,
                     url: 'https://dailyimpact.earth/'+ target +'/'
                     }).then(() => {
                         console.log('Thanks for sharing!');
