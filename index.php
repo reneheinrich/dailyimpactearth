@@ -24,7 +24,7 @@ function share($url, $text, $hashtags) {
     echo '<div class="sharemenu"><button class="share-button" type="button" title="Teile diesen Fakt" die-target="'.$url.'" die-content="'.$textEnc.'" die-plain="'.$text.'" die-tags="'.$hashtags.'">';
     echo '<i class="fas fa-share"></i>';
     echo '<span>Teile diese Seite</span>';
-    echo '</button></div>\n';
+    echo "</button></div>\n";
 }
 
 echo "<!DOCTYPE html>\n"
