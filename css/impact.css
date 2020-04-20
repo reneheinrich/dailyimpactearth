@@ -686,6 +686,14 @@ button:hover, .button:hover {
     display: block;
     z-index: 2;
 }
+@media only screen and (max-width: 600px) {
+    #share-dialog {
+        left: 0px;
+        transform: translate(15px, -50%);
+        width: 85%;
+        margin-left: 35px;
+    }
+}
 .dialog-title {
     color: #ffffff;
 }
