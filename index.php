@@ -374,7 +374,7 @@ echo "<!DOCTYPE html>\n"
             if (navigator.share) { 
                 navigator.share({
                     title: 'Daily Impact',
-                    text: content,
+                    text: decodeURIComponent(content),
                     url: 'https://dailyimpact.earth/'+ target +'/'
                     }).then(() => {
                         console.log('Thanks for sharing!');
