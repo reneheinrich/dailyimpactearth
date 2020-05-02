@@ -84,10 +84,19 @@
             "Dogs",
             "Porn"
         ];
+        function populate() {
+            $('#x').html(x[Math.floor(Math.random() * x.length)]);
+            $('#y').html(y[Math.floor(Math.random() * y.length)]);
+        }
         $('document').ready(function(){
             $('#generate').click(function(){
-                $('#x').html(x[Math.floor(Math.random() * x.length)]);
-                $('#y').html(y[Math.floor(Math.random() * y.length)]);
+                populate();
+            });
+            $('body').keyup(function(e){
+                if(e.keyCode == 32){
+                    // user has pressed space
+                    populate();
+                }
             });
         });
     </script>
