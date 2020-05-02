@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>X for Y Generator</title>
+        <script
+            src="https://code.jquery.com/jquery-3.4.1.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+        <style>
+            @import url('https://fonts.googleapis.com/css?family=Karla|Montserrat:100,200,300,400,500,600,700,800,900|Arbutus Slab');
+            body {
+                font-family: 'Montserrat', sans-serif;
+                font-size: 20px;
+                font-weight: 300;
+                padding: 10px;
+            }
+            span {
+                display: inline-block;
+                padding: 10px;
+                width: 30vw;
+                background-color: #c0aeeb;
+            }
+            #for {
+                background-color: #dacdf7;
+                text-align: center;
+            }
+            #generate {
+                font-size: 24px;
+                padding: 10px 15px;
+                background-color: #370a97;
+                color: #ffffff;
+                border: 0;
+                border-radius: 5px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>X for Y Generator</h1>
+        
+        <p><span id="x">Test</span><span id="for"> for </span><span id="y">LOL</span></p>
+        <button id="generate">Generate</button>
+    </body>
+    <script>
+        var x = [
+            "Uber",
+            "Facebook",
+            "AirBNB",
+            "Google",
+            "Tesla",
+            "SpaceX",
+            "Apple",
+            "Lieferando",
+            "Zalando",
+            "eBay",
+            "Netflix",
+            "Amazon",
+            "Blockchain"
+        ];
+        var y = [
+            "A.I.",
+            "Video",
+            "Photo",
+            "Fashion",
+            "Shoes",
+            "Fast living goods",
+            "Sustainability",
+            "Blockchain",
+            "Robots"
+        ];
+        $('document').ready(function(){
+            $('#generate').click(function(){
+                $('#x').html(x[Math.floor(Math.random() * x.length)]);
+                $('#y').html(y[Math.floor(Math.random() * y.length)]);
+            });
+        });
+    </script>
+</html>
