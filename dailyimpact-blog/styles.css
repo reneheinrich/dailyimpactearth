@@ -481,6 +481,14 @@ h3 {
   
   }
 
+
+  h3 {
+
+    font-size: calc(12px + 1.5vw);
+
+  
+  }
+
   .li-im-text {
     font-size: calc(12px + 1vw);
     font-weight: 400;
