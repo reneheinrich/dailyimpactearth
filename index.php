@@ -254,7 +254,7 @@ echo "<!DOCTYPE html>\n"
                 <div class="contentcontainer lastpage">
                     <h2>Zusammen die Welt verbessern</h2>
                     <div class="fact lastpage">
-                        Wir hoffen du findest diese Fakten und Infos spannend. <br>Lass uns über unseren Newsletter in Kontakt bleiben!
+                        Wir hoffen du findest diese Fakten und Infos spannend. <br>Lass uns in Kontakt bleiben!
                     </div>
                     <a href="newsletter.html" target="_blank" class="end-button">Klar, mach ich</a>
                     <div class="calltoshare">Teile die Botschaft mit deinen Freunden!</div>
